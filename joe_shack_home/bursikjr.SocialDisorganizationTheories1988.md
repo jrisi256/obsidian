@@ -6,6 +6,9 @@ journal: [Criminology]
 date: 1988
 ---
 
+* **Creation date**: `= this.file.ctime`
+* **Last modified date**: `= this.file.mtime`
+
 ## Metadata
 
 * **Author(s)**: Robert J. Bursik Jr.
@@ -25,4 +28,3 @@ date: 1988
 After a period of decline in the discipline, the social disorganization model of Shaw and McKay is again beginning to appear in the literature. This paper examines five criticisms of the perspective and discusses recent attempts to address those issues and problems that are still in need of resolution.
 
 ## My notes
-
