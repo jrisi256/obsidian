@@ -4,7 +4,7 @@ type: Note
 
 * **Creation date**: `= this.file.ctime`
 * **Last modified date**: `= this.file.mtime`
-* **Tags**: #boox #workflow #device_setup
+* **Tags**: #boox #workflow #device_setup #obsidian #zotero
 
 ## Notes
 
@@ -100,3 +100,10 @@ Let's go back to Onyx Boox. Let's say you have sent the PDF document already to 
 You can, of course, also take notes that are not embedded in the PDF but are standalone files. The process is pretty simple and straightforward. You open the split screen functionality in NeoReader, and you begin taking notes by hand or by typing. The notes will be associated with your PDF. This means if you stop taking notes, and close the app and later come back to it and start writing again, the same note will appear.
 
 The notes will also appear in the *Notes* app (as reading notes rather than local notes). Remember from the beginning that notes in Onyx Boox devices are there own thing, separate from the rest of the file system. As a result, if you want to sync them to your computer, you first must export them. Thankfully, the process for exporting is the same as outlined above because at the end of the day, they are still notes.
+
+## Conclusion and Workflow
+
+* If I am not working on the Onyx Boox device, the workflow is simple. I add the PDFs to my Zotero. I edit them in Zotero adding any annotations I want. I export my annotation notes to Obsidian using Zotero's built-in functionality, Mdnotes, or the Zotero Integration Obsidian plugin. I continue taking notes in Obsidian not tied to any specific annotations.
+	* I think I should keep all my notes in Obsidian so that way I can best leverage the power of Obsidian. This means not taking non-annotation notes in Zotero. I can export them to Obsidian, but it seems like it would get messy in terms of which notes are up-to-date and things like that. It seems cleaner to just do it this way for now.
+* For working on my Onyx Boox device, I need to send the PDF to the tablet. I can then annotate and take notes on the Boox device itself. On my computer, I can pretty easily import the annotations from the Boox device into Zotero and export them as notes into Obsidian. Any written or typed notes will have to be more manually added into Obsidian, but it is still not a big lift all things considered.
+* For taking notes in my diary, I can type or hand write them as I see fit on my Onyx Boox device. Then, it is pretty easy to sync with a computer, and then import into Obsidian.
