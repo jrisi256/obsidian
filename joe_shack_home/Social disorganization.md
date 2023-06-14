@@ -39,7 +39,7 @@ alias: social disorganization
 	* It is the inability of a community to realize the common values of its residents and maintain effective social controls.
 	* Based on the [[systemic model]] which is the idea that a neighborhood is a complex system of friendship and kinship and formal and informal associational ties.
 
-### Collective efficacy advancement
+### Advancements
 
 * [[Robert J. Sampson]] proposes the next big advancement in [[Collective efficacy|collective efficacy]].
 	* Social disorganization faced a lot of criticisms:
@@ -48,6 +48,7 @@ alias: social disorganization
 		* Many neighborhoods (particularly in urban areas) seemed to be able to effectively self-regulate without there being many thick, dense social ties between individuals living in the neighborhood.
 		* Neighborhoods are deeply shaped by external processes, and they do not naturally arise. External political, economic, and social forces come to bear on shaping how neighborhoods grow, evolve, and change.
 	* The goal was to preserve the idea that there is community-level or neighborhood-level variation in rates of crime.
+* [[browningIlluminatingDownsideSocial2009]] -> introduces [[Negotiated coexistence]]. Briefly, it is the idea that collective efficacy loses its protective power when network cohesion is high. Individuals essentially use the social capital they've accumulated in positive interactions with others to shield themselves from sanction.
 
 ### Literature to look at
 
