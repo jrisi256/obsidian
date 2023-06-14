@@ -1,9 +1,9 @@
 ---
 type: Note
-aliases: [social control, Social control, social control theory]
+aliases: ecometrics
 ---
 
 * **Creation date**: `= this.file.ctime`
 * **Last modified date**: `= this.file.mtime`
-* **Tags**: #comps_exam #social_control
+* **Tags**: #social_disorganization #comps_exam 
 

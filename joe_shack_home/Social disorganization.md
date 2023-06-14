@@ -49,6 +49,13 @@ alias: social disorganization
 		* Neighborhoods are deeply shaped by external processes, and they do not naturally arise. External political, economic, and social forces come to bear on shaping how neighborhoods grow, evolve, and change.
 	* The goal was to preserve the idea that there is community-level or neighborhood-level variation in rates of crime.
 * [[browningIlluminatingDownsideSocial2009]] -> introduces [[Negotiated coexistence]]. Briefly, it is the idea that collective efficacy loses its protective power when network cohesion is high. Individuals essentially use the social capital they've accumulated in positive interactions with others to shield themselves from sanction.
+* [[sharkeyWhereWhenWhy2014]] -> Introduce a [[Life course theory|life-course perspective]] into the study of neighborhoods.
+* [[morenoffNeighborhoodInequalityCollective2001]] -> Your neighboring communities matter. Your own community's level of collective efficacy is important, but it is not the only important thing. They also dive into the issues [[browningIlluminatingDownsideSocial2009]] did and explore how the systemic model was not fully adequate.
+* [[sampsonNeighborhoodSocialCapital2009]] -> What is social capital? It is a variety of constructs which can be high in some dimensions but low in others.
+	* Ties and networks
+	* Collective Efficacy (separate from the number of ties, strength of ties, what is your ability to activate those ties to achieve some common good for the community, strong ties can inhibit this)
+	* Organizational involvement
+	* Conduct norms.
 
 ### Literature to look at
 
