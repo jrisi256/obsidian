@@ -18,7 +18,7 @@ date: 2011-01
 * **Issue**: 4
 * **Pages**: 1190-1233
 * **URL**: [https://www.journals.uchicago.edu/doi/10.1086/655754](https://www.journals.uchicago.edu/doi/10.1086/655754)
-* **Tags**: #comps_exam, #criminology, #social_disorganization, #theory_advancement, #to_read
+* **Tags**: #comps_exam, #criminology, #social_disorganization, #theory_advancement
 * **PDF Attachments**:
   * [Kirk_Papachristos_2011_Cultural Mechanisms and the Persistence of Neighborhood Violence.pdf](zotero://open-pdf/library/items/H64TEF87)
 
