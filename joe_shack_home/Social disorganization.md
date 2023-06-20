@@ -56,6 +56,11 @@ alias: social disorganization
 	* Collective Efficacy (separate from the number of ties, strength of ties, what is your ability to activate those ties to achieve some common good for the community, strong ties can inhibit this)
 	* Organizational involvement
 	* Conduct norms.
+* [[kirkCulturalMechanismsPersistence2011]] -> Introduce [[Legal cynicism|legal cynicism]].
+	* People want to live in crime-free neighborhoods where everyone follows the rules. However, they believe law-enforcement mechanisms are corrupt or inept (or both) and cannot guarantee the safety of individuals in the community. Residents feel they have no choice but to result to crime and violence to ensure their well-being.
+	* The persistence of delinquency results not only from structural conditions (i.e., economic status, population heterogeneity, and residential turnover) but also via a process of cultural transmission.
+	* There are no subcultures of the poor where they have different levels of tolerance for violence. Poor people do not like violence and crime just as much as middle class and upper class people.
+	* [[Culture]] is a toolkit for action. Culture provides filters through which we view the world and evaluate what choices we have available to us in any given situation in terms of how we will act.
 
 ### Literature to look at
 
