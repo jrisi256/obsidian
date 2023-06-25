@@ -26,6 +26,7 @@ date: 2009-02-28
 * The [[USA sociology]] tradition emerged with a new *optimism* wherein [[sociology]] was not to be speculative but rigorously [[empirical]] (whether [[quantitative]] or [[qualitative]]) and with this new attitude came the abandonment of the goal of [[reform]] and instead allegiance to [[scientific neutrality]].
 * [[Immigration]] (external and internal), [[industrialization]], and [[urbanization]] caused great upheaval and rapid change. Displaced persons had little opportunity to organize (plus the [[US government]] under [[Woodrow Wilson]] put down [[strikes]] and [[unions]] thus crippling those movements). Additionally [[capitalists]] began to accrue more and more power but also so did the merging [[managerial class]] who emphasized centralized control and [[technocratic]] expertise.
 * Capitalists and managers wanted a stable social climate to conduct business. So this new, liberal class viewed social problems as natural by-products which were to be professionally managed. Chicago school got big boosts in funding from the [[Rockefeller family]]. This, in turn, helped establish UChicago as the center of sociological thought. *Depoliticized social problems* -> naturally caused, technically correctable.
+* ![[context-social-disorganization_crim512.jpg]]
 
   #### Beginnings of SD
   

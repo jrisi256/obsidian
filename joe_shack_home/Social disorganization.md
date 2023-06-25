@@ -37,17 +37,21 @@ alias: social disorganization
 		* When links between community institutions are weak, the capacity of a community to defend its local interests is weakened. Also weakens local social-control functions regarding youth.
 * These factors lead to community social disorganization which in turn increases crime and delinquency.
 	* It is the inability of a community to realize the common values of its residents and maintain effective social controls.
-	* Based on the [[systemic model]] which is the idea that a neighborhood is a complex system of friendship and kinship and formal and informal associational ties.
+	* Based on the [[systemic model]] which is the idea that a neighborhood is a complex system of friendship and kinship and formal and informal associational ties -> communities arise from local networks of organizations, institutions, and residents who work together to uphold common values and shared expectations of behavior [[sharkeyCommunityCrimeDecline2017]].
 
 ### Advancements
 
-* [[Robert J. Sampson]] proposes the next big advancement in [[Collective efficacy|collective efficacy]].
+* [[Robert J. Sampson]] proposes the next big advancement in [[Collective efficacy|collective efficacy]]. Basically collective efficacy mediates the relationship between neighborhood characteristics (e.g., concentrated disadvantage) and violence/crime.
 	* Social disorganization faced a lot of criticisms:
 		* Are disorganized neighborhoods actually disorganized? Is there an organization which is conducive to crime and disorder?
 			* Dense personal ties and networks exist in disordered networks. In fact, they often can facilitate the commission of crime. They do not facilitate the creation of prosocial resources of effective social regulation. Social ties have positive and negative effects, and they are not inherently prosocial and egalitarian.
 		* Many neighborhoods (particularly in urban areas) seemed to be able to effectively self-regulate without there being many thick, dense social ties between individuals living in the neighborhood.
 		* Neighborhoods are deeply shaped by external processes, and they do not naturally arise. External political, economic, and social forces come to bear on shaping how neighborhoods grow, evolve, and change.
 	* The goal was to preserve the idea that there is community-level or neighborhood-level variation in rates of crime.
+	* ![[collective-efficacy_crim512.jpg]]
+	* ![[social-disorganization-1_crim512.jpg]]
+	* ![[social-disorganization-2_crim512.jpg]]
+	* ![[social-disorganization-3_crim512.jpg]]
 * [[browningIlluminatingDownsideSocial2009]] -> introduces [[Negotiated coexistence]]. Briefly, it is the idea that collective efficacy loses its protective power when network cohesion is high. Individuals essentially use the social capital they've accumulated in positive interactions with others to shield themselves from sanction.
 * [[sharkeyWhereWhenWhy2014]] -> Introduce a [[Life course theory|life-course perspective]] into the study of neighborhoods.
 * [[morenoffNeighborhoodInequalityCollective2001]] -> Your neighboring communities matter. Your own community's level of collective efficacy is important, but it is not the only important thing. They also dive into the issues [[browningIlluminatingDownsideSocial2009]] did and explore how the systemic model was not fully adequate.
@@ -61,6 +65,7 @@ alias: social disorganization
 	* The persistence of delinquency results not only from structural conditions (i.e., economic status, population heterogeneity, and residential turnover) but also via a process of cultural transmission.
 	* There are no subcultures of the poor where they have different levels of tolerance for violence. Poor people do not like violence and crime just as much as middle class and upper class people.
 	* [[Culture]] is a toolkit for action. Culture provides filters through which we view the world and evaluate what choices we have available to us in any given situation in terms of how we will act.
+* [[sharkeyCommunityCrimeDecline2017]] -> community organization formation is important in considering the cohesion and ability for neighborhoods to self-regulate. Uses social disorganization theory to help (partially) explain long-term declines in crime across cities (I suppose the argument would go something like cities which are more socially organized as evidenced by a higher number of community-oriented nonprofit organizations experienced greater declines in crime).
 
 ### Literature to look at
 
@@ -68,3 +73,9 @@ alias: social disorganization
 	* ![[starkDeviantPlacesTheory1987.jpg]]
 * See [[snodgrassCliffordShawHenry1976]] for a good background on Shaw & McKay and their background influenced their theorizing and practice.
 * See [[pfohlImagesDevianceSocial2009]] for the social background surrounding the development of social disorganization theory.
+
+### Notes from Darrell Steffensmeier's CRIM512 Class in Fall 2020
+
+* ![[shaw-mckay-model-1_crim512.jpg]]
+* ![[shaw-mckay-model-2_crim512.jpg]]
+* ![[social-disorganization_collective-efficacy_merton_crim512.jpg]]
