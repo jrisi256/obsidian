@@ -50,6 +50,10 @@ date: 2020-10-06
 - Even beyond that point, differential association does not only refer to persons. We learn from people, yes, but we’re learning patterns of behaviors, associations, messages from these people, which we’re about to get into.
   
 - Think about why drug counselors don’t start engaging in deviant drug behavior. They are frequently exposed to drug users often for long durations. However the priority and intensity are quite weak. Additionally, the messages and associations in their life are strongly organized in favor of conformity. Relates to the previous point. Not just about people.
+  
+- Similarly, it is possible to learn criminal patterns and definitions from law abiding persons and vice versa. Criminality (and non-criminality) is learned through association with criminal and non-criminal patterns regardless of the source (the source being criminal or non-criminal persons).
+  
+- People not only learn from what you say but also what you do. 
 
 ### What is meant, specifically, by associations and messages?
 
@@ -118,11 +122,16 @@ A few concluding notes concerning the above example…
     
 An often brought up critique or complaint of differential association/social learning theory is that it cannot be empirically tested let alone measured. It certainly isn’t possible to empirically test the whole theory (much like all sociological theory), but it is possible to test specific hypotheses and empirical implications which would result from the theory. To that end, researchers have ingeniously found a number of ways to measure aspects of the theory.
 
+It is important to note that researchers struggled for a really long time as to how best operationalize and make measurable differential association and social learning. How do you measure someone's *ratio* so to speak at any given time? And how do you quantitatively define a person's history of contact with definitions and patterns?
+
+Other researchers have dealt with (quite conclusively) that measuring contact with people who are criminal or deviant is simply not enough to make someone go on to commit crimes. Anyone who thinks has seriously misread differential association and social learning theory.
+
 1. **Differential peer association**: Measuring the number or proportion of peers involved in delinquency while also measuring modalities (frequency and duration). Important to mention again this isn’t solely peer pressure/peer influence at work.
 2. **Survey measures of definitions**: Through survey responses, one can ascertain one’s internal views concerning the acceptability of various criminal behavior.
 3. **Survey measures of differential reinforcement**: Through survey responses one can measure and understand an individual’s subjective weighing of the rewards/punishments for conforming/rule-breaking.
 4. **Structural equation modeling**: Statistical techniques have been developed to allow for the measurement of unobservable, latent constructs through observable implications of that construct. In this case, it has allowed for researchers to directly get at measures of the differential in differential association.
 5. Additionally, these measures of differential association have been found to hold when other factors of crime are present (race, sex, age, socioeconomic status) and thus help explain to why these factors are typically seen as being explantory factors of crime. E.g. people of less fortunate socioeconomic status have an excess of messages favorable to criminal behavior, masculinity, and in particular the idea of toxic masculinity, promotes messages favorable to criminal behavior.
+6. Akers fleshes out how the learning part actually works.
 
 ## Kornhauser Critique
 
@@ -152,7 +161,7 @@ To conclude, I would like to discuss an important policy implication of differen
 
 * Some theorists took a hard view on the oppositional culture stuff others took a softer view.
 	* Hard view -> subcultures are always oppositional to and distinct from the dominant culture. it has very different norms and values which may lead to a tolerance for crime.
-	* Soft view -> Subcultures are connected to the dominant culture and may take a variety of positions in relation to the dominant culture. Delinquent behavior may have its roots in the dominant culture's ideals which the subculture merely tweaks or extends. The dominant culture's influence over the subculture can be covert and diffuse.
+	* Soft view -> Subcultures are connected to the dominant culture and may take a variety of positions in relation to the dominant culture. Delinquent behavior may have its roots in the dominant culture's ideals which the subculture merely tweaks or extends. The dominant culture's influence over the subculture can be covert and diffuse. See [[sykesTechniquesNeutralizationTheory1957]].
 * ![[steffensmeier_hard-vs-soft-culture_crim512.jpg]]
 
 ### Normative and Cultural Conflict

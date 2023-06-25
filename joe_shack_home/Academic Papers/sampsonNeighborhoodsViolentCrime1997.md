@@ -24,7 +24,7 @@ date: 1997-08-15
 
 ## Abstract
 
-It is hypothesized that collective efficacy, defined as social cohesion among neighbors combined with their willingness to intervene on behalf of the common good, is linked to reduced violence. This hypothesis was tested on a 1995 [[survey]] of 8782 residents of 343 neighborhoods in [[Chicago]], Illinois. [[Multilevel]] analyses showed that a measure of [[collective efficacy]] yields a high between-[[neighborhood]] reliability and is negatively associated with variations in violence, when individual-level characteristics, [[measurement error]], and prior violence are controlled. Associations of [[concentrated disadvantage]] and [[residential instability]] with [[violence]] are largely mediated by collective efficacy.
+It is hypothesized that collective efficacy, defined as social cohesion among neighbors combined with their willingness to intervene on behalf of the common good, is linked to reduced violence. This hypothesis was tested on a 1995 [[survey]] of 8782 residents of 343 neighborhoods in [[Chicago]], Illinois. [[Multilevel modeling]] analyses showed that a measure of [[collective efficacy]] yields a high between-[[neighborhood]] reliability and is negatively associated with variations in violence, when individual-level characteristics, [[measurement error]], and prior violence are controlled. Associations of [[concentrated disadvantage]] and [[residential instability]] with [[violence]] are largely mediated by collective efficacy.
 
 ## My notes
 
