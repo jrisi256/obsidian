@@ -10,7 +10,7 @@ date: 2013
 ## Metadata
 
 * **Author(s)**: Robert J. Sampson
-* **Title**: Great American CIty: Chicago and the Enduring Neighborhood Effect
+* **Title**: Great American City: Chicago and the Enduring Neighborhood Effect
 * **Date of publication**: 2013
 *  **Tags**: #social_disorganization, #criminology, #comps_exam, #crim512, #theory_classic 
 * **PDF Attachments**:

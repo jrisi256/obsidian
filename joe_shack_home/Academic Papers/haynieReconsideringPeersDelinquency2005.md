@@ -36,7 +36,7 @@ This paper examines the contribution of peer relations to delinquency from the p
 	* The opportunity perspective becomes more important if spending more unstructured time with you peers was associated with higher levels of delinquency regardless of the fact that one's peers are delinquent or not.
 
 ![[haynieReconsideringPeersDelinquency2005_hypotheses.png]]
-
+#figure 
 ### What is the research question?
 
 * How do peers matter in regards to delinquency?

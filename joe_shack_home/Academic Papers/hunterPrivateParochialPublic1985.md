@@ -13,7 +13,7 @@ date: 1985
 * **Title**: Private, Parochial and Public Social Orders: The Problem of Crime and Incivility in Urban Communities
 * **Date of publication**: 1985
 * **Pages**: 230-42
-* Tags**: #comps_exam, #crim559, #criminology, #social_disorganization, #theory_classic
+* Tags: #comps_exam, #crim559, #criminology, #social_disorganization, #theory_classic
 * **PDF Attachments**:
   * [Hunter_1985_Private, Parochial and Public Social Orders.pdf](zotero://open-pdf/library/items/KKL55QFC)
 
