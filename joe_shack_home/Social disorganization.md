@@ -5,7 +5,7 @@ alias: social disorganization
 
 * **Creation date**: `= this.file.ctime`
 * **Last modified date**: `= this.file.mtime`
-* **Tags**: #social_disorganization #comps_exam 
+* **Tags**: #social_disorganization #comps_exam #strain_anomie #da_social-learning_theory 
 
 ## Development of theory
 

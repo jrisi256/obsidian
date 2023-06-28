@@ -6,7 +6,7 @@ date: 2020-10-06
 
 * **Creation date**: `= this.file.ctime`
 * **Last modified date**: `= this.file.mtime`
-* **Tags**: #da_social-learning_theory #comps_exam #crim512 
+* **Tags**: #da_social-learning_theory #comps_exam #crim512 #strain_anomie #social_disorganization 
 
 ## Introduction to Sutherland
 

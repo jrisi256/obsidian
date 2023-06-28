@@ -18,7 +18,7 @@ date: 2011
 * **Issue**: 1
 * **Pages**: 95-127
 * **URL**: [https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.2010.00219.x](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.2010.00219.x)
-* **Tags**: #comps_exam, #criminology, #da_social-learning_theory, #theory_advancement #social_control 
+* **Tags**: #comps_exam, #criminology, #da_social-learning_theory, #theory_advancement #social_control #social_network_analysis 
 * **PDF Attachments**:
   * [Kreager et al_2011_Delinquency and the Structure of Adolescent Peer Groups.pdf](zotero://open-pdf/library/items/H7PTVMTY)
 
@@ -47,6 +47,7 @@ Gangs and group-level processes were once central phenomena for criminological t
 	* How tightly connected or cohesive are the groups?
 		* **Reciprocity**, **Transitivity**, **Structural cohesion** (the number of independent paths which hold members in a group together), **Group stability** (how frequently membership in a group shifts over time).
 	* **Average popularity** (how many friendship nominations individual group members receive relative to other students), **Group centrality** (the number of friendship nominations a group receives from other groups compared to the number of friendship nominations it sends to other groups).
+	* [[social network analysis]]. #social_network_analysis 
 	  
 * Data comes from the [[PROSPER]] dataset (Promoting School-Community-University Partnerships to Enhance Resilience).
   
