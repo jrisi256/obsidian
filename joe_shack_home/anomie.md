@@ -1,6 +1,6 @@
 ---
 type: Note
-aliases: [Anomie, strain theory, Strain theory, General strain theory, GST, general strain theory]
+aliases: [Anomie, strain theory, Strain theory, General strain theory, GST, general strain theory, General Strain Theory]
 ---
 
 * **Creation date**: `= this.file.ctime`
@@ -90,4 +90,27 @@ My notes will be coming from a written assignment I did for Darrell's class. For
 * [[agnewFoundationGeneralStrain1992]]
 * ![[slepicka_agnew_strain1.jpg]]
 * [[agnewGeneralStrainTheory1999]]
-* ![[slepicka_agnew_strain2.jpg]]
+* See [[warnerStrainViolenceTesting2003]] for a test of this macro-level strain theory.
+ ![[slepicka_agnew_strain2.jpg]]
+
+### Institutional Anomie Theory
+  
+* Focus on Merton’s explanation of why the United States has such relatively high rates of crime. It’s because we encourage everyone to pursue the goal of monetary success but place little emphasis on the legitimate norms for achieving such success (and also I might add that there is such differential access to the legitimate norms and we encourage the idea that anybody can be as successful as anybody else).
+  
+* Individualism (people are competitors, leads to disregard of normative restraints) and strong achievement orientation (your worth is tied to your success, particularly money, and because money can keep accumulating, there is no end to achievement) and universalism (everyone can climb the ladder of success).
+  
+* They extend Merton’s theory by arguing the cultural emphasis on monetary success is paralleled by the fact that the economy dominates the major institutions in our society. Interferes with the effective functioning of these other institutions. Are the basic values and organization of our society responsible for our high crime rate?
+  
+* **Four main institutions** - economy, political body, family and education. Very interconnected and implies some degree of coordination and cooperation is necessary for them to all function. Of course, conflict can arise as well. Different institutions have different normative orientations and thus demand things which may be in conflict with the others. Resulting configuration is also emblematic of the larger culture and is indeed mutually reinforcing with culture.
+  
+* Let’s look at the culture necessary for a capitalist country like the USA to function. Private property owners must be profit-oriented and willing to invest. Workers must be willing to exchange their labor for a wage. Thus, an attraction to monetary reward as a result of competition and achievement in the marketplace must be widely held in the people. It also cultivates an “innovative” spirit, whatever is needed to gain an edge. Unique to the USA is exaggerated emphasis on monetary success and unrestrained receptivity to innovation.
+  
+* Why has this happened? The other institutions cannot control the economy. Not inherent to capitalism, they argue (Germany, Japan, Switzerland).
+	* Devaluation of non-economic institutional functions (education is mostly seen for its value in helping students become better situated to compete in the economy, typical family roles of nurturing, parenting aren’t valued, governments should maximize individual’s ability to pursue their own happiness i.e. monetary success).
+	* Accommodation to economic requirements by other institutions (family routines dominated by labor market demands e.g. no maternity leave or universal child-care, education… politicians must make their areas hospitable to investment...)
+	* Penetration of economic norms into other institutions (schools have a grading system, political body… family…)
+	  
+* Thus the American Dream contributes to high levels of crime in two important ways: directly creates an anomic normative order (an environment in which social norms are unable to exert a strong regulatory force on the members of society). Indirectly by contributing to an institutional imbalance of power that inhibits the development of strong mechanisms of external social control.
+	* “Significant reductions in crime will not result from reforms limited to the criminal justice system, which is itself shaped in important ways by the same cultural and social forces that produce high rates of crime. Nor will reforms that widen access to legitimate opportunities for persons locked out bring relief from the crimes of those who are locked in to the American Dream who are exposed to its limitless imperatives without any moderating social forces…” #quote 
+	  
+* See [[maumeSocialInstitutionsViolence2003]] for the best empirical test we have of this theory. 
