@@ -1,6 +1,6 @@
 ---
 type: Note
-aliases: [Anomie, strain theory, Strain theory]
+aliases: [Anomie, strain theory, Strain theory, General strain theory, GST, general strain theory]
 ---
 
 * **Creation date**: `= this.file.ctime`
@@ -80,14 +80,14 @@ My notes will be coming from a written assignment I did for Darrell's class. For
 	* [[Multilevel modeling]].
 	* Both are using macro-level variables... collective traits of the community... collective efficacy gets at its measurements by aggregating individual responses. And Merton in the 1964 piece advocates for a similar approach.
 	* Going back to [[starkDeviantPlacesTheory1987]] diagram... what could we add? Anomie and collective efficacy in the middle column. In the first column, make it concentrated poverty.
-
-<mark>Blau and Blau -> Reflects anomie and not so much social disorganization. Emphasis on inequality. In social disorganization the emphasis on poverty. For Merton and anomie, it's poverty in the midst of plenty, it's inequality. Especially true in the USA. Anyway, find support for their hypothesis.</mark>
-
-Criticisms: Ignore cultural characteristics or rather the norms in the community. They ignore the mediating variables.
-
-Also, no consistent support for their hypothesis. People find conflicting results. -> Talk about Land's article for a little bit and how Blau and Blau don't account for collinearity -> ALSO use a global measure of inequality AND use a global measure of violence. You have to disaggregate.
+* [[blauCostInequalityMetropolitan1982]]
+	* Reflects anomie and not so much social disorganization. Emphasis on inequality. In social disorganization the emphasis on poverty. For Merton and anomie, it's poverty in the midst of plenty, it's inequality. Especially true in the USA. Anyway, find support for their hypothesis.
+	* Criticisms: Ignore cultural characteristics or rather the norms in the community. They ignore the mediating variables.
+	* Also, no consistent support for their hypothesis. People find conflicting results. -> Talk about Land's article for a little bit and how Blau and Blau don't account for collinearity -> ALSO use a global measure of inequality AND use a global measure of violence. You have to disaggregate.
 
 ### Connections to Strain Theory from Robert Agnew
 
+* [[agnewFoundationGeneralStrain1992]]
 * ![[slepicka_agnew_strain1.jpg]]
+* [[agnewGeneralStrainTheory1999]]
 * ![[slepicka_agnew_strain2.jpg]]
