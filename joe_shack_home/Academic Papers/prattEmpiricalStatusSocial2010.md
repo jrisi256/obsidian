@@ -36,7 +36,7 @@ Social learning theory has remained one of the core criminological paradigms ove
 
 * It is hard for us as a discipline to discard theories. Lots of non-scientific reasons why this may happen. However, even scientifically, we have problems. Theories are are stated discursively rather than as a series of formal, testable propositions. Datasets do not always contain measures which allow for complete tests of a theory.
   
-* Advances in the way meta-analyses are done. Typically, they had been done in a narrative fashion. The reviewer(s) read a large number of studies and concludes how supportive or not they are of the theory in question.
+* Advances in the way meta-analyses are done. Typically, they had been done using  [[narrative reviews]]. The reviewer(s) read a large number of studies and concludes how supportive or not they are of the theory in question.
 	* Mitigates concerns of investigator bias.
 	* More clear and transparent criteria of how a study got included in the review (although it seems like narrative studies could include this).
 	* More systematic way of dealing with a large body of information.
@@ -44,7 +44,7 @@ Social learning theory has remained one of the core criminological paradigms ove
   
 * Narrative studies, the few prior true meta-analyses and evaluation research on programs designed to change offender attitudes (Cognitive Behavioral Therapy) all argue differential association and social learning are important.
   
-* There is always the problem of "garbage in, garbage out". There is also the issue of publication bias. They deal with it, somewhat unsatisfactorily on page 772 or page 9 of the PDF in footnote 2.
+* There is always the problem of "garbage in, garbage out". There is also the issue of [[publication bias]]. They deal with it, somewhat unsatisfactorily on page 772 or page 9 of the PDF in footnote 2.
 
 ### Methods
 

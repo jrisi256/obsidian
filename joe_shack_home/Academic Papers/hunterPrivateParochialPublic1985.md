@@ -13,7 +13,7 @@ date: 1985
 * **Title**: Private, Parochial and Public Social Orders: The Problem of Crime and Incivility in Urban Communities
 * **Date of publication**: 1985
 * **Pages**: 230-42
-* Tags: #comps_exam, #crim559, #criminology, #social_disorganization, #theory_classic
+* Tags: #comps_exam, #crim559, #criminology, #social_disorganization, #theory_classic #social_control 
 * **PDF Attachments**:
   * [Hunter_1985_Private, Parochial and Public Social Orders.pdf](zotero://open-pdf/library/items/KKL55QFC)
 
@@ -34,4 +34,3 @@ date: 1985
 		* **The solution**: "The solution to the dilemma is not for the state to engage in direct social control, that is, to attempt to increase its efficiency in catching criminals; but engage in social control activities in conjunction with the state and parochial order." #quote
 	* There is a real-world, [[spatial]], physical component to all of these social orders too.
 	* <mark>I wonder how the author would respond to pieces which finds the thickness of ties does not always impede criminality.</mark> #highlight 
-
