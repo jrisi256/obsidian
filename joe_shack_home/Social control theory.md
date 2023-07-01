@@ -62,7 +62,7 @@ aliases: [social control, Social control, social control theory]
 ## Introduction to Self-Control
 
 * Early childhood and parenting models (supervision/monitoring, recognize deviant behavior, effectively sanction) -> [[self-control ]]-> crime. Opportunity is somewhere in here too. It becomes a stable, lifelong characteristic or a character trait. Not going to develop as you get older.
-* See [[gottfredsonGeneralTheoryCrime1990]] and [[prattEmpiricalStatusGottfredson2000]].
+* See [[gottfredsonGeneralTheoryCrime1990]], [[prattEmpiricalStatusGottfredson2000]], and [[naCanSelfControlChange2012]] for good overviews of the theory.
 
 ### Definition of self-control
 

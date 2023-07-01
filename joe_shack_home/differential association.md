@@ -19,7 +19,7 @@ date: 2020-10-06
 3. How do you create good theory? How do theories do a good job?
 	1. **Logical Abstraction** -> Gather all the established facts together and work out the abstract concept which binds them all together/explains them.
 	2. **Differential levels of explanation** -> Theory has to remain abstract. It cannot explain everything all at once. Therefore hold certain things constant and establish bounds on what the theory is supposed to explain.
-	3. **Analytic Induction**
+	3. **[[Analytic induction]]**
 		1. Define the universe trying to be explained.
 		2. Formulate a tentative hypothesis.
 		3. If you find a case that doesn’t fit, discard the hypothesis or narrow the universe.

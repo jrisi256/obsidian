@@ -1,7 +1,7 @@
 ---
 type: [Book]
 author: [Michael  R. Gottfredson, Travis Hirschi]
-journal: date: 1990
+date: 1990
 ---
 
 * **Creation date**: `= this.file.ctime`
