@@ -7,6 +7,8 @@ aliases: [Labeling theory]
 * **Last modified date**: `= this.file.mtime`
 * **Tags**: #comps_exam #labeling_theory 
 
+See [[Labeling Theory Pt. 2]] which contains all of this information condensed.
+
 ## Outline of Labeling Theory
 
 ### Thesis Statement of Lemert’s Labeling/Symbolic Interactionist Theory
@@ -61,6 +63,8 @@ This will explain how the societal response and individual deviancy interact.
 
 ## Notes from CRIM512 Class
 
+### Week 12
+
 * Big emphasis on social control and the importance of understanding what it means. **Big three**: social control, social change, stratification -> how is social order possible?
 	* **Pointing out that views on social control don't consider the byproducts of social control, AND they also don't consider social control is negotiated.** Counterpoint to utility-maximization model of economics (society isn't solely coercive and man isn't solely responding to incentives based on fear and self-interest).
 	  
@@ -97,3 +101,89 @@ This will explain how the societal response and individual deviancy interact.
 	* Things like ADHD and autism become quite tricky.
 		* "The Making of the Blind Man", how blind are blind people? Blind people can be made to believe they're more blind than they actually are or on the other hand, we stigmatize blind people so much we don't realize how capable and independent they can be.
 	* How much of labeling theory is also an implicit moral theory? Despite Lemert advocating for a more objective, scientific approach.
+
+### Week 14
+
+* Earlier research looks at the deviant, it's just as important (if not more important) to look at the audience and how they're reacting to really understand deviant behavior in society -> decision-making process of what is and isn't criminal is a negotiated PROCESS -> Darrell's paper on shoplifting -> Who gets labeled? Depends on who you are and how visible your actions are. Race effect, place effects.
+  
+* Joel Best, Casey Harris, Social construction of deviancy. Media. What we consider problems of deviancy? How do we come to determine what is and is not deviant? How do social movements come about which determine what the social problems of the day are?
+  
+* Lofland -> Fear, power, different sizes of the groups, how well organized. Also affects who gets labeled.
+  
+* Criticism of labeling theory -> Doesn't take into account power -> Rejoinder -> Power is negotiated, nuanced -> Lemert is very complicated, Sampson/Laub (random factors). The simplistic theories are more satisfying but maybe less... useful?
+  
+* Primary vs. Secondary Deviation -> Chp. 4 "Social Pathology", Lindesmith (Relapse, Drug Addiction). Secondary deviation (big part is getting involved with deviant subcultures, think of drug addicts on the street vs. doctor drug addicts), collateral consequences (people making claims on you, you are stuck, choice with constraint) -> example mentioned below, driver's license revoked but you need to get to work so you have to take more risks just to maintain the status quo.
+  
+* Process! -> Lofland (Threat -> Encapsulation -> Deviance). Protect your identity and the groups you're a part of. Threat on your self-conception.
+  
+* Lemert's notion of choice and risk-taking. People make claims on you as a person. Creates options or set of alternatives for you to do. But others are closed off. This a process -> dynamic and emergent as you go along. Driver's license revoked but you have to get to work so you continue to drive anyway -> Vague weighing of costs and benefits -> this further can drive you into deviancy.
+  
+* Durkheim -> Deviance is "normal" in society.
+  
+* Official vs. informal sanctions -> Leading to labeling and stigmatization -> Chiricos piece -> labeling/stigmatization effects has differential impacts based on your social category (perhaps White-American offenders are more afraid of the felon label than African-American offenders.)
+  
+* Wade -> processual unfolding -> you are with your buddies, crime not planned, things escalate.
+
+* Three P's:
+	* **Processual**: Went over this above.
+	* **Proximate**: Situational, foreground factors (sneaky thrills, getting over on somebody, importance of one's identity "badass").
+	* **Phenomenological**: Looking at the behavior from the point of the view of the offender.
+	  
+* Give a historical analysis of the times and how the symbolic interactionist tradition is responding to earlier Sociology but also society becomes less trusting of authority, government, formal social control measures.
+  
+* Lofland -> Internal and external limits. What's objectively and subjectively available.
+  
+* Drawing on distinction between labeling theory and deterrence theory. European, Asian nations are much less punitive and much more reintegrative and much more restorative.
+
+## Darrell Steffensmeier's Notes + Handouts from CRIM512 Class
+
+### Conflict Theory
+
+![[steffensmeier_crim512_conflict_theory.jpg]]
+
+### Overview of labeling theory - Week 12
+
+![[steffensmeier_crim512_labeling_1.jpg]]
+
+![[steffensmeier_crim512_labeling_2.jpg]]
+
+![[steffensmeier_crim512_labeling_3.jpg]]
+
+### Extensions of Labeling Theory - Week 14
+
+* Labeling theory -> Lofland extension
+	* Building on John Lofland. Deviance and Identity.
+	* Three - P’s - proximate, processual, phenomenological
+	* “Interactionist” gets at “black box” problem: what’s in-between begin and end points.
+		  
+	* Assumption via SI: Humans organize their actions toward one another and toward themselves as objects on the basis of categories such as sex, age, race, occupation, kin relation, etc
+			* Human action possibilities are associated with their kind of person:
+				* “a nice girl doesn’t do that sort of thing”
+				* “as businessman, if can’t maintain a business or social location, then suicide"
+			* Behind categorical designations, man is an enormously fragile being.
+			* Threat thus can be attached to occurrences which forebode loss of prestigious and proper occupancy of one’s categories.
+			  
+	* Distinguishes Between (as determined by actor’s experience):
+	  
+		* Phases leading to Deviant/Acts:
+			* Defensive deviant act = sense of threat is felt and becomes a key experience around which Actor organizes his action.
+				* Possible physical destruction or harm... _physical well being_ (economist).
+				* Possible social destruction -> to the kind of object he perceives himself to be and has been believed to be by others significant to him/her... appraisal of others, reputation-status (sociologist)
+			* Adventurous deviant act = sense of positive experiences or perception of enchanting possibilities -> e.g., some vandalism, fighting, drugs, sexual deviance.
+			* May also be a combination of two.
+				  
+		* Phases of the Defensive Deviant Act
+					* Threat (most discussion is here)
+						* Individual variations to vulnerability to threat -> (biographical, culture, etc)
+					* Encapsulation = availability/awareness of options or alternative acts to select from.
+				  
+	* Facilitants include:
+		* Actor’s previous experience with the occurrence.
+		* Degree of active social support for responsive actions.
+		* Access to places, hardware, others.
+		* 
+	* Closure -> act or actions most immediately available and performable (in terms of facilitative places, hardware, and contacts/others).
+		* depends on range and character of set of acts from which to select.
+		* connects to what is objectively possible (esp as delineated).
+
+![[steffensmeier_week14_lecture.pdf]]

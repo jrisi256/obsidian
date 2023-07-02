@@ -68,6 +68,7 @@ The above come from class notes and not my original assignment:
 * **Conduct norms** -> Definitions of rightness/wrongness of certain behaviors, variation in the strength of the norms amongst groups of people. These norms are going to be more or less favorable to criminal behavior. E.g. "shared" conception of the appropriateness of violence.
   
 * **Sanctions** - Part of how strongly or weakly organized the messages of anti-criminal behavior are. White collar crime -> weak sanctions, lots of neutralizations, friends won't turn you in, weakly/ambiguous enforcement, neutral or even positive stereotypes.
+  
 * **Attitudes/Beliefs about the law**
 	* Normative conflict -> differential social organization -> organizations strongly/weakly organized for/against pro-social and anti-social behavior -> involves sanctions as well -> but also the norms at the individual level, what's required of you (anticipated rewards and punishments from the different groups you're a part of).
 
@@ -92,6 +93,8 @@ Now, of course, even in organizations which promote conforming, prosocial behavi
 I’d like to take a moment to clarify that messages can be communicated verbally and explicitly, but they’re also communicated implicitly through actions and us interpreting the content of those actions in terms of the ideas latent in them. E.g. think of a child who sees their otherwise law-abiding, norm adhering father hit his mother in an act of domestic abuse. The father may disavow violence, but his actions teach the child a different message.
 
 ## Describing the Marijuana User
+
+[[beckerOutsidersStudiesSociology1963]]
 
 One can imagine somebody trying to smoke marijuana for the first time. They’ll be afraid because of official sanctions but also unofficial sanctions. They’ll be afraid they will turn into the popular stereotype of a marijuana user. There may be other things they’ll be afraid of as well. Regardless, exposure to enough counter-messages and associations from friends and peers will convince them to try it. To assuage their fears, they’ll engage in some neutralization techniques to convince themselves they aren’t the stereotype and thus won’t receive the unofficial sanctions (e.g. I’ll just try it once, all my friends are trying it and they’re not stereotypes).
 
