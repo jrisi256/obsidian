@@ -120,7 +120,7 @@ This will explain how the societal response and individual deviancy interact.
   
 * Durkheim -> Deviance is "normal" in society.
   
-* Official vs. informal sanctions -> Leading to labeling and stigmatization -> Chiricos piece -> labeling/stigmatization effects has differential impacts based on your social category (perhaps White-American offenders are more afraid of the felon label than African-American offenders.)
+* Official vs. informal sanctions -> Leading to labeling and stigmatization -> [[chiricosLabelingConvictedFelons2007]] -> labeling/stigmatization effects has differential impacts based on your social category (perhaps White-American offenders are more afraid of the felon label than African-American offenders.)
   
 * Wade -> processual unfolding -> you are with your buddies, crime not planned, things escalate.
 
@@ -137,7 +137,7 @@ This will explain how the societal response and individual deviancy interact.
 
 ## Darrell Steffensmeier's Notes + Handouts from CRIM512 Class
 
-### Conflict Theory
+### [[conflict theory]]
 
 ![[steffensmeier_crim512_conflict_theory.jpg]]
 

@@ -10,7 +10,7 @@ See [[labeling theory]] for part 1. It is based on a final paper assignment I di
 
 ## Class 1 - Lemert
 
-### Background and Context for Lemert and the Interactionist Labelling Perspective
+### Background and Context for Lemert and the Interactionist Labeling Perspective
     
 Lemert was responding to the current state of Sociology at the time. He was calling out the **moralistic undertones** which undergirded its study. Early Sociologists often came from rural, small-town America and usually with a Protestant upbringing. This perspective informed their work, guided their research, helped them determine what ailed society, and led them to solutions.
     
