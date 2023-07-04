@@ -45,7 +45,7 @@ With his theory of differential association, [[Sutherland]] attempted to identif
 ### Theoretical Developments and Empirical Research
 
 * “Perhaps the most serious criticism of differential association is that it cannot be tested empirically.” Perhaps… but it’s often hard to test whole-hog most sociological theories. What can be tested are specific hypotheses and empirical implications.
-* “Another criticism on safer ground argues differential association, as a process, cannot be observed or measured.” So some people have turned to [[survey]] instruments to measure a person’s learned definitions of law violation. [[Structural equation modelling]]. Covariance structure analysis. Simultaneous equation models -> All are getting at, I think, how we can measure unobservable, latent constructs through observable implications of that construct while controlling for random variation due to the randomness and messiness of human life.
+* “Another criticism on safer ground argues differential association, as a process, cannot be observed or measured.” So some people have turned to [[survey]] instruments to measure a person’s learned definitions of law violation. [[Structural equation modeling]]. Covariance structure analysis. Simultaneous equation models -> All are getting at, I think, how we can measure unobservable, latent constructs through observable implications of that construct while controlling for random variation due to the randomness and messiness of human life.
 
 ### Theory Revision
 

@@ -56,7 +56,7 @@ Basically, the biggest disagreement between the theories is if the **definitions
 
 ### The Model
 
-* Uses [[Structural equation modelling]].
+* Uses [[Structural equation modeling]].
 
 * Four background variables (age, parents’ socioeconomic status, broken home, perceptions of trouble in neighborhood). Under DA, these variables affect parental supervision and peer relationships and definitions favorable/unfavorable to crime.
   
