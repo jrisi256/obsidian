@@ -72,6 +72,6 @@ We examine the deterrent effect of arrest in incidents of spouse abuse. The data
 	* Are employment and marriage just measures of social control? Likely not.
 	* Omitted variable bias for interaction effects.
 	* The authors, thus, do not think any theoretical explanation of the variables from the social control or labeling tradition can shed any light on the findings here.
-	* Chalk up the findings to [[deterrence theory]] that employed persons are likely good options for people to arrest. Unemployed persons are less good options for people to arrest.
+	* Chalk up the findings to [[Deterrence theory]] that employed persons are likely good options for people to arrest. Unemployed persons are less good options for people to arrest.
 	* **There are no policy implications which can be drawn from the study except to say that arrests (depending on the person) does not always lead to a beneficial outcome.** -> However, the authors also do not suggest that their results provide evidence for abandoning arrests as a policy, either.
 		* Also, how can we operationalize the findings if we took them at face value? Should we really only arrest employed people? Would that stand up in court? How do you determine if someone is actually employed?
