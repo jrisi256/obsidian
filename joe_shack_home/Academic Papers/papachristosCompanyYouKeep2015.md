@@ -18,7 +18,7 @@ date: 2015
 * **Issue**: 4
 * **Pages**: 624-649
 * **URL**: [https://onlinelibrary.wiley.com/doi/abs/10.1111/1745-9125.12091](https://onlinelibrary.wiley.com/doi/abs/10.1111/1745-9125.12091)
-* **Tags**: #comps_exam , #criminology, #da_social-learning_theory, #theory_advancement #gangs #social_network_analysis 
+* **Tags**: #comps_exam , #criminology, #da_social-learning_theory, #theory_advancement , #social_network_analysis 
 * **PDF Attachments**:
   * [papachristosCompanyYouKeep2015.pdf](zotero://open-pdf/library/items/XPGTKYVC)
 
