@@ -9,10 +9,13 @@ aliases: [Instrumental variable]
 
 ## Assumptions
 
-* **Relevance condition**: Instrument has to induce a change in the endogeneous independent variable of interest and this change has to translate into a sufficiently strong correlation between them.
+* **Relevance condition**: Instrument has to induce a change in the endogenous independent variable of interest and this change has to translate into a sufficiently strong correlation between them.
 * **Exogeneity condition**: Changes in the instrumental variable should be uncorrelated with prior trends in the dependent variable. I.e., it should be the case that the values that the instrument takes on are quasi-randomly assigned (conditional on other variables in the model).
 * **Exclusion restriction**: The instrument can only affect the dependent variable through the main independent variable.
 * You will be estimating the [[Local Average Treatment Effect]] or LATE since the causal estimate is only estimated for the subset of observations for which the instrument induces a change in the independent variable.
+* Typically estimated using [[two stage least-squares regression]] or 2SLS regression. 
+	* First, a regression model is estimated where the endogenous variable is the dependent variable, and the IV is the independent variable.
+	* This estimated amount of exogenous variation is then used to estimate the causal effect of the endogenous variable (original independent variable of interest which is potentially subject to confounding bias) on the original dependent variable of interest in the second equation.
 
 ## Related papers
 
