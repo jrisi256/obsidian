@@ -36,13 +36,13 @@ How can we improve inferences concerning racial bias in policing behavior? Our t
 	  
 * [Go to annotation](zotero://open-pdf/library/items/HTTI4RFG?page=14.2&annotation=HXZAQ4RY) “In the present context, the issue is that simplifying assumptions made about police behavior are likely to lead to faulty inferences about the presence or absence of discrimination. As we show, the most commonly used tests—simple forms of the benchmark and outcome tests—are so vulnerable to the problems of oversimplification that they should not be used. But the threat is more general, as all tests of discrimination face these challenges to varying degrees. The implication is that many of our tests of discrimination are not likely giving us the right answer... ” ([Neil and Winship, 2019, p. 14.2](zotero://select/library/items/WTXS6ATF))
 
-### The Benchmark Test
+### The [[Benchmark Test]]
 
 What would rates of police contact look like if there was no discrimination? Use race-specific risk sets often called the denominator (even if it isn't always a denominator). E.g. Black civilians are arrested at twice the rate of White civilians when adjusting for violent crime. This would mean Arrest Rate / Violent Crime Rate. Because Black civilians have a higher arrest rate even after adjusting for the assumed risk set (violent crime), this is evidence of discrimination.
 
 * [Go to annotation](zotero://open-pdf/library/items/HTTI4RFG?page=14.2&annotation=6P5RJGSN)
 
-### Outcome (Hit-Rate) Test
+### [[Outcome Test]] (Hit-Rate)
 
 If Black civilians have a lower hit rate or accuracy, this means officers are using something else other than objective evidence to search them (presumably discrimination). Or it takes less (and presumably because it's lesser evidence or less evidence, it's less accurate) to search a Black civilian because officers are primed to believe ahead of time they're more likely to be carrying contraband.
 
@@ -138,7 +138,7 @@ Stated more plainly, absent discrimination, why would you suspect the stopped po
 
 * [Go to annotation](zotero://open-pdf/library/items/HTTI4RFG?page=14.9&annotation=E9QVY6TZ) “The source of the problem is that the numerator (stops) contains both innocent and criminal people, but the denominator contains only the criminal people.” ([Neil and Winship, 2019, p. 14.9](zotero://select/library/items/WTXS6ATF))
   
-### Simpson's Paradox
+### [[Simpson's Paradox]]
 
 When you disaggregate/aggregate data inappropriately.
 
@@ -172,7 +172,7 @@ We assume police behavior is the same across some strata of some relevant variab
 
 * [Go to annotation](zotero://open-pdf/library/items/HTTI4RFG?page=14.13&annotation=UB5G7D4S) “When the police behave differently across the strata of some variable, but a researcher’s analysis uses data that ignores and aggregates across this distribution, Simpson’s paradox threatens to give outcome statistics that are inconsistent with reality.” ([Neil and Winship, 2019, p. 14.13](zotero://select/library/items/WTXS6ATF))
 
-### Infra-marginality
+### [[Infra-marginality]]
 
 The data clearly demonstrates Black civilians have a lower threshold for being searched, but it also appears to be the case that the hit rate for Black civilians is higher than that for White civilians (suggesting the threshold for searching White civilians is the one that's lower). What gives?
 
