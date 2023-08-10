@@ -1,0 +1,20 @@
+---
+type: Note
+---
+
+* **Creation date**: `= this.file.ctime`
+* **Last modified date**: `= this.file.mtime`
+* **Tags**: #soc_597_drugs #drugs #cj_system 
+
+One piece of criticism I would like to offer up concerns the [[alexanderNewJimCrow2012]] reading, and it comes by the way of [[linnemannThisYourFace2013]]. In chapter 5, Alexander comments that, unlike during the Jim Crow era, White Americans have become collateral damage in the War on Drugs. White Americans caught in the dragnet of drug enforcement are largely there to pay lip service to the idea that the laws are not racially discriminatory as if to say, “If these laws were racially discriminatory, how come White people are also getting arrested and incarcerated at elevated levels?”
+
+While it may be true that White Americans were not the primary target, I think it is incorrect to categorize them as collateral damage. I think Alexander missed a great opportunity to dig into the overall punitive shift American policy took during this time period mostly towards Black Americans, but towards White Americans who did not fit the mold of Whiteness. Alexander brings up the fact that MAAD emerged during this time and implicitly argues that because perpetrators of drunk driving were White, the penalties inscribed in law for drunk driving were much lesser than penalties for drug crimes (conceived of as a Black problem). This is, of course, a very important point to bring up, and this differential response can also be seen in this week’s other reading by [[netherlandWhiteOpioidsPharmaceutical2017]]. However, a key point which was missed was that the group’s primary policy solution was to criminalize the behavior.
+
+One particular quote stands out from Alexander, “The criminalization of white men would disturb us to the core.” (pg. 200). Linnemann and Wall (2013) demonstrate how white (people) have been criminalized, though. This, to me, does not seem like merely collateral damage. The meth users described in Linnemann and Wall (2013) do serious ideological and symbolic work in upholding the punitive philosophy of the War on Drugs. Despite the meth users being mostly White, similar rhetorical strategies are employed to discount them (i.e., individual choice, violent criminals), and then strip them of their white status, “... giving up the esteemed value of white privilege and bourgeois sensibilities in general.” (Linnemann and Wall pg. 325). The broader phenomenon being touched on here, the increasing punitiveness and policing (construed broadly) of American society, would have been valuable to touch on and elaborate upon. 
+
+Some other stray questions/critiques/musings:  
+  
+
+- I wish Alexander spent some time: A) breaking down the complex legal jargon (e.g., why do chokehold victims not have standing to bring their case to court), and B) spent more time identifying the actors responsible for the War on Drugs. In such structural analyses, individual responsibility seems to both become too diffuse but also the work of evil puppet masters (e.g., she makes it seem as if the Reagan administration snapped its fingers and the media apparatus bent to their will on painting drug users as Black).
+    
+* Something that I had trouble agreeing with from the Linnemann and Wall piece was this quote, “... it can be argued that much of the collective impulse to view and punish these ‘faces’ springs from the longing for the ‘sacred suspension of ordinary rules’ and a secret admiration of the transgressive—the enduring human fascination with forbidden people, places and things.” (pg. 327). I may be wrong, but this quote seems to contain much of the logic behind [[biopower]] (a concept I struggled with in week 2). Individuals need to be disciplined so they do not succumb to transgressive acts. However, can this not also be a good thing? Does it not save and prevent many people from becoming addicted to drugs which is a terrible fate?

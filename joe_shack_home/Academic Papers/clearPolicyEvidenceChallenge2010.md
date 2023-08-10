@@ -76,7 +76,7 @@ Four main problems in the criminal justice system in the USA:
 
 ### Development of new and big ideas
 
-* Justice reinvestment policy -> an idea where reduced rates of incarceration would lead to a portion of the savings to be reinvested in those communities whose residents make the highest contribution to the incarceration rate. The author is explicit about how this is a great policy.
+* [[Justice reinvestment]] policy -> an idea where reduced rates of incarceration would lead to a portion of the savings to be reinvested in those communities whose residents make the highest contribution to the incarceration rate. The author is explicit about how this is a great policy.
 	* The evidence base includes no RCTs.
 	* RCTs are, of course, important to guiding the implementation of the policy.
 	  
