@@ -18,7 +18,7 @@ date: 2014-02-01
 * **Issue**: 1
 * **Pages**: 83-104
 * **URL**: [https://doi.org/10.1525/sp.2013.12056](https://doi.org/10.1525/sp.2013.12056)
-* **Tags**: #comps_exam, #criminology, #crim501, #policing
+* **Tags**: #comps_exam, #crim501, #policing #racial_inequality 
 * **PDF Attachments**:
   * [smithPoliceUseExcessive2014.pdf](zotero://open-pdf/library/items/VR3EH8ZF)
 

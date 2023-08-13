@@ -12,7 +12,7 @@ date: 1975
 * **Author(s)**: Richard Quinney
 * **Title**: Criminology: Analysis and Critique of Crime in America
 * **Date of publication**: 1975
-* **Tags**: #comps_exam, #conflict_theory, #crim512, #criminology, #labeling_theory, #theory_classic
+* **Tags**: #comps_exam, #conflict_theory, #crim512, #labeling_theory, #theory_classic
 * **PDF Attachments**:
   * [quinneyCriminologyAnalysisCritique1975.pdf](zotero://open-pdf/library/items/HSTEHXJY)
 

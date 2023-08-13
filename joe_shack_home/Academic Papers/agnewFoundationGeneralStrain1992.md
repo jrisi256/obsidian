@@ -18,7 +18,7 @@ date: 1992
 * **Issue**: 1
 * **Pages**: 47-88
 * **URL**: [https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.1992.tb01093.x](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.1992.tb01093.x)
-* **Tags**: #comps_exam, #crim512, #criminology, #strain_anomie, #theory_classic #social_control #da_social-learning_theory 
+* **Tags**: #comps_exam, #crim512, #strain_anomie, #theory_classic #social_control #da_social-learning_theory 
 * **PDF Attachments**:
   * [agnewFoundationGeneralStrain1992.pdf](zotero://open-pdf/library/items/NX6LNVJ9)
 

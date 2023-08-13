@@ -18,7 +18,7 @@ date: 2010
 * **Issue**: 1
 * **Pages**: 1-25
 * **URL**: [https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.2010.00178.x](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.2010.00178.x)
-* **Tags**: #comps_exam, #criminology, #crime_policy, #cj_system
+* **Tags**: #comps_exam, #crime_policy, #cj_system
 * **PDF Attachments**:
   * [clearPolicyEvidenceChallenge2010.pdf](zotero://open-pdf/library/items/IG5EUJJM)
 

@@ -18,7 +18,7 @@ date: 2009-07-01
 * **Issue**: 11
 * **Pages**: 1579-1605
 * **URL**: [https://doi.org/10.1177/0002764209331527](https://doi.org/10.1177/0002764209331527)
-* **Tags**: #comps_exam, #crim559, #criminology, #social_disorganization, #theory_advancement
+* **Tags**: #comps_exam, #crim559, #social_disorganization, #theory_advancement
 * **PDF Attachments**:
   * [Sampson_Graif_2009_Neighborhood Social Capital as Differential Social Organization.pdf](zotero://open-pdf/library/items/SPH4RECN)
 

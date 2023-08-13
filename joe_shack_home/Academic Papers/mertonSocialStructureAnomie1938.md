@@ -18,7 +18,7 @@ date: 1938
 * **Issue**: 5
 * **Pages**: 672-682
 * **URL**: [https://www.jstor.org/stable/2084686](https://www.jstor.org/stable/2084686)
-* **Tags**: #comps_exam #crim512 #criminology #strain_anomie #theory_classic 
+* **Tags**: #comps_exam #crim512 #strain_anomie #theory_classic 
 * **PDF Attachments**:
   * [mertonSocialStructureAnomie1938.pdf](zotero://open-pdf/library/items/9QIEZPUC)
 

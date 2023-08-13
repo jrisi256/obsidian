@@ -18,7 +18,7 @@ date: 1979
 * **Issue**: 4
 * **Pages**: 588-608
 * **URL**: [https://www.jstor.org/stable/2094589](https://www.jstor.org/stable/2094589)
-* **Tags**: #comps_exam, #crim512, #criminology, #routine_activities, #theory_classic
+* **Tags**: #comps_exam, #crim512, #routine_activities, #theory_classic
 * **PDF Attachments**:
   * [cohenSocialChangeCrime1979.pdf](zotero://open-pdf/library/items/U6VFAHI4)
 

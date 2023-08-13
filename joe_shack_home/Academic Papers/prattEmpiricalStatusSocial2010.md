@@ -18,7 +18,7 @@ date: 2010-12-01
 * **Issue**: 6
 * **Pages**: 765-802
 * **URL**: [https://doi.org/10.1080/07418820903379610](https://doi.org/10.1080/07418820903379610)
-* **Tags**: #comps_exam, #criminology, #da_social-learning_theory, #theory_advancement
+* **Tags**: #comps_exam, #da_social-learning_theory, #theory_advancement
 * **PDF Attachments**:
   * [prattEmpiricalStatusSocial2010.pdf](zotero://open-pdf/library/items/3TJ4XAYG)
 

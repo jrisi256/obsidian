@@ -18,7 +18,7 @@ date: 2014
 * **Issue**: 1
 * **Pages**: 87-116
 * **URL**: [https://onlinelibrary.wiley.com/doi/abs/10.1111/1745-9125.12030](https://onlinelibrary.wiley.com/doi/abs/10.1111/1745-9125.12030)
-* **Tags**: #comps_exam, #criminology, #social_control, #theory_advancement
+* **Tags**: #comps_exam, #social_control, #theory_advancement
 * **PDF Attachments**:
   * [prattSelfControlVictimizationMetaAnalysis2014.pdf](zotero://open-pdf/library/items/7D6Y672B)
 

@@ -18,7 +18,7 @@ date: 1996
 * **Issue**: 4
 * **Pages**: 635-655
 * **URL**: [https://www.jstor.org/stable/2096397](https://www.jstor.org/stable/2096397)
-* **Tags**: #comps_exam, #criminology, #routine_activities, #theory_classic
+* **Tags**: #comps_exam, #routine_activities, #theory_classic
 * **PDF Attachments**:
   * [osgoodRoutineActivitiesIndividual1996.pdf](zotero://open-pdf/library/items/5DXFPC52)
 

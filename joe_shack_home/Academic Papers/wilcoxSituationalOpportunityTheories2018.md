@@ -18,7 +18,7 @@ date: 2018
 * **Issue**: 1
 * **Pages**: 123-148
 * **URL**: [https://doi.org/10.1146/annurev-criminol-032317-092421](https://doi.org/10.1146/annurev-criminol-032317-092421)
-* **Tags**: #comps_exam, #crim512, #criminology, #routine_activities, #theory_advancement
+* **Tags**: #comps_exam, #crim512, #routine_activities, #theory_advancement
 * **PDF Attachments**:
   * [wilcoxSituationalOpportunityTheories2018.pdf](zotero://open-pdf/library/items/C8GGP558)
 

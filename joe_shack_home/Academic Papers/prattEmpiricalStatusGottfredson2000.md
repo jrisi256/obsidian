@@ -18,7 +18,7 @@ date: 2000
 * **Issue**: 3
 * **Pages**: 931-964
 * **URL**: [https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.2000.tb00911.x](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.2000.tb00911.x)
-* **Tags**: #comps_exam, #crim512, #criminology, #social_control, #theory_classic
+* **Tags**: #comps_exam, #crim512, #social_control, #theory_classic
 * **PDF Attachments**:
   * [Pratt_Cullen_2000_The Empirical Status of Gottfredson and Hirschi's General Theory of Crime.pdf](zotero://open-pdf/library/items/N5AW4TE4)
 

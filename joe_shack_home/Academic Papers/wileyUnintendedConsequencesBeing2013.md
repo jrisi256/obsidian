@@ -18,7 +18,7 @@ date: 2013
 * **Issue**: 4
 * **Pages**: 927-966
 * **URL**: [https://onlinelibrary.wiley.com/doi/abs/10.1111/1745-9125.12024](https://onlinelibrary.wiley.com/doi/abs/10.1111/1745-9125.12024)
-* **Tags**: #comps_exam, #criminology, #labeling_theory, #theory_advancement
+* **Tags**: #comps_exam, #labeling_theory, #theory_advancement
 * **PDF Attachments**:
   * [wileyUnintendedConsequencesBeing2013.pdf](zotero://open-pdf/library/items/YVG85WGF)
 
@@ -81,9 +81,11 @@ Early labeling theorists were dismissed due to the lack of empirical findings up
 ### Limitations and Policy Considerations
 
 * Omitted variable bias still a concern.
+  
 * *Interesting policy recommendations* to say the least:
 	* How does contact with the police transform into worse grades? Absence from school? Differential treatment by teachers? Need to address this.
 	* Programs designed at changing attitudes and views around crime.
 	* **Do not recommend** programs designed to help them make more prosocial friends or engage in more prosocial activities.
 		* Instead, curtail their associations with deviant peers.
+		  
 * Why do some individuals undergo a labeling transformation?

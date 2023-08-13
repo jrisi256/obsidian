@@ -18,7 +18,7 @@ date: 2019-09-01
 * **Issue**: 3
 * **Pages**: 289-311
 * **URL**: [https://doi.org/10.1007/s11292-019-09372-3](https://doi.org/10.1007/s11292-019-09372-3)
-* **Tags**: #comps_exam, #criminology, #policing
+* **Tags**: #comps_exam, #policing #hot_spots_policing
 * **PDF Attachments**:
   * [bragaHotSpotsPolicing2019.pdf](zotero://open-pdf/library/items/SFQ4HQ6W)
 

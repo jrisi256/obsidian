@@ -18,7 +18,7 @@ date: 2019
 * **Issue**: 1
 * **Pages**: 73-98
 * **URL**: [https://doi.org/10.1146/annurev-criminol-011518-024731](https://doi.org/10.1146/annurev-criminol-011518-024731)
-* **Tags**: #comps_exam, #criminology, #fairness_-bias, #policing, #soc513
+* **Tags**: #comps_exam, #fairness_-bias, #policing, #soc513
 * **PDF Attachments**:
   * [neilMethodologicalChallengesOpportunities2019.pdf](zotero://open-pdf/library/items/HTTI4RFG)
 

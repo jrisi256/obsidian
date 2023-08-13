@@ -18,7 +18,7 @@ date: 2009-09-01
 * **Issue**: 3
 * **Pages**: 377-409
 * **URL**: [https://doi.org/10.1080/07418820802506180](https://doi.org/10.1080/07418820802506180)
-* **Tags**: #comps_exam, #crim512, #criminology, #social_control, #theory_advancement
+* **Tags**: #comps_exam, #crim512, #social_control, #theory_advancement #racial_inequality 
 * **PDF Attachments**:
   * [unneverRacialDiscriminationHirschi2009.pdf](zotero://open-pdf/library/items/CD7XB5C6)
 

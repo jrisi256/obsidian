@@ -18,7 +18,7 @@ date: 2013
 * **Issue**: 4
 * **Pages**: 895-926
 * **URL**: [https://onlinelibrary.wiley.com/doi/abs/10.1111/1745-9125.12023](https://onlinelibrary.wiley.com/doi/abs/10.1111/1745-9125.12023)
-* **Tags**: #comps_exam, #crim559, #criminology, #theory_advancement, #routine_activities
+* **Tags**: #comps_exam, #crim559, #theory_advancement, #routine_activities
 * **PDF Attachments**:
   * [bernascoSituationalCausesOffending2013.pdf](zotero://open-pdf/library/items/2R2GQHLC)
 

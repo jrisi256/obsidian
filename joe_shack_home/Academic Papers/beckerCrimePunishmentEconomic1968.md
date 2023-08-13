@@ -18,7 +18,7 @@ date: 1968
 * **Issue**: 2
 * **Pages**: 169-217
 * **URL**: [https://www.jstor.org/stable/1830482](https://www.jstor.org/stable/1830482)
-* **Tags**: #comps_exam, #criminology, #deterrence_rational_choice, #theory_classic
+* **Tags**: #comps_exam, #deterrence_rational_choice, #theory_classic
 * **PDF Attachments**:
   * [beckerCrimePunishmentEconomic1968.pdf](zotero://open-pdf/library/items/BMHU9ZV7)
 

@@ -4,7 +4,7 @@ type: Note
 
 * **Creation date**: `= this.file.ctime`
 * **Last modified date**: `= this.file.mtime`
-* **Tags**: #comps_exam #criminology #routine_activities 
+* **Tags**: #comps_exam #routine_activities 
 
 ## Assignments from Darrell Steffensmeier's CRIM512 class
 

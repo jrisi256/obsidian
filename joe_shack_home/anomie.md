@@ -5,7 +5,7 @@ aliases: [Anomie, strain theory, Strain theory, General strain theory, GST, gene
 
 * **Creation date**: `= this.file.ctime`
 * **Last modified date**: `= this.file.mtime`
-* **Tags**: #comps_exam #criminology #strain_anomie #social_disorganization #da_social-learning_theory 
+* **Tags**: #comps_exam #strain_anomie #social_disorganization #da_social-learning_theory 
 
 ## Written assignment for Darrell's CRIM512 class
 

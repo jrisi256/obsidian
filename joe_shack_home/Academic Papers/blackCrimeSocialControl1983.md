@@ -18,7 +18,7 @@ date: 1983
 * **Issue**: 1
 * **Pages**: 34-45
 * **URL**: [https://www.jstor.org/stable/2095143](https://www.jstor.org/stable/2095143)
-* **Tags**: #comps_exam, #crim512, #criminology, #social_control, #theory_classic
+* **Tags**: #comps_exam, #crim512, #social_control, #theory_classic
 * **PDF Attachments**:
   * [blackCrimeSocialControl1983.pdf](zotero://open-pdf/library/items/JS47TM7D)
 

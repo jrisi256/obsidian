@@ -17,7 +17,7 @@ date: 2013-08
 * **Volume**: 42
 * **Issue**: * **Pages**: 199-263
 * **URL**: [https://www.journals.uchicago.edu/doi/10.1086/670398](https://www.journals.uchicago.edu/doi/10.1086/670398)
-* **Tags**: #comps_exam, #criminology, #deterrence_rational_choice, #theory_advancement
+* **Tags**: #comps_exam, #deterrence_rational_choice, #theory_advancement
 * **PDF Attachments**:
   * [naginDeterrenceTwentyFirstCentury2013.pdf](zotero://open-pdf/library/items/NW767IWZ)
 

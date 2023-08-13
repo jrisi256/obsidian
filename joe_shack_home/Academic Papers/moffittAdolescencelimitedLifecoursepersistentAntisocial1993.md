@@ -17,7 +17,7 @@ date: 1993
 * **Volume**: 100
 * **Issue**: 4
 * **Pages**: 674-701
-* **Tags**: #comps_exam, #criminology, #theory_classic, #crim512, #life_course
+* **Tags**: #comps_exam, #theory_classic, #crim512, #life_course
 * **PDF Attachments**:
   * [moffittAdolescencelimitedLifecoursepersistentAntisocial1993.pdf](zotero://open-pdf/library/items/EJCPRL5G)
 

@@ -18,7 +18,7 @@ date: 2019
 * **Issue**: 1
 * **Pages**: 171-200
 * **URL**: [https://onlinelibrary.wiley.com/doi/abs/10.1111/1745-9133.12424](https://onlinelibrary.wiley.com/doi/abs/10.1111/1745-9133.12424)
-* **Tags**: #comps_exam, #criminology, #policing
+* **Tags**: #comps_exam, #policing
 * **PDF Attachments**:
   * [kaplanMoreCopsFewer2019.pdf](zotero://open-pdf/library/items/YZLSNTRQ)
 

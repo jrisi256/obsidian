@@ -18,7 +18,7 @@ date: 2015
 * **Issue**: 1
 * **Pages**: 1-22
 * **URL**: [https://onlinelibrary.wiley.com/doi/abs/10.1111/1745-9125.12063](https://onlinelibrary.wiley.com/doi/abs/10.1111/1745-9125.12063)
-* **Tags**: #comps_exam, #criminology, #cj_system
+* **Tags**: #comps_exam, #cj_system
 * **PDF Attachments**:
   * [belknapActivistCriminologyCriminologists2015.pdf](zotero://open-pdf/library/items/7IXKVCCJ)
 

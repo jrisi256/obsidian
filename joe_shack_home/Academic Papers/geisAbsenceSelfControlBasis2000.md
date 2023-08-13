@@ -18,7 +18,7 @@ date: 2000-02-01
 * **Issue**: 1
 * **Pages**: 35-53
 * **URL**: [https://doi.org/10.1177/1362480600004001002](https://doi.org/10.1177/1362480600004001002)
-* **Tags**: #comps_exam, #crim512, #criminology, #social_control, #theory_classic
+* **Tags**: #comps_exam, #crim512, #social_control, #theory_classic
 * **PDF Attachments**:
   * [geisAbsenceSelfControlBasis2000.pdf](zotero://open-pdf/library/items/ZNBG6RVH)
 

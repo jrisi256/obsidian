@@ -4,7 +4,7 @@ type: Note
 
 * **Creation date**: `= this.file.ctime`
 * **Last modified date**: `= this.file.mtime`
-* **Tags**: #cj_system #criminology #crime_policy #comps_exam #crim_597_sentencing #crim501 #mass_incarceration #determinants_of_mass_incarceration 
+* **Tags**: #cj_system #crime_policy #comps_exam #crim_597_sentencing #crim501 #mass_incarceration #determinants_of_mass_incarceration 
 
 ## Related papers
 

@@ -18,7 +18,7 @@ date: 1996
 * **Issue**: 2
 * **Pages**: 229-247
 * **URL**: [https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.1996.tb01204.x](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.1996.tb01204.x)
-* **Tags**: #comps_exam #crim512 #criminology #da_social-learning_theory #theory_classic 
+* **Tags**: #comps_exam #crim512 #da_social-learning_theory #theory_classic 
 * **PDF Attachments**:
   * [Akers_1996_Is Differential Association-Social Learning Cultural Deviance Theory.pdf](zotero://open-pdf/library/items/3JU4FDJS)
 

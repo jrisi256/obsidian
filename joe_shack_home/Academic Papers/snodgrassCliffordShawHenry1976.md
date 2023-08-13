@@ -18,7 +18,7 @@ date: 1976
 * **Issue**: 1
 * **Pages**: 1-19
 * **URL**: [https://www.jstor.org/stable/23636249](https://www.jstor.org/stable/23636249)
-* **Tags**: #crim512, #criminology, #social_disorganization
+* **Tags**: #crim512, #social_disorganization
 * **PDF Attachments**:
   * [Snodgrass_1976_Clifford R.pdf](zotero://open-pdf/library/items/8CZL66DC)
 

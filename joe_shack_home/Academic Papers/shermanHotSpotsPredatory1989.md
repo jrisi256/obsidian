@@ -18,7 +18,7 @@ date: 1989
 * **Issue**: 1
 * **Pages**: 27-56
 * **URL**: [https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.1989.tb00862.x](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.1989.tb00862.x)
-* **Tags**: #comps_exam, #criminology, #theory_classic, #routine_activities
+* **Tags**: #comps_exam, #theory_classic, #routine_activities
 * **PDF Attachments**:
   * [shermanHotSpotsPredatory1989.pdf](zotero://open-pdf/library/items/BRT5MTRQ)
 

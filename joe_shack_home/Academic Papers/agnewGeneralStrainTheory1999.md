@@ -18,7 +18,7 @@ date: 1999-05-01
 * **Issue**: 2
 * **Pages**: 123-155
 * **URL**: [https://doi.org/10.1177/0022427899036002001](https://doi.org/10.1177/0022427899036002001)
-* **Tags**: #comps_exam, #crim512, #crim559, #criminology, #strain_anomie, #theory_classic #social_disorganization #social_control #da_social-learning_theory 
+* **Tags**: #comps_exam, #crim512, #crim559, #strain_anomie, #theory_classic #social_disorganization #social_control #da_social-learning_theory 
 * **PDF Attachments**:
   * [agnewGeneralStrainTheory1999.pdf](zotero://open-pdf/library/items/Q3KTIZ2U)
 

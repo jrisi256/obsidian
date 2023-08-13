@@ -14,7 +14,7 @@ date: 1964
 * **Date of publication**: 1964
 * **Pages**: 1-56
 * **URL**: [http://archive.org/details/anomiedeviantbeh00clin](http://archive.org/details/anomiedeviantbeh00clin)
-* **Tags**: #comps_exam, #crim512, #criminology, #strain_anomie, #theory_classic
+* **Tags**: #comps_exam, #crim512, #strain_anomie, #theory_classic
 * **PDF Attachments**:
   * [clinardTheoreticalImplicationsAnomie1964.pdf](zotero://open-pdf/library/items/EAW44YZA)
 

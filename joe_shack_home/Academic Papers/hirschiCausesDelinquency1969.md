@@ -12,7 +12,7 @@ date: 1969
 * **Author(s)**: Travis Hirschi
 * **Title**: Causes of Delinquency
 * **Date of publication**: 1969
-* **Tags**: #comps_exam, #crim512, #criminology, #social_control, #theory_classic
+* **Tags**: #comps_exam, #crim512, #social_control, #theory_classic
 * **PDF Attachments**:
   * [Hirschi_1969_Causes of Delinquency.pdf](zotero://open-pdf/library/items/H4UBTUK4)
 

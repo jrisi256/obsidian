@@ -18,7 +18,7 @@ date: 2012
 * **Issue**: 2
 * **Pages**: 329-358
 * **URL**: [https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.2011.00262.x](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.2011.00262.x)
-* **Tags**: #comps_exam, #criminology, #theory_advancement, #life_course, #crim501
+* **Tags**: #comps_exam, #theory_advancement, #life_course, #crim501
 * **PDF Attachments**:
   * [kirkResidentialChangeTurning2012.pdf](zotero://open-pdf/library/items/K987JZ5U)
 

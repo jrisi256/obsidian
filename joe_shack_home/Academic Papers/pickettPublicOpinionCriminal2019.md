@@ -18,7 +18,7 @@ date: 2019
 * **Issue**: 1
 * **Pages**: 405-428
 * **URL**: [https://doi.org/10.1146/annurev-criminol-011518-024826](https://doi.org/10.1146/annurev-criminol-011518-024826)
-* **Tags**: #comps_exam, #criminology, #cj_system #survey #public_opinion
+* **Tags**: #comps_exam, #cj_system #survey #public_opinion
 * **PDF Attachments**:
   * [pickettPublicOpinionCriminal2019.pdf](zotero://open-pdf/library/items/TX97D6VI)
 

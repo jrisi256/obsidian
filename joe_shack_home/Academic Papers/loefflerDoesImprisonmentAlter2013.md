@@ -18,7 +18,7 @@ date: 2013
 * **Issue**: 1
 * **Pages**: 137-166
 * **URL**: [https://onlinelibrary.wiley.com/doi/abs/10.1111/1745-9125.12000](https://onlinelibrary.wiley.com/doi/abs/10.1111/1745-9125.12000)
-* **Tags**: #comps_exam, #criminology, #theory_advancement, #life_course
+* **Tags**: #comps_exam, #theory_advancement, #life_course #random_judges
 * **PDF Attachments**:
   * [loefflerDoesImprisonmentAlter2013.pdf](zotero://open-pdf/library/items/BI38PXMI)
 

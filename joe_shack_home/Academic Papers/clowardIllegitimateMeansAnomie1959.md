@@ -18,7 +18,7 @@ date: 1959
 * **Issue**: 2
 * **Pages**: 164-176
 * **URL**: [https://www.jstor.org/stable/2089427](https://www.jstor.org/stable/2089427)
-* **Tags**: #comps_exam, #crim512, #criminology, #strain_anomie, #theory_classic #da_social-learning_theory #social_disorganization 
+* **Tags**: #comps_exam, #crim512, #strain_anomie, #theory_classic #da_social-learning_theory #social_disorganization 
 * **PDF Attachments**:
   * [clowardIllegitimateMeansAnomie1959.pdf](zotero://open-pdf/library/items/YL39YPAL)
 

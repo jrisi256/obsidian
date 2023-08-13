@@ -18,7 +18,7 @@ date: 1983
 * **Issue**: 3
 * **Pages**: 552-584
 * **URL**: [https://www.jstor.org/stable/2779005](https://www.jstor.org/stable/2779005)
-* **Tags**: #comps_exam, #criminology, #theory_classic, #crim512, #life_course
+* **Tags**: #comps_exam, #theory_classic, #crim512, #life_course
 * **PDF Attachments**:
   * [hirschiAgeExplanationCrime1983.pdf](zotero://open-pdf/library/items/WDAQC364)
 

@@ -18,7 +18,7 @@ date: 2019
 * **Issue**: 1
 * **Pages**: 241-264
 * **URL**: [https://doi.org/10.1146/annurev-criminol-011518-024551](https://doi.org/10.1146/annurev-criminol-011518-024551)
-* **Tags**: #comps_exam, #criminology, #da_social-learning_theory, #theory_advancement, #routine_activities #social_control #symbolic_interactionism 
+* **Tags**: #comps_exam, #da_social-learning_theory, #theory_advancement, #routine_activities #social_control #symbolic_interactionism 
 * **PDF Attachments**:
   * [mcgloinPeerInfluenceDelinquency2019.pdf](zotero://open-pdf/library/items/DD2LVGCJ)
 

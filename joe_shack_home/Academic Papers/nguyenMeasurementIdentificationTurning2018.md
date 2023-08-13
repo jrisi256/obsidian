@@ -18,7 +18,7 @@ date: 2018
 * **Issue**: 1
 * **Pages**: 335-358
 * **URL**: [https://doi.org/10.1146/annurev-criminol-032317-091949](https://doi.org/10.1146/annurev-criminol-032317-091949)
-* **Tags**: #comps_exam, #criminology, #theory_advancement, #life_course
+* **Tags**: #comps_exam, #theory_advancement, #life_course
 * **PDF Attachments**:
   * [nguyenMeasurementIdentificationTurning2018.pdf](zotero://open-pdf/library/items/QV9WRTNX)
 

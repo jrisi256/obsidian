@@ -18,7 +18,7 @@ date: 2016
 * **Issue**: 1
 * **Pages**: 86-112
 * **URL**: [https://onlinelibrary.wiley.com/doi/abs/10.1111/1745-9125.12097](https://onlinelibrary.wiley.com/doi/abs/10.1111/1745-9125.12097)
-* **Tags**: #comps_exam, #criminology, #deterrence_rational_choice, #theory_advancement
+* **Tags**: #comps_exam, #deterrence_rational_choice, #theory_advancement
 * **PDF Attachments**:
   * [loughranCanRationalChoice2016.pdf](zotero://open-pdf/library/items/9TNFMY4Q)
 

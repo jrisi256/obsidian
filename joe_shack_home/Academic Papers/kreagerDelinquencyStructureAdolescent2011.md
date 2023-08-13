@@ -18,7 +18,7 @@ date: 2011
 * **Issue**: 1
 * **Pages**: 95-127
 * **URL**: [https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.2010.00219.x](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.2010.00219.x)
-* **Tags**: #comps_exam, #criminology, #da_social-learning_theory, #theory_advancement #social_control #social_network_analysis 
+* **Tags**: #comps_exam, #da_social-learning_theory, #theory_advancement #social_control #social_network_analysis 
 * **PDF Attachments**:
   * [kreagerDelinquencyStructureAdolescent2011.pdf](zotero://open-pdf/library/items/RZERB7MU)
 

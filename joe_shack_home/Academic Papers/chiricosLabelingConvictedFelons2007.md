@@ -18,7 +18,7 @@ date: 2007
 * **Issue**: 3
 * **Pages**: 547-581
 * **URL**: [https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.2007.00089.x](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.2007.00089.x)
-* **Tags**: #comps_exam, #crim512, #criminology, #labeling_theory, #theory_advancement
+* **Tags**: #comps_exam, #crim512, #labeling_theory, #theory_advancement
 * **PDF Attachments**:
   * [chiricosLabelingConvictedFelons2007.pdf](zotero://open-pdf/library/items/SHVJ4EX6)
 

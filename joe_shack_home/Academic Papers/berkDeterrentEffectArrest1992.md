@@ -18,7 +18,7 @@ date: 1992
 * **Issue**: 5
 * **Pages**: 698-708
 * **URL**: [https://www.jstor.org/stable/2095923](https://www.jstor.org/stable/2095923)
-* **Tags**: #comps_exam, #criminology, #deterrence_rational_choice, #theory_classic
+* **Tags**: #comps_exam, #deterrence_rational_choice, #theory_classic
 * **PDF Attachments**:
   * [berkDeterrentEffectArrest1992.pdf](zotero://open-pdf/library/items/JST3W8WQ)
 

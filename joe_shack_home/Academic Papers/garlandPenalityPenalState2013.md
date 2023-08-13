@@ -18,7 +18,7 @@ date: 2013
 * **Issue**: 3
 * **Pages**: 475-517
 * **URL**: [https://onlinelibrary.wiley.com/doi/abs/10.1111/1745-9125.12015](https://onlinelibrary.wiley.com/doi/abs/10.1111/1745-9125.12015)
-* **Tags**: #comps_exam, #criminology, #crim501, #cj_system
+* **Tags**: #comps_exam, #crim501, #cj_system
 * **PDF Attachments**:
   * [garlandPenalityPenalState2013.pdf](zotero://open-pdf/library/items/E74JZGLK)
 

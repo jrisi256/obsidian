@@ -18,7 +18,7 @@ date: 2016
 * **Issue**: 1
 * **Pages**: 57-66
 * **URL**: [https://onlinelibrary.wiley.com/doi/abs/10.1111/1745-9133.12175](https://onlinelibrary.wiley.com/doi/abs/10.1111/1745-9133.12175)
-* **Tags**: #comps_exam, #crime_policy, #criminology, #deterrence_rational_choice, #theory_advancement
+* **Tags**: #comps_exam, #crime_policy, #deterrence_rational_choice, #theory_advancement
 * **PDF Attachments**:
   * [apelDeterrentEffectStop2016.pdf](zotero://open-pdf/library/items/7S4I4EZA)
 

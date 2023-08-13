@@ -13,7 +13,7 @@ journal: date: 2015
 * **Title**: Taking Criminal Opportunity Seriously: An Actor-Centered Approach
 * **Date of publication**: 2015
 * **Journal**: * **Volume**: * **Issue**: * **Pages**: 361-98
-* **URL**: * **Tags**: #comps_exam, #criminology, #theory_advancement, #crim512, #routine_activities
+* **URL**: * **Tags**: #comps_exam, #theory_advancement, #crim512, #routine_activities
 * **PDF Attachments**:
   * [steffensmeierTakingCriminalOpportunity2015.pdf](zotero://open-pdf/library/items/XCKAZKYZ)
 

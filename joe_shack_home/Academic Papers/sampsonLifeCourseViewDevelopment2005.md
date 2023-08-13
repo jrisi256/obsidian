@@ -18,7 +18,7 @@ date: 2005-11-01
 * **Issue**: 1
 * **Pages**: 12-45
 * **URL**: [https://doi.org/10.1177/0002716205280075](https://doi.org/10.1177/0002716205280075)
-* **Tags**: #comps_exam, #criminology, #theory_classic, #crim512, #life_course
+* **Tags**: #comps_exam, #theory_classic, #crim512, #life_course
 * **PDF Attachments**:
   * [sampsonLifeCourseViewDevelopment2005.pdf](zotero://open-pdf/library/items/T7Q6ZNX2)
 

@@ -13,7 +13,7 @@ date: 1972
 * **Title**: Human Deviance, Social Problems, and Social control
 * **Date of publication**: 1972
 * **URL**: [http://archive.org/details/humandeviancesoc0000leme](http://archive.org/details/humandeviancesoc0000leme)
-* **Tags**: #comps_exam, #crim512, #criminology, #labeling_theory, #theory_classic
+* **Tags**: #comps_exam, #crim512, #labeling_theory, #theory_classic
 * **PDF Attachments**:
   * [lemertHumanDevianceSocial1972.pdf](zotero://open-pdf/library/items/YFMZMKZC)
 

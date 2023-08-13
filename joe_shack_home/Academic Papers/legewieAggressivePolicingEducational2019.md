@@ -18,7 +18,7 @@ date: 2019-04-01
 * **Issue**: 2
 * **Pages**: 220-247
 * **URL**: [https://doi.org/10.1177/0003122419826020](https://doi.org/10.1177/0003122419826020)
-* **Tags**: #comps_exam, #criminology, #policing
+* **Tags**: #comps_exam, #policing, #racial_inequality 
 * **PDF Attachments**:
   * [legewieAggressivePolicingEducational2019.pdf](zotero://open-pdf/library/items/CSM5Y7WN)
 

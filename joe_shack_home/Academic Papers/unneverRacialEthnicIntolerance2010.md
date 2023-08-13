@@ -18,7 +18,7 @@ date: 2010
 * **Issue**: 3
 * **Pages**: 831-864
 * **URL**: [https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.2010.00203.x](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.2010.00203.x)
-* **Tags**: #cross_national, #death_penalty, #public_opinion, #racial_threat
+* **Tags**: #cross_national, #death_penalty, #public_opinion, #racial_threat #crim_597_sentencing 
 * **PDF Attachments**:
   * [unneverRacialEthnicIntolerance2010.pdf](zotero://open-pdf/library/items/B954AV78)
 

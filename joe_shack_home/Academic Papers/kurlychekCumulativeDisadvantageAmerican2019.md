@@ -18,7 +18,7 @@ date: 2019
 * **Issue**: 1
 * **Pages**: 291-319
 * **URL**: [https://doi.org/10.1146/annurev-criminol-011518-024815](https://doi.org/10.1146/annurev-criminol-011518-024815)
-* **Tags**: #comps_exam, #criminology, #cj_system
+* **Tags**: #comps_exam, #cj_system
 * **PDF Attachments**:
   * [kurlychekCumulativeDisadvantageAmerican2019.pdf](zotero://open-pdf/library/items/V94UHFPD)
 

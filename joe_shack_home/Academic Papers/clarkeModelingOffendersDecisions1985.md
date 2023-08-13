@@ -17,7 +17,7 @@ date: 1985
 * **Volume**: 6
 * **Pages**: 147-185
 * **URL**: [https://www.jstor.org/stable/1147498](https://www.jstor.org/stable/1147498)
-* **Tags**: #comps_exam, #criminology, #deterrence_rational_choice, #theory_classic
+* **Tags**: #comps_exam, #deterrence_rational_choice, #theory_classic
 * **PDF Attachments**:
   * [clarkeModelingOffendersDecisions1985.pdf](zotero://open-pdf/library/items/2WMTCPTT)
 

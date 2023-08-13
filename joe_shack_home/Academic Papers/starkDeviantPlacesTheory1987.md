@@ -18,7 +18,7 @@ date: 1987
 * **Issue**: 4
 * **Pages**: 893-910
 * **URL**: [https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.1987.tb00824.x](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.1987.tb00824.x)
-* **Tags**: #comps_exam, #crim512, #crim559, #criminology, #social_disorganization, #theory_classic
+* **Tags**: #comps_exam, #crim512, #crim559, #social_disorganization, #theory_classic
 * **PDF Attachments**:
   * [Stark_1987_Deviant Places.pdf](zotero://open-pdf/library/items/S89SEMDJ)
 

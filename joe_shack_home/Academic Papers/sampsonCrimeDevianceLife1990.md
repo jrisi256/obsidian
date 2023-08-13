@@ -18,7 +18,7 @@ date: 1990
 * **Issue**: 5
 * **Pages**: 609-627
 * **URL**: [https://www.jstor.org/stable/2095859](https://www.jstor.org/stable/2095859)
-* **Tags**: #comps_exam, #criminology, #theory_classic, #crim512, #life_course
+* **Tags**: #comps_exam, #theory_classic, #crim512, #life_course
 * **PDF Attachments**:
   * [sampsonCrimeDevianceLife1990.pdf](zotero://open-pdf/library/items/AUK4SDHZ)
 

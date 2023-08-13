@@ -18,7 +18,7 @@ date: 1993
 * **Issue**: 3
 * **Pages**: 301-325
 * **URL**: [https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.1993.tb01132.x](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.1993.tb01132.x)
-* **Tags**: #comps_exam, #criminology, #theory_classic, #crim512, #life_course
+* **Tags**: #comps_exam, #theory_classic, #crim512, #life_course
 * **PDF Attachments**:
   * [laubTurningPointsLife1993.pdf](zotero://open-pdf/library/items/M9H453ZL)
 

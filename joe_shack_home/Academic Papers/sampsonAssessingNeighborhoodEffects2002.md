@@ -18,7 +18,7 @@ date: 2002
 * **Issue**: 1
 * **Pages**: 443-478
 * **URL**: [https://doi.org/10.1146/annurev.soc.28.110601.141114](https://doi.org/10.1146/annurev.soc.28.110601.141114)
-* **Tags**: #comps_exam, #crim559, #criminology, #social_disorganization, #theory_advancement
+* **Tags**: #comps_exam, #crim559, #social_disorganization, #theory_advancement
 * **PDF Attachments**:
   * [Sampson et al_2002_Assessing “Neighborhood Effects”.pdf](zotero://open-pdf/library/items/BHYQDTEZ)
 

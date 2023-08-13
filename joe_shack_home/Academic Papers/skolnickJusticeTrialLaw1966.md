@@ -12,7 +12,7 @@ date: 1966
 * **Author(s)**: Jerome H. Skolnick
 * **Title**: Justice Without Trial: Law Enforcement in Democratic Society
 * **Date of publication**: 1966
-* **Tags**: #comps_exam, #criminology, #crim501, #policing
+* **Tags**: #comps_exam, #crim501, #policing
 * **PDF Attachments**:
   * [skolnickJusticeTrialLaw1966.pdf](zotero://open-pdf/library/items/FMJCX8S9)
 

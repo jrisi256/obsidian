@@ -18,7 +18,7 @@ date: 2012
 * **Issue**: 2
 * **Pages**: 427-462
 * **URL**: [https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.2011.00269.x](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.2011.00269.x)
-* **Tags**: #comps_exam, #criminology, #social_control, #theory_advancement
+* **Tags**: #comps_exam, #social_control, #theory_advancement
 * **PDF Attachments**:
   * [Na_Paternoster_2012_Can Self-Control Change Substantially Over Time.pdf](zotero://open-pdf/library/items/UV8QJS8E)
 

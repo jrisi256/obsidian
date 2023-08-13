@@ -18,7 +18,7 @@ date: 1998-12
 * **Issue**: 6
 * **Pages**: 1156-1185
 * **URL**: [https://www.journals.uchicago.edu/doi/10.1086/250043](https://www.journals.uchicago.edu/doi/10.1086/250043)
-* **Tags**: #comps_exam, #criminology, #deterrence_rational_choice, #theory_advancement
+* **Tags**: #comps_exam, #deterrence_rational_choice, #theory_advancement
 * **PDF Attachments**:
   * [levittJuvenileCrimePunishment1998.pdf](zotero://open-pdf/library/items/EFRTKCTM)
 

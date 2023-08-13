@@ -18,7 +18,7 @@ date: 2004-12-01
 * **Issue**: 4
 * **Pages**: 319-342
 * **URL**: [https://doi.org/10.1177/019027250406700401](https://doi.org/10.1177/019027250406700401)
-* **Tags**: #comps_exam, #criminology, #theory_advancement, #routine_activities
+* **Tags**: #comps_exam, #theory_advancement, #routine_activities
 * **PDF Attachments**:
   * [sampsonSeeingDisorderNeighborhood2004.pdf](zotero://open-pdf/library/items/P9MXJ7VM)
 

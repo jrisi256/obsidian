@@ -18,7 +18,7 @@ date: 1989-09-01
 * **Issue**: 3
 * **Pages**: 359-394
 * **URL**: [https://doi.org/10.1080/07418828900090261](https://doi.org/10.1080/07418828900090261)
-* **Tags**: #comps_exam, #crim512, #criminology, #labeling_theory, #theory_classic
+* **Tags**: #comps_exam, #crim512, #labeling_theory, #theory_classic
 * **PDF Attachments**:
   * [paternosterLabelingPerspectiveDelinquency1989.pdf](zotero://open-pdf/library/items/8MFG25FJ)
 

@@ -18,7 +18,7 @@ date: 2019-04-23
 * **Issue**: 17
 * **Pages**: 8261-8268
 * **URL**: [https://www.pnas.org/doi/full/10.1073/pnas.1808976116](https://www.pnas.org/doi/full/10.1073/pnas.1808976116)
-* **Tags**: #comps_exam, #criminology, #policing #labeling_theory #life_course #strain_anomie 
+* **Tags**: #comps_exam, #policing #labeling_theory #life_course #strain_anomie #racial_inequality 
 * **PDF Attachments**:
   * [deltoroCriminogenicPsychologicalEffects2019.pdf](zotero://open-pdf/library/items/QC46PT37)
 

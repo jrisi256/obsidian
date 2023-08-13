@@ -18,7 +18,7 @@ date: 2005
 * **Issue**: 2
 * **Pages**: 1109-1130
 * **URL**: [https://www.jstor.org/stable/3598492](https://www.jstor.org/stable/3598492)
-* **Tags**: #comps_exam #criminology #da_social-learning_theory #theory_advancement #symbolic_interactionism #routine_activities 
+* **Tags**: #comps_exam #da_social-learning_theory #theory_advancement #symbolic_interactionism #routine_activities 
 * **PDF Attachments**:
   * [Haynie_Osgood_2005_Reconsidering Peers and Delinquency.pdf](zotero://open-pdf/library/items/FDIERJIU)
 

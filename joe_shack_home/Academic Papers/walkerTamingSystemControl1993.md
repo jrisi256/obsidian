@@ -12,7 +12,7 @@ date: 1993
 * **Author(s)**: Samuel Walker
 * **Title**: Taming the System: The Control of Discretion in Criminal Justice, 1950-1990
 * **Date of publication**: 1993
-* **Tags**: #comps_exam, #criminology, #crim501, #policing, #sentencing_courts
+* **Tags**: #comps_exam, #crim501, #policing, #sentencing_courts
 * **PDF Attachments**:
   * [walkerTamingSystemControl1993.pdf](zotero://open-pdf/library/items/SWR5U8RR)
 

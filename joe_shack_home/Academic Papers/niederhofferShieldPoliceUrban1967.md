@@ -12,7 +12,7 @@ date: 1967
 * **Author(s)**: Arthur Niederhoffer
 * **Title**: Behind the Shield: The Police in Urban Society
 * **Date of publication**: 1967
-* **Tags**: #comps_exam, #criminology, #crim501, #policing
+* **Tags**: #comps_exam, #crim501, #policing
 * **PDF Attachments**:
   * [niederhofferShieldPoliceUrban1967.pdf](zotero://open-pdf/library/items/8Y7TG5WT)
 

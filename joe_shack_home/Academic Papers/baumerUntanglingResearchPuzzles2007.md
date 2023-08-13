@@ -18,7 +18,7 @@ date: 2007-02-01
 * **Issue**: 1
 * **Pages**: 63-93
 * **URL**: [https://doi.org/10.1177/1362480607072736](https://doi.org/10.1177/1362480607072736)
-* **Tags**: #comps_exam, #criminology, #strain_anomie, #theory_advancement
+* **Tags**: #comps_exam, #strain_anomie, #theory_advancement
 * **PDF Attachments**:
   * [baumerUntanglingResearchPuzzles2007.pdf](zotero://open-pdf/library/items/NTYZYCR3)
 

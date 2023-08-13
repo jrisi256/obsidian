@@ -18,7 +18,7 @@ date: 2017-10-01
 * **Issue**: 5
 * **Pages**: 977-1008
 * **URL**: [https://doi.org/10.1177/0003122417725865](https://doi.org/10.1177/0003122417725865)
-* **Tags**: #comps_exam, #criminology, #policing
+* **Tags**: #comps_exam, #policing, #technology
 * **PDF Attachments**:
   * [brayneBigDataSurveillance2017.pdf](zotero://open-pdf/library/items/JIPSHEPI)
 

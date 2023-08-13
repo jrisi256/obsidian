@@ -18,7 +18,7 @@ date: 2002-09-01
 * **Issue**: 3
 * **Pages**: 399-430
 * **URL**: [https://doi.org/10.1080/07418820200095291](https://doi.org/10.1080/07418820200095291)
-* **Tags**: #comps_exam, #criminology, #crim501, #policing
+* **Tags**: #comps_exam, #crim501, #policing #racial_inequality 
 * **PDF Attachments**:
   * [meehanRacePlaceEcology2002.pdf](zotero://open-pdf/library/items/U4IZXH52)
 

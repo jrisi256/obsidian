@@ -18,7 +18,7 @@ date: 2017-12-01
 * **Issue**: 6
 * **Pages**: 1214-1240
 * **URL**: [https://doi.org/10.1177/0003122417736289](https://doi.org/10.1177/0003122417736289)
-* **Tags**: #comps_exam, #crime_policy, #criminology, #social_disorganization, #theory_advancement, #causal_inference
+* **Tags**: #comps_exam, #crime_policy, #social_disorganization, #theory_advancement, #causal_inference
 * **PDF Attachments**:
   * [Sharkey et al_2017_Community and the Crime Decline.pdf](zotero://open-pdf/library/items/65ANSKL9)
 

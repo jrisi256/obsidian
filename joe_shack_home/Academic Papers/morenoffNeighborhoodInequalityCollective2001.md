@@ -18,7 +18,7 @@ date: 2001
 * **Issue**: 3
 * **Pages**: 517-558
 * **URL**: [https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.2001.tb00932.x](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.2001.tb00932.x)
-* **Tags**: #comps_exam, #crim559, #criminology, #social_disorganization, #theory_advancement
+* **Tags**: #comps_exam, #crim559, #social_disorganization, #theory_advancement
 * **PDF Attachments**:
   * [Morenoff et al_2001_Neighborhood Inequality, Collective Efficacy, and the Spatial Dynamics of Urban.pdf](zotero://open-pdf/library/items/FWBD8N32)
 

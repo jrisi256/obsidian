@@ -18,7 +18,7 @@ date: 2019
 * **Issue**: 3
 * **Pages**: 424-451
 * **URL**: [https://onlinelibrary.wiley.com/doi/abs/10.1111/1745-9125.12207](https://onlinelibrary.wiley.com/doi/abs/10.1111/1745-9125.12207)
-* **Tags**: #comps_exam, #criminology, #policing #crim501 
+* **Tags**: #comps_exam, #policing #crim501 #racial_inequality 
 * **PDF Attachments**:
   * [gastonProducingRaceDisparities2019.pdf](zotero://open-pdf/library/items/E5KFTIJR)
 

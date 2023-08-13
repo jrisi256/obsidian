@@ -18,7 +18,7 @@ date: 2018
 * **Issue**: 2
 * **Pages**: 269-301
 * **URL**: [https://onlinelibrary.wiley.com/doi/abs/10.1111/1745-9125.12171](https://onlinelibrary.wiley.com/doi/abs/10.1111/1745-9125.12171)
-* **Tags**: #comps_exam, #criminology, #theory_advancement, #life_course
+* **Tags**: #comps_exam, #theory_advancement, #life_course
 * **PDF Attachments**:
   * [Sampson and Winter - 2018 - Poisoned Development Assessing Childhood Lead Exp.pdf](zotero://open-pdf/library/items/9DPJSCHB)
 

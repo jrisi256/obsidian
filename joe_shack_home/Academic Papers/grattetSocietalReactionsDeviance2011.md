@@ -18,7 +18,7 @@ date: 2011
 * **Issue**: 1
 * **Pages**: 185-204
 * **URL**: [https://doi.org/10.1146/annurev-soc-081309-150012](https://doi.org/10.1146/annurev-soc-081309-150012)
-* **Tags**: #comps_exam, #crim512, #criminology, #labeling_theory, #theory_advancement
+* **Tags**: #comps_exam, #crim512, #labeling_theory, #theory_advancement
 * **PDF Attachments**:
   * [grattetSocietalReactionsDeviance2011.pdf](zotero://open-pdf/library/items/S8FZ6LXJ)
 

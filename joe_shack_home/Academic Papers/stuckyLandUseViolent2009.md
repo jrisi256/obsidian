@@ -18,7 +18,7 @@ date: 2009
 * **Issue**: 4
 * **Pages**: 1223-1264
 * **URL**: [https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.2009.00174.x](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.2009.00174.x)
-* **Tags**: #comps_exam, #criminology, #theory_advancement, #routine_activities
+* **Tags**: #comps_exam, #theory_advancement, #routine_activities
 * **PDF Attachments**:
   * [stuckyLandUseViolent2009.pdf](zotero://open-pdf/library/items/HH3SIZCD)
 

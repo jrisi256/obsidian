@@ -18,7 +18,7 @@ date: 2005
 * **Issue**: 3
 * **Pages**: 623-660
 * **URL**: [https://onlinelibrary.wiley.com/doi/abs/10.1111/j.0011-1348.2005.00019.x](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.0011-1348.2005.00019.x)
-* **Tags**: #comps_exam, #criminology, #deterrence_rational_choice, #theory_advancement
+* **Tags**: #comps_exam, #deterrence_rational_choice, #theory_advancement
 * **PDF Attachments**:
   * [kleckMissingLinkGeneral2005.pdf](zotero://open-pdf/library/items/YLU9WCAA)
 

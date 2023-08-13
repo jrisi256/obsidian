@@ -18,7 +18,7 @@ date: 2000
 * **Issue**: 2
 * **Pages**: 350-386
 * **URL**: [https://www.jstor.org/stable/10.1086/316961](https://www.jstor.org/stable/10.1086/316961)
-* **Tags**: #determinants_of_mass_incarceration #life_course #marxisms #mass_incarceration #crim_597_sentencing 
+* **Tags**: #determinants_of_mass_incarceration #life_course #marxism #mass_incarceration #crim_597_sentencing 
 * **PDF Attachments**:
   * [suttonImprisonmentSocialClassification2000.pdf](zotero://open-pdf/library/items/7JUA8RXX)
 

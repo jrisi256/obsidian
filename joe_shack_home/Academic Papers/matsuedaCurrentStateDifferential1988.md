@@ -18,7 +18,7 @@ date: 1988-07-01
 * **Issue**: 3
 * **Pages**: 277-306
 * **URL**: [https://doi.org/10.1177/0011128788034003005](https://doi.org/10.1177/0011128788034003005)
-* **Tags**: #comps_exam, #crim512, #criminology, #da_social-learning_theory, #theory_classic
+* **Tags**: #comps_exam, #crim512, #da_social-learning_theory, #theory_classic
 * **PDF Attachments**:
   * [matsuedaCurrentStateDifferential1988.pdf](zotero://open-pdf/library/items/IKIAS2VM)
 

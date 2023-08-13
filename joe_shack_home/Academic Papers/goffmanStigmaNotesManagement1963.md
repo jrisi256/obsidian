@@ -12,7 +12,7 @@ date: 1963
 * **Author(s)**: Irving Goffman
 * **Title**: Stigma: Notes on the Management of Spoiled Identity.
 * **Date of publication**: 1963
-* **Tags**: #comps_exam, #criminology, #crim512, #labeling_theory
+* **Tags**: #comps_exam, #crim512, #labeling_theory
 * **PDF Attachments**:
   * [goffmanStigmaNotesManagement1963.pdf](zotero://open-pdf/library/items/3P3TG43N)
 

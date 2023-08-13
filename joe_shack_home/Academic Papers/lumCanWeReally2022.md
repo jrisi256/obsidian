@@ -18,7 +18,7 @@ date: 2022-09-01
 * **Issue**: 3
 * **Pages**: 255-280
 * **URL**: [https://doi.org/10.1177/10986111211035002](https://doi.org/10.1177/10986111211035002)
-* **Tags**: #comps_exam, #criminology, #policing
+* **Tags**: #comps_exam, #policing
 * **PDF Attachments**:
   * [lumCanWeReally2022.pdf](zotero://open-pdf/library/items/4T26HCW2)
 

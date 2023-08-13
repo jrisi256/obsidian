@@ -18,7 +18,7 @@ date: 1998
 * **Issue**: 2
 * **Pages**: 343-370
 * **URL**: [https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.1998.tb01251.x](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.1998.tb01251.x)
-* **Tags**: #comps_exam, #criminology, #crim501, #policing
+* **Tags**: #comps_exam, #crim501, #policing
 * **PDF Attachments**:
   * [herbertPoliceSubcultureReconsidered1998.pdf](zotero://open-pdf/library/items/54E6Q7Q5)
 

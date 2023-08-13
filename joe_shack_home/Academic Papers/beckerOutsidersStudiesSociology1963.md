@@ -12,7 +12,7 @@ date: 1963
 * **Author(s)**: Howard S. Becker
 * **Title**: Outsiders: Studies in the Sociology of Deviance
 * **Date of publication**: 1963
-* **Tags**: #comps_exam, #crim512, #criminology, #labeling_theory, #theory_classic
+* **Tags**: #comps_exam, #crim512, #labeling_theory, #theory_classic
 * **PDF Attachments**:
   * [beckerOutsidersStudiesSociology1963.pdf](zotero://open-pdf/library/items/8DVAFQWY)
 

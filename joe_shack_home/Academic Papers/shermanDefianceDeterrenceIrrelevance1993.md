@@ -18,7 +18,7 @@ date: 1993-11-01
 * **Issue**: 4
 * **Pages**: 445-473
 * **URL**: [https://doi.org/10.1177/0022427893030004006](https://doi.org/10.1177/0022427893030004006)
-* **Tags**: #comps_exam, #criminology, #deterrence_rational_choice, #theory_classic
+* **Tags**: #comps_exam, #deterrence_rational_choice, #theory_classic
 * **PDF Attachments**:
   * [shermanDefianceDeterrenceIrrelevance1993.pdf](zotero://open-pdf/library/items/TPE59BL8)
 

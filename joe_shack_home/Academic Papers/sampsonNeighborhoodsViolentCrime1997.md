@@ -18,7 +18,7 @@ date: 1997-08-15
 * **Issue**: 5328
 * **Pages**: 918-924
 * **URL**: [https://www.science.org/doi/10.1126/science.277.5328.918](https://www.science.org/doi/10.1126/science.277.5328.918)
-* **Tags**: #comps_exam, #crim512, #criminology, #social_disorganization, #theory_classic
+* **Tags**: #comps_exam, #crim512, #social_disorganization, #theory_classic
 * **PDF Attachments**:
   * [Sampson et al_1997_Neighborhoods and Violent Crime.pdf](zotero://open-pdf/library/items/JBEFQABX)
 

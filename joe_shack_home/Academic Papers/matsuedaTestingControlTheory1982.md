@@ -18,7 +18,7 @@ date: 1982
 * **Issue**: 4
 * **Pages**: 489-504
 * **URL**: [https://www.jstor.org/stable/2095194](https://www.jstor.org/stable/2095194)
-* **Tags**: #comps_exam, #crim512, #criminology, #social_control, #theory_classic
+* **Tags**: #comps_exam, #crim512, #social_control, #theory_classic
 * **PDF Attachments**:
   * [Matsueda_1982_Testing Control Theory and Differential Association.pdf](zotero://open-pdf/library/items/7WCGIPYH)
 

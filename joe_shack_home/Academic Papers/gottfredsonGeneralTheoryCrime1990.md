@@ -12,7 +12,7 @@ date: 1990
 * **Author(s)**: Michael  R. Gottfredson, Travis Hirschi
 * **Title**: A General Theory of Crime
 * **Date of publication**: 1990
-* **Tags**: #comps_exam #crim512 #criminology #social_control #theory_classic 
+* **Tags**: #comps_exam #crim512 #social_control #theory_classic 
 * **PDF Attachments**:
   * [Gottfredson_Hirschi_1990_A General Theory of Crime.pdf](zotero://open-pdf/library/items/JLK8ZMC2)
 

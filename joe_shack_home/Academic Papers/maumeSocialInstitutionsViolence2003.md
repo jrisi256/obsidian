@@ -18,7 +18,7 @@ date: 2003
 * **Issue**: 4
 * **Pages**: 1137-1172
 * **URL**: [https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.2003.tb01016.x](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.2003.tb01016.x)
-* **Tags**: #comps_exam, #crim559, #criminology, #strain_anomie, #theory_advancement
+* **Tags**: #comps_exam, #crim559, #strain_anomie, #theory_advancement
 * **PDF Attachments**:
   * [maumeSocialInstitutionsViolence2003.pdf](zotero://open-pdf/library/items/TK3T65KF)
 

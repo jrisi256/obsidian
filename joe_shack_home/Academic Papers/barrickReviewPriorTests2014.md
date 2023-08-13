@@ -14,7 +14,7 @@ date: 2014
 * **Date of publication**: 2014
 * **Volume**: 18
 * **Pages**: 89-112
-* **Tags**: #comps_exam, #crim512, #criminology, #labeling_theory, #theory_advancement
+* **Tags**: #comps_exam, #crim512, #labeling_theory, #theory_advancement
 * **PDF Attachments**:
   * [barrickReviewPriorTests2014.pdf](zotero://open-pdf/library/items/8YLLKD5Y)
 

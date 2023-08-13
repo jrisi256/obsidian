@@ -18,7 +18,7 @@ date: 2003-11-01
 * **Issue**: 6
 * **Pages**: 511-521
 * **URL**: [https://www.sciencedirect.com/science/article/pii/S0047235203000874](https://www.sciencedirect.com/science/article/pii/S0047235203000874)
-* **Tags**: #comps_exam, #crim559, #criminology, #strain_anomie, #theory_advancement
+* **Tags**: #comps_exam, #crim559, #strain_anomie, #theory_advancement
 * **PDF Attachments**:
   * [warnerStrainViolenceTesting2003.pdf](zotero://open-pdf/library/items/CE847SIQ)
 

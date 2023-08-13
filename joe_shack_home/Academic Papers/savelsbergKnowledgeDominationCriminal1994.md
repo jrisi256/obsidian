@@ -18,7 +18,7 @@ date: 1994-01
 * **Issue**: 4
 * **Pages**: 911-943
 * **URL**: [https://www.journals.uchicago.edu/doi/10.1086/230367](https://www.journals.uchicago.edu/doi/10.1086/230367)
-* **Tags**: #comps_exam, #criminology, #crim501, #cj_system, #crim_597_sentencing
+* **Tags**: #comps_exam, #crim501, #cj_system, #crim_597_sentencing
 * **PDF Attachments**:
   * [savelsbergKnowledgeDominationCriminal1994.pdf](zotero://open-pdf/library/items/JXEA5QQW)
 

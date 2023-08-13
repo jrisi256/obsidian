@@ -18,7 +18,7 @@ date: 2013
 * **Issue**: 2
 * **Pages**: 365-397
 * **URL**: [https://onlinelibrary.wiley.com/doi/abs/10.1111/1745-9125.12009](https://onlinelibrary.wiley.com/doi/abs/10.1111/1745-9125.12009)
-* **Tags**: #comps_exam, #criminology, #crim501, #policing
+* **Tags**: #comps_exam, #crim501, #policing
 * **PDF Attachments**:
   * [ingramMultilevelFrameworkUnderstanding2013.pdf](zotero://open-pdf/library/items/QJPYX64N)
 

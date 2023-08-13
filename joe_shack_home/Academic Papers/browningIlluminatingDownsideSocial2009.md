@@ -18,7 +18,7 @@ date: 2009-07-01
 * **Issue**: 11
 * **Pages**: 1556-1578
 * **URL**: [https://doi.org/10.1177/0002764209331526](https://doi.org/10.1177/0002764209331526)
-* **Tags**: #comps_exam, #crim559, #criminology, #social_disorganization, #theory_advancement
+* **Tags**: #comps_exam, #crim559, #social_disorganization, #theory_advancement
 * **PDF Attachments**:
   * [Browning_2009_Illuminating the Downside of Social Capital.pdf](zotero://open-pdf/library/items/SYNIL69M)
 

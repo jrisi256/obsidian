@@ -18,7 +18,7 @@ date: 2013-03
 * **Issue**: 5
 * **Pages**: 1375-1423
 * **URL**: [https://www.journals.uchicago.edu/doi/10.1086/669506](https://www.journals.uchicago.edu/doi/10.1086/669506)
-* **Tags**: #comps_exam, #criminology, #crim501, #cj_system
+* **Tags**: #comps_exam, #crim501, #cj_system
 * **PDF Attachments**:
   * [campbellTransformationAmericaPenal2013.pdf](zotero://open-pdf/library/items/JIVV4KAL)
 

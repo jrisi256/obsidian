@@ -18,7 +18,7 @@ date: 2011
 * **Issue**: 1
 * **Pages**: 13-54
 * **URL**: [https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9133.2010.00680.x](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9133.2010.00680.x)
-* **Tags**: #comps_exam, #criminology, #deterrence_rational_choice, #theory_advancement
+* **Tags**: #comps_exam, #deterrence_rational_choice, #theory_advancement
 * **PDF Attachments**:
   * [durlaufImprisonmentCrime2011.pdf](zotero://open-pdf/library/items/8ECKEHN5)
 

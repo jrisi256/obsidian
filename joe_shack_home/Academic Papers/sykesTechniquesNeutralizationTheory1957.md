@@ -18,7 +18,7 @@ date: 1957
 * **Issue**: 6
 * **Pages**: 664-670
 * **URL**: [https://www.jstor.org/stable/2089195](https://www.jstor.org/stable/2089195)
-* **Tags**: #comps_exam, #crim512, #criminology, #da_social-learning_theory, #theory_classic
+* **Tags**: #comps_exam, #crim512, #da_social-learning_theory, #theory_classic
 * **PDF Attachments**:
   * [Sykes_Matza_1957_Techniques of Neutralization.pdf](zotero://open-pdf/library/items/L79I5744)
 

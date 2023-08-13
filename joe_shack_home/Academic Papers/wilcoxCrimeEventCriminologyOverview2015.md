@@ -18,7 +18,7 @@ date: 2015-02-01
 * **Issue**: 1
 * **Pages**: 4-11
 * **URL**: [https://doi.org/10.1177/1043986214552601](https://doi.org/10.1177/1043986214552601)
-* **Tags**: #comps_exam, #criminology, #theory_classic, #crim512, #routine_activities
+* **Tags**: #comps_exam, #theory_classic, #crim512, #routine_activities
 * **PDF Attachments**:
   * [wilcoxCrimeEventCriminologyOverview2015.pdf](zotero://open-pdf/library/items/8AZM3TAM)
 

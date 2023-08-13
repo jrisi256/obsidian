@@ -18,7 +18,7 @@ date: 2014
 * **Issue**: 1
 * **Pages**: 559-579
 * **URL**: [https://doi.org/10.1146/annurev-soc-071913-043350](https://doi.org/10.1146/annurev-soc-071913-043350)
-* **Tags**: #comps_exam, #crim559, #criminology, #soc513, #social_disorganization, #theory_advancement
+* **Tags**: #comps_exam, #crim559, #soc513, #social_disorganization, #theory_advancement
 * **PDF Attachments**:
   * [Sharkey_Faber_2014_Where, When, Why, and For Whom Do Residential Contexts Matter.pdf](zotero://open-pdf/library/items/X5R3JQVK)
 

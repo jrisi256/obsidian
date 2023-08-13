@@ -18,7 +18,7 @@ date: 1982
 * **Issue**: 1
 * **Pages**: 114-129
 * **URL**: [https://www.jstor.org/stable/2095046](https://www.jstor.org/stable/2095046)
-* **Tags**: #comps_exam, #crim512, #criminology, #strain_anomie, #theory_classic
+* **Tags**: #comps_exam, #crim512, #strain_anomie, #theory_classic
 * **PDF Attachments**:
   * [blauCostInequalityMetropolitan1982.pdf](zotero://open-pdf/library/items/T2L7G3JF)
 

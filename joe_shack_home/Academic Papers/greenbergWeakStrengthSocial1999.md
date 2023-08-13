@@ -18,7 +18,7 @@ date: 1999-01-01
 * **Issue**: 1
 * **Pages**: 66-81
 * **URL**: [https://doi.org/10.1177/0011128799045001004](https://doi.org/10.1177/0011128799045001004)
-* **Tags**: #comps_exam, #crim512, #criminology, #social_control, #theory_advancement
+* **Tags**: #comps_exam, #crim512, #social_control, #theory_advancement
 * **PDF Attachments**:
   * [Greenberg_1999_The Weak Strength of Social Control Theory.pdf](zotero://open-pdf/library/items/NFZ25JDA)
 
