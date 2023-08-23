@@ -18,7 +18,7 @@ date: 2013-04-01
 * **Issue**: 2
 * **Pages**: 199-222
 * **URL**: [https://doi.org/10.1080/07418825.2012.682604](https://doi.org/10.1080/07418825.2012.682604)
-* **Tags**: #cj_system, #comps_exam, #crim_597_sentencing, #sentencing_courts #mass_incarceration #prosecutors #crim501 
+* **Tags**: #cj_system, #comps_exam, #crim_597_sentencing, #sentencing_courts #mass_incarceration #prosecutors #crim501
 * **PDF Attachments**:
   * [bushwayStudyingDiscretionProcesses2013.pdf](zotero://open-pdf/library/items/7B223Y4A)
 
