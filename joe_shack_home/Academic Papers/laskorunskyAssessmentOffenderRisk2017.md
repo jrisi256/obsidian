@@ -41,7 +41,7 @@ States have increasingly begun to rely on actuarial [[Risk assessment]] in the c
     
 - Difference in risk assessment actuarial tool (the model and variables considered. What is it predicting? Find riskiness, match with services) and risk assessment policy making (when and how it’s used) -> more in-depth tools to match with appropriate services is more resource-intensive. Thus most risk assessment tools simply predict risk.
     
-### Risk-Needs-Responsitivity
+### Risk-Needs-Responsivity
 
 - Offenders’ criminogenic characteristics (risks and needs) should be met with appropriate supervision and services. Low-risk offenders should be given less harsh, more supportive sentences and vice versa. Also individuals with specific needs (drug addiction) should be given the right services to address those needs. High and low-risk offenders do better when treated differently.
     

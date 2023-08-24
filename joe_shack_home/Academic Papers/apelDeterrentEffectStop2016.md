@@ -42,7 +42,7 @@ date: 2016
 
 ### Puzzle
 
-* Crime is at historic laws in the history of NYC. However, the size of its police force and prisons have been declining since 2000. This seems to fly in the fact of what is suggested by deterrence theory which is that more police officers can lead to reductions in crime and incarceration can have modest deterrent effects.
+* Crime is at historic laws in the history of NYC. However, the size of its police force and prisons have been declining since 2000. This seems to fly in the face of what is suggested by deterrence theory which is that more police officers can lead to reductions in crime and incarceration can have modest deterrent effects.
   
 * Is it possible that stop & frisk helped compensate for the shortfall created by cuts in the criminal justice system? It allowed for more crime control via deterrence with fewer police officers on the street and fewer offenders being locked up.
 
@@ -50,7 +50,7 @@ date: 2016
 
 1. What component parts constitute the policy? I.e., what is actually happening during the administering of the stop and frisk policy which is driving its effects?
 2. Stop & frisk is effective relative to what? What's the counterfactual? It's hardly ever zero police activity. The policy implications are always marginal deterrence -> stop & frisk is *this* much more deterrent relative to *this* baseline.
-3. Are other interventions happening at the same partially or fully responsible for the observed effects instead? Author points to the proliferation of public and private surveillance.
+3. Are other interventions happening at the same time partially or fully responsible for the observed effects instead? Author points to the proliferation of public and private surveillance.
 
 ### Ethical considerations
 

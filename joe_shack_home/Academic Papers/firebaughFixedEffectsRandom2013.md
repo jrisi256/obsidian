@@ -79,33 +79,3 @@ Longitudinal data are becoming increasingly common in social science research. I
 ### Count dependent variables
 
 Fixed effects and hybrid models are available for panel data using [[Poisson regression]] and [[negative binomial regression]]. 
-
-Misc. Notes
-
-* Fixed effect models impoverish thinking in the sense that they cause researchers to not think critically about what would be the time invariant processes affecting the event of interest.
-  
-* For longer time periods (depending on the unit of analysis), it is unclear to what extent *usually* considered time-invariant variables would remain time-invariant.
-  
-* Fixed effect models toss out a lot of important variation. They control out (rather than explicitly model) context and heterogeneity which leads to a limited understanding of the phenomenon of interest.
-  
-* Time-varying variables can have important time-invariant *between* effects which are important to model and understand, as well (and may be different from its time-varying effect).
-  
-* As noted in many texts, the solution is to include the higher-level mean -> models the within and between effect.
-	* For temporal data, within and between effects are clearly separated.
-	  
-* Indeed, fixed effects models are special cases of random effects models where fixed effect models assume infinite variance for the higher-level units. By keeping the RE configuration, we can estimate more precisely the between effects (and within effects).
-	* Can partition variance more efficiently -> is most variation for a given independent variable coming from within-unit or between-unit variation.
-	* Partial pooling (assuming observations come from a common distribution), we can obtain more precise estimates for higher-level units.
-	  
-* Argue the hybrid nomenclature is misleading. A hybrid model is a RE model with additional time-invariant predictors -> thus many argue it can be used as a form of the Hausman test and use the results to pick between fixed and random effects.
-
-* The Hausman test is a test of similarity of the between and within effects. Properly specifying between and within effects will provide identical results to the usual FE estimation.
-  
-* Random effect models also allow for random coefficient modeling (or random slopes), and they also allow for cross-level interactions -> FE models can include cross-level interactions (between time invariant and time variant variables), but only by including the additive effects of the time invariant variables can the interaction be properly understood.
-	* E.g., the effect of a time-varying education policy might be different for boys vs. girls (time variant variable).
-	  
-* FE models assume mean effects affect all higher-level entities in the same way ignoring important context and variation.
-  
-* Heterogeneity is not something to fix but something to understand.
-  
-* Hybrid models are not perfect (no model is). For example, if there are only a few higher level units, RE might not be appropriate. One must understand theoretically and substantively what is happening. No statistical model can act as substitute for a well-designed study. However, the dominance of FE over within-between RE should not be the case and FE should not be the default.

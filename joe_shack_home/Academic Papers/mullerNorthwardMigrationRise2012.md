@@ -111,7 +111,7 @@ All 3 assumptions are satisfied.
 
 ### Conclusion
 
-Why does this historical disparity persist? The sources which explain its continued existence no longer are present(?). Well… maybe not. Black-Americans have harbored historically-validated mistrust of the police. This may lead to biased samples in whom the police encounter (law-abiding Black Americans avoid the police) thus leading to observations of higher fractions of criminally engaged Black Americans. This explanation doesn’t fully make sense to me → If I’m a police officer and the only Black individuals I come across are criminals (extreme example), I would (incorrectly) extrapolate that all Black Americans are criminals. #question #disagree 
+Why does this historical disparity persist? The sources which explain its continued existence no longer are present(?). Well… maybe not. Black-Americans have harbored historically-validated mistrust of the police. This may lead to biased samples in whom the police encounter (law-abiding Black Americans avoid the police) thus leading to observations of higher fractions of criminally engaged Black Americans.
 
 - Of course, racial gaps in offending and enforcement persist. The history of this relationship needs to be considered. To connect today’s high rates of Black-American incarceration to the centuries-old association of blackness with criminality, we must understand history; this analysis helps elucidate how the association started and how it’s connected with migration.
 

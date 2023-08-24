@@ -92,7 +92,7 @@ date: 2011
 	  
 		* Deterrent effects from rapid-response teams or *more effective policing* due to more arrests or *preemptive policing* which allows officers more discretion in whom to arrest and generally leads to arrest-first policies have not been shown to be consistently effective in reducing crime.
 		  
-		* Meanwhile, deterrent effects from activities like hot-spots policing and monitoring of monitoring of probationers seem to be effective in that they deter would-be offenders from committing crime in the first place (either by monitoring high-risk areas or high-risk individuals).
+		* Meanwhile, deterrent effects from activities like hot-spots policing and monitoring of probationers seem to be effective in that they deter would-be offenders from committing crime in the first place (either by monitoring high-risk areas or high-risk individuals).
 		  
 		* Problem-oriented policing is ill defined but has generally been found to be modestly effective.
 		  

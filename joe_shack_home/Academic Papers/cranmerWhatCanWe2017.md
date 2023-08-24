@@ -61,7 +61,7 @@ Benchmark models can reflect the best-accepted model in the literature. It can a
 Consider three classes of models:
 
 1) Those based only on structure endogenous to the outcome measure (benchmark criteria).
-2) Those based only on exogenous covariates (capturing large majority of explanatory models observed in the literature.
+2) Those based only on exogenous covariates (capturing large majority of explanatory models observed in the literature).
 3) Those that combine 1 and 2.
 
 Use 4 different classification algorithms:
