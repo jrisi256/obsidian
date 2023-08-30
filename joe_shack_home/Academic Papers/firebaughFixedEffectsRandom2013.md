@@ -57,7 +57,6 @@ Longitudinal data are becoming increasingly common in social science research. I
 
 * Random effects models assume time-invariant individual differences are drawn from a random variable $u$. The effects of time-invariant causes are not removed, and the model assumes unmeasured causes in $u_i$ are uncorrelated with measured causes. If there is a correlation, the results are likely subject to [[omitted variable bias]].
 
-
 ### Hybrid Model
 
 * Fixed effects models can be estimated by centering each unit around its mean (random effects models can be estimated in a similar manner).
