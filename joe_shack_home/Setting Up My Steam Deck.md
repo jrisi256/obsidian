@@ -34,14 +34,27 @@ type: Note
 * You can use [[Rufus]], but it is [[Windows]] only. [Here is the download link](https://rufus.ie/en/).
 
 * For [[Ubuntu]], I used [[balenaEtcher]]. [Click here to go to their homepage](https://etcher.balena.io/). It is very easy to run.
+	* **Note** I could not get the Steam Deck to properly use the flashed image on my USB drive when I used balenaEtcher. I am not sure why.
   
-* Once you have flashed the USB drive with the SteamOS image, plug it into your Steam deck. Click on Boot Manager, and then select the external drive.
+* Once you have flashed the USB drive with the SteamOS image, plug it into your Steam deck. Click on Boot Manager, and then select the external drive. You will have to wait a few minutes, but then you should see your desktop. Click on the icon, "Reimage Steam Deck". You will then have to wait a few minutes again. By the end, you will have installed SteamOS onto your new hard drive.
 ## Format the SD Card
 
 
 ## First time set-up
 
-* Settings
+### Settings in Game Mode
+
+* Show Battery Percentage indicator.
+* Enable developer mode.
+* Schedule night mode.
+* Hide offline friends in custom categories.
+* Hide categorized friends in Online/Offline friends.
+* Open advanced settings for performance.
+* Set Performance Overlay Level to 1.
+* Show Performance Overlay in Steam.
+
+### Settings in Desktop Mode
+
 * Firefox
 ## Install Decky Loader and Plugins
 
