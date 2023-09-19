@@ -92,6 +92,30 @@ type: Note
 
 ### Extra video game storefronts
 
+The basic logic is as follows:
+
+1. Download the installer for each storefront.
+   
+2. Open Steam (in Desktop Mode), and click on *Add a Non-Steam Game*. We will start by adding the store installer to Steam.
+   
+3. Click on the Gear Icon for the store installer's entry in Steam. Click on *Compatibility*. Click on *Force the use of a specific Steam Play compatibility tool*. Select *Proton Experimental* from the drop-down menu.
+   
+4. Click on *Shortcut* on the left-hand side (right above *Compatibility*) and then copy and paste the following command into *Launch Options*: `STEAM_COMPAT_MOUNTS=/run/media/mmcblk0p1/ %command%`. This will allow for the storefront to recognize the Steam Deck's SD card.
+   
+5. You can then launch the installer from Steam, and it will begin the process of installing the storefront. The beauty of [[SteamOS]] is that it leverages the power of [[Proton]]. When installing these storefronts, the installers believe they are installing into a Windows environment. Proton is a compatibility layer that translates Windows-specific commands into their Linux counterparts thus allowing for programs to be run in a Linux environment which were originally designed to run in a Windows environment. Each storefront gets installed into their *Proton prefix* which is a randomly generated series of numbers. These prefixes contain all the essential files necessary to trick the installer into thinking it is within a Windows environment.
+   
+	1. It is generally recommended to keep each storefront in its own prefix. This is because the storefronts are constantly changing, and each storefront might only run using a specific version of Proton. This necessitates each storefront needing their own unique environment to run in. Of course, if your Steam Deck has a small amount of internal storage, this causes a problem. These prefixes (as far as I understand) must be stored on your Steam Deck. I suppose they could stored on your SD card, but it could severely compromise performance. This leads many people to storing storefronts within the same prefix. This will technically work, but it could cause headaches down the line for the aforementioned reasons. It could also create headaches as one attempts to try to mod games or otherwise attempt idiosyncratic changes to games or their storefronts.
+	   
+6. Once the installer is done installing, you can use [[Protontricks]] to locate the folder containing the storefront (since it will have a randomly generated number sequence). Navigate to the compatdata folder (path is mentioned above), and then navigate to the folder with the appropriate sequence of random numbers. You will then have to search for the appropriate .exe file which will launch the storefront. Once you have located it, copy the path to that .exe file.
+   
+7. Go back to Steam and locate the entry for the installer. Click on the entry and then click on the gear icon on the right hand side. We will now be updating the *Target* and *Start In* entries so they point to the .exe file location (which will launch the storefront). Copy and paste the full path (including the .exe) in *Target* (make sure it is wrapped in quotes). Copy and paste the full path (excluding the .exe) in *Start In*.
+   
+8. Enter your credentials for logging on to the storefront.
+   
+9. Adjust settings for each storefront to ensure they run as smoothly as possible on the Steam Deck. This includes things like: making sure the storefront quits rather than minimizes upon exit, turning off any storefront overlays, etc.
+
+I download the following storefronts onto my Steam Deck. The only one that is missing is Riot Games. I chose not to download Riot Games because their games are, in general, not very compatible with Linux.
+
 * Epic Games Store
 * Ubisoft Connect
 * Battle.net
