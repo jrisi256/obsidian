@@ -62,6 +62,7 @@ type: Note
 * The first step is to set a password for sudo privileges. Head to the terminal and type in `passwd`.
 * Install [DeckyLoader](https://github.com/SteamDeckHomebrew/decky-loader). The instructions on their website are very straightforward.
 * Then I like to install the following Plugins. I have found them to be the most useful:
+	* AutoFlatpaks.
 	* AutoSuspend.
 	* Emuchievements.
 	* HLTB for Deck.
@@ -84,6 +85,7 @@ type: Note
 * Spotify
 * Discord
 	* Make sure *minimize to tray* is deselected because otherwise Discord will crash when exiting in game mode.
+	* For these two apps (since I plan on using them while in game mode), it can be useful to change the controller setup to *Keyboard (WASD) and Mouse*.
 * ProtonUp-QT
 * Disk Usage Analyzer
 * Protontricks
@@ -91,6 +93,8 @@ type: Note
 * Use SteamGridDB to change the artwork.
 
 ### Extra video game storefronts
+
+Note I am following the [logic from this video](https://www.youtube.com/watch?v=Z_HYcdrYR38).
 
 The basic logic is as follows:
 
@@ -108,11 +112,25 @@ The basic logic is as follows:
 	   
 6. Once the installer is done installing, you can use [[Protontricks]] to locate the folder containing the storefront (since it will have a randomly generated number sequence). Navigate to the compatdata folder (path is mentioned above), and then navigate to the folder with the appropriate sequence of random numbers. You will then have to search for the appropriate .exe file which will launch the storefront. Once you have located it, copy the path to that .exe file.
    
+	1. While you are in the folder for the storefront, navigate all the way up to the *drive_c* folder. Create a symbolic link to the *Non-Steam Games SSD* folder. This folder (which you should have created on your Steam Deck's internal storage, does not really matter where) will be where the games are stored when installed from non-Steam sources. This ensures that if you need to wipe the prefix containing the storefront, the game installs will still be safe. It also keeps things better organized. You could also install on your SD card.
+   
 7. Go back to Steam and locate the entry for the installer. Click on the entry and then click on the gear icon on the right hand side. We will now be updating the *Target* and *Start In* entries so they point to the .exe file location (which will launch the storefront). Copy and paste the full path (including the .exe) in *Target* (make sure it is wrapped in quotes). Copy and paste the full path (excluding the .exe) in *Start In*.
    
 8. Enter your credentials for logging on to the storefront.
    
-9. Adjust settings for each storefront to ensure they run as smoothly as possible on the Steam Deck. This includes things like: making sure the storefront quits rather than minimizes upon exit, turning off any storefront overlays, etc.
+9. Adjust settings for each storefront to ensure they run as smoothly as possible on the Steam Deck. This includes things like: making sure the storefront quits rather than minimizes upon exit, turning off any storefront overlays, etc. Also make sure you change the default install path to wherever you want your games to install.
+   
+10. Next, install the game you want to play.
+    
+11. The ideal situation is to create a new entry in Steam for this new game. Why? In case we want to create custom controls for this game or we need a specific version of Proton for this game. It also just makes it really nice aesthetically to have an entry on your Steam deck for the game. How do we create an entry for the game on your Steam deck? There are many ways to do it. I will focus on the one way I have found to be easiest.
+    
+12. Add another entry for the digital storefront to Steam. Click on *Add a Non-Steam game*, navigate to where the .exe file is stored for the digital storefront, and then add it to Steam. You need to run the digital storefront once for the Proton prefix folder to be created. Rename the digital storefront to be for the game you are interested in playing.
+
+1. Now the prefix folder we created for the digital storefront is useless and just wasted space on your drive. We want the game to take advantage of the already existing prefix folder in which the digital storefront is *actually* stored. So take note of the prefix folder number created for this new digital storefront, and then delete that prefix folder. Next create a symbolic link to the prefix folder where the digital storefront is *actually* installed, but rename the folder to be the deleted folder's number.
+    
+14. This newly created entry is just pointing back to the original storefront. You could theoretically then play any of your installed games from this digital storefront. The Steam entry for the game is illusory. However, it is useful for organizational and aesthetic purposes, but it is also useful in instances where games need custom controls or Proton settings.
+    
+15. When shifting back to gaming mode, I like to change the controller layout to *Keyboard (WASD) and Mouse*. I find this makes it easiest to interact with the storefront in gaming mode. When I want to play the game, I shift it back to game-pad plus joystick. It is a little annoying, but I am not sure what else can be done. I suppose you could use the touchscreen to navigate and keep the game-pad plus joystick control configuration. The touchscreen on the Steam Deck is pretty bad, though.
 
 I download the following storefronts onto my Steam Deck. The only one that is missing is Riot Games. I chose not to download Riot Games because their games are, in general, not very compatible with Linux.
 
@@ -129,4 +147,5 @@ I download the following storefronts onto my Steam Deck. The only one that is mi
 * I will not detail all the steps here because the video and website are super easy to follow in terms of how to get set-up.
 ## Install Tango
 
-* 
+* You can download the Linux version of Tango from the Tango website quite easily.
+* You can download the save files from the N1GP discord.
