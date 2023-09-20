@@ -75,7 +75,7 @@ type: Note
 	* ProtonDB Badges.
 	* SteamGridDB.
 	* Storage Cleaner.
-## Install Retrodeck
+## Install Retrodeck/Emudeck
 
 * 
 ## Install extra video game storefronts and apps
@@ -149,3 +149,4 @@ I download the following storefronts onto my Steam Deck. The only one that is mi
 
 * You can download the Linux version of Tango from the Tango website quite easily.
 * You can download the save files from the N1GP discord.
+* Make sure you have the controller layout set to game-pad plus joystick. When launching Tango, if you have the layout set to anything other than this, it will not recognize the Steam deck controller as a controller (even if you switch it). When launching the application, it needs to be set to this layout and not switched from. This necessitates using the touchscreen, unfortunately.
