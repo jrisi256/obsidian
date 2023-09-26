@@ -77,7 +77,10 @@ type: Note
 	* Storage Cleaner.
 ## Install Retrodeck/Emudeck
 
-* 
+As of the original writing of this guide, Retrodeck still feels like it needs some work before it can reliably be used.
+
+* [Download Emudeck](https://www.emudeck.com/).
+* Installation is rather straightforward, truthfully. I will try and document anything I do out of the ordinary.-
 ## Install extra video game storefronts and apps
 
 ### Apps from the Discover Store
