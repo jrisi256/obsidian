@@ -52,15 +52,37 @@ As a general note, anything which I do not understand can usually be found throu
 	1. The statistics screen will show us what ROMs we are missing, what ROMs we have, and which were *extra* so to speak (not included in the .dat file). ROMs which were extra get added to the *backup/unknown* folder in ClrMAMEPro.
 
 	2. It is important to remember that despite seeming quite easy to define, there is no official list of every video game every made for a specific video game system. Depending on how one defines entry into that list, one can wind up with vastly different sets of games. Does one only include licensed games? What about homebrew games? Pirated games? Games released after the console had ceased being produced and supported (after market games)?
-	   
-	3. Quick review of the other options available:
-	   
-		1. Rebuilder. It does a lot of things. Its primary use cases are to allow you to add new ROMs to your existing ROM set (based on some existing .dat file). It basically allows you to add missing ROMs. You simply select as the *Source* your folder where your new ROMs are held, and then you select where your existing ROMs are stored as your *Destination*. You can also Rebuild to create a fixed .dat file (which is a .dat file which includes the missing ROMs).
-		   
-			1. You can uncheck *Recompress Files* because they are most likely already compressed. You can also check *Remove Matched Sourcefiles* because there is no need to keep the new ROMs once they have been verified and move into your existing ROM set.
-			   
-			2. Once you have rebuilt your ROM set, you will want to go back into Scanner and *Scan* your ROM set again (no need to do a whole new scan).
-			   
-			3. Rebuilder and New Scan are very similar, but it is good practice to use Rebuilder (especially for arcade games) where multiple ROMs are often stored in the same set (i.e., zipped file).
-			   
-8. 
+
+### Rebuild
+
+The *Rebuild* option allows one to add new ROMs to your existing ROM set (based on some existing .dat file). Typically, these new ROMs are missing ROMs.
+
+1. Click on *Rebuild*. Select your *Source* folder to be where the new ROMs are being stored. Select your *Destination* folder to be where your existing ROMs are stored.
+   
+2. You can uncheck *Recompress Files* because they are most likely already compressed. You can also check *Remove Matched Sourcefiles* because there is no need to keep the new ROMs once they have been verified and moved into your existing ROM set.
+   
+3. Once you have rebuilt your ROM set, you will want to go back into Scanner and *Scan* your ROM set again (no need to do a whole new scan).
+   
+4. Rebuilder and New Scan are very similar, but it is good practice to use Rebuilder (especially for arcade games) where multiple ROMs are often stored in the same set (i.e., zipped file).
+   
+5. You could also use Rebuild to share missing ROM files with others. You add a *.dat file* which is the list of ROMs one is missing. You then use *Rebuild* to extract the pertinent ROMs from your collection (into whatever destination folder you want). This ensures only the missing ROMs are extracted. Make sure *Remove Matched Sourcefiles* is not checked.
+
+### WWW Mode
+
+By going through these steps, one can see if its one's .dat files are out-of-date. ClrMAMEPro checks the date of .dat file against the .dat files from the source provided to see if they're out-of-date.
+
+1. On the main page of ClrMAMEPro, click on WWW Mode.
+2. Click on add site. 
+3. For No-Intro .dat files, go to Dat-o-matic -> Download. On this web page, you will find an xml link which can be used as the site reference to check your dat files against.
+4. Redump does not have an XML link which you can check for updates. There is this project, though: [https://github.com/bilakispa/redump-xml-updater](https://github.com/bilakispa/redump-xml-updater)
+	1. If that script does not work, you can try this one: [https://github.com/xprism1/Redump-XML-Updater](https://github.com/xprism1/Redump-XML-Updater)
+
+### 1G1R Mode
+
+1G1R stands for *1 Game, 1 ROM*. Given a ROM set, you specify a set of rules for choosing which versions of each ROM to keep.
+
+1. Dat-o-matic -> Download -> P/Clone XML for the system of interest.
+   
+2. Add the dat file, set the ROM path, and *change the mode to 1G1R*.
+   
+3. Click on the drop down menu, select Regions. Then select the Regions you want the exclusives of. Make sure you sort the regions by order of importance. For example, I generally want all the USA versions of all ROMs first, then if there is no USA version, give me the European exclusives, and then if there are no USA or European versions, give me the Japanese version. I would select USA, Europe, and Japan. Then, I would make sure USA is first, then Europe, and then Japan.
