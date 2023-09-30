@@ -52,6 +52,20 @@ As a general note, anything which I do not understand can usually be found throu
 	1. The statistics screen will show us what ROMs we are missing, what ROMs we have, and which were *extra* so to speak (not included in the .dat file). ROMs which were extra get added to the *backup/unknown* folder in ClrMAMEPro.
 
 	2. It is important to remember that despite seeming quite easy to define, there is no official list of every video game every made for a specific video game system. Depending on how one defines entry into that list, one can wind up with vastly different sets of games. Does one only include licensed games? What about homebrew games? Pirated games? Games released after the console had ceased being produced and supported (after market games)?
+	   
+8. For older ROM sets (think MAME and NES), you may need to edit the hex code for the ROM files. I like [ImHex](https://github.com/WerWolv/ImHex). This [Reddit thread](https://www.reddit.com/r/Roms/comments/16qoexc/missing_some_nes_roms/) was also useful for explaining why some files need to be edited.
+   
+9. Since ROMs and ISOs take up a lot of space, I need to be as efficient as possible in how I am storing things. The basic workflow is this:
+   
+	1. Scan my ROM collection.
+	   
+	2. Create a 1G1R collection (which will separate the ROMs in the 1G1R collection from those that are not).
+	   
+	3. Move the entire 1G1R and leftover No-Intro/Redump ROMs into cloud storage and delete them from my local storage. I will have to re-download them (and combine them) if I want to scan them again. ClrMAMEPro will not be affected though. It simply takes a snapshot of my ROM collection.
+	   
+	4. Make copies of the .dat files in cloud storage (keep local copies).
+	   
+	5. Make copies of the ClrMAMEPro setting files which essentially syncs scans across computers.
 
 ### Rebuild
 
@@ -69,7 +83,7 @@ The *Rebuild* option allows one to add new ROMs to your existing ROM set (based 
 
 ### WWW Mode
 
-By going through these steps, one can see if its one's .dat files are out-of-date. ClrMAMEPro checks the date of .dat file against the .dat files from the source provided to see if they're out-of-date.
+By going through these steps, one can see if one's .dat files are out-of-date. ClrMAMEPro checks the date of your .dat file against the .dat files from the source provided to see if they're out-of-date.
 
 1. On the main page of ClrMAMEPro, click on WWW Mode.
 2. Click on add site. 
