@@ -100,3 +100,20 @@ By going through these steps, one can see if one's .dat files are out-of-date. C
 2. Add the dat file, set the ROM path, and *change the mode to 1G1R*.
    
 3. Click on the drop down menu, select Regions. Then select the Regions you want the exclusives of. Make sure you sort the regions by order of importance. For example, I generally want all the USA versions of all ROMs first, then if there is no USA version, give me the European exclusives, and then if there are no USA or European versions, give me the Japanese version. I would select USA, Europe, and Japan. Then, I would make sure USA is first, then Europe, and then Japan.
+
+## Emulation Station
+
+* Emulation Station themes are stored under: `/home/.emulationstation/themes`.
+* Emulation Station art is stored under: `/Emulation/tools/downloaded_media`.
+### Settings for Game Art
+
+* Scraper content Settings -> Game names, Other metadata, Screenshot images, 3-D box images, Physical media images, Game Manuals.
+	* Videos are cool, but they take up a lot of space.
+	* Box cover images are cool, but I think I like 3-D box images better.
+	* Box back cover images are also cool but a little unnecessary in my opinion.
+	* Marquee (Wheel) images I do not like really like. They are the title of the game in a cool font. The problem is they are placed somewhat haphazardly so sometimes they interfere with other art.
+	* Fan art images are not all that useful.
+	  
+* Miximage settings -> You could try turning the Miximage resolution down, but it does noticeably degrade the image quality. It does not degrade it a lot, but it is noticeable. Other than that, I just turn the box size and physical media size down to small.
+  
+* Other settings -> change the region to USA. 

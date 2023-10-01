@@ -64,7 +64,6 @@ type: Note
 * Then I like to install the following Plugins. I have found them to be the most useful:
 	* AutoFlatpaks.
 	* AutoSuspend.
-	* Emuchievements.
 	* HLTB for Deck.
 	* MusicControl.
 	* Pause Games.
@@ -80,7 +79,15 @@ type: Note
 As of the original writing of this guide, Retrodeck still feels like it needs some work before it can reliably be used.
 
 * [Download Emudeck](https://www.emudeck.com/).
-* Installation is rather straightforward, truthfully. I will try and document anything I do out of the ordinary.-
+* Installation is rather straightforward, truthfully. I will try and document anything I do out of the ordinary.
+
+### Configure Emulators
+
+#### Configure Retroarch
+
+* Settings -> Frame Throttle -> Fast-Forward Rate to 2.0x.
+  
+* For each Nintendo console, go to Quick Menu -> Controls -> Port 1 Controls (and any subsequent controllers) -> Change buttons to match Steam Deck -> Manage Remap Files -> Save Core Remap File.
 ## Install extra video game storefronts and apps
 
 ### Apps from the Discover Store
