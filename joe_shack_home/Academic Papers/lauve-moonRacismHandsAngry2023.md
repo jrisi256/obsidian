@@ -39,7 +39,7 @@ Previous research suggests an [[angry God image]] is a narrative schema predicti
   
 * **Hypothesis** -> For White respondents, an angry God narrative fits with views that individuals are solely responsible for their own fate (which is a key mechanism of colorblind racism). Angry God beliefs are also connected with more punitive CJ views, thus White individuals may see state violence as legitimate reactions to a highly violent minority group.
 * **Vs. Black respondents** -> Association between angry God and punitive justice may be different due to a greater awareness of structural disadvantage and differing views on the legitimacy of state violence.
-	* Differing levels of acceptance of colorblind racism (focus on individual vs. structural factors) shape individual's views of God and also one's views on the legitimacy of state violence. White religious institutions are much more accepting of colorblind racism and individualizing. **Priestly view of Angry God** (accept his authority) vs. **Prophetic view of God** (he will save us) so the question of an *angry God* hides heterogeneity in how people actually view God.
+		* Differing levels of acceptance of colorblind racism (focus on individual vs. structural factors) shape individual's views of God and also one's views on the legitimacy of state violence. White religious institutions are much more accepting of colorblind racism and individualizing. **Priestly view of Angry God** (accept his authority) vs. **Prophetic view of God** (he will save us) so the question of an *angry God* hides heterogeneity in how people actually view God.
 	  
 * **H1** -> As a person’s image of God as angry increases, White respondents will have higher probability of adhering to the frame that the violence of Black persons is to blame for the disproportionate police shootings of Black persons.
 * **H2** -> Among Black respondents generally, the association between angry God and adherence to the frame that the violence of Black persons is to blame for the disproportionate police shootings of Black persons will operate differently compared to White persons.
@@ -74,7 +74,7 @@ Basically, as someone's view of God as angry increases in strength of belief, Wh
 	* Small [[coefficient of determination]].
 	* **Model 3** -> The interaction of angry God and Black produced statistically insignificant results, but the trend was negative suggesting that Black respondents, as their belief in an angry God increased, were less likely.
 		* Angry God narrative appears influential among White respondents while for Black respondents their racial identity, itself, appeared to be more important.
-	* **Model 5** -> Most complicated findings. White Evangelicals and Black Protestants mean different things when talking about an angry God.
+	* **Model 5** -> Most complicated findings. White Evangelicals and Black Protestants mean  different things when talking about an angry God.
 		* Why only White Evangelicals and Black Protestants?
 		* Argue the belief in the angry God is much more powerful in affecting the views of White Evangelicals compared to other religious, racial groupings. Unclear, though, why Evangelicals with lowest views of angry God are least likely to be supportive (noise or trend).
 		* Black Protestants appear to view angry God in a prophetic way, liberating, sweeps away injustices. Why are Black Protestants without the view of an angry God most likely? Unclear -> uncritically accept colorblind racism without the counterpoint of liberation theology?
