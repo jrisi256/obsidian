@@ -1,7 +1,7 @@
----
+```
 type: Meeting
-date: 2023-07-03
----
+date: 2023/07/03
+```
 
 * **Creation date**: `= this.file.ctime`
 * **Last modified date**: `= this.file.mtime`

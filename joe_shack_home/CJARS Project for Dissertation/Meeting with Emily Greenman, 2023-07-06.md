@@ -1,6 +1,7 @@
----
-type: Note
----
+```
+type: Meeting
+date: 2023/07/06
+```
 
 * **Creation date**: `= this.file.ctime`
 * **Last modified date**: `= this.file.mtime`
