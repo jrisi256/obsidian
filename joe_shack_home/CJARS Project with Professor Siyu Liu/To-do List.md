@@ -11,3 +11,4 @@ type: Note
 - [ ] Does it have Stata loaded on the computer units? What version?
 - [ ] Are data files in readily linkable formats? Do staff there do the linkage or is it done already?
 - [ ] What’s the environment like working there? Can you talk as a group while working on something together?
+
