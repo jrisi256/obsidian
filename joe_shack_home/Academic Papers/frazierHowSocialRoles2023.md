@@ -48,7 +48,7 @@ This study draws on role theory and the [[Life course theory|life-course]] persp
   
 * **Dependent variables** -> sleep quantity, sleep quality, and sleep latency (how long does it take you to fall asleep?).
   
-* **Independent variables** -> Role accumulation, role repetoires, and role contexts.
+* **Independent variables** -> Role accumulation, role repertoires, and role contexts.
 	* Categorical variables for marriage, employed, parents.
 	* Role accumulation -> Total number of roles.
 	* Created categories for the cross of all 3 categories (role repertoire).
