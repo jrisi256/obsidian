@@ -79,6 +79,7 @@ Researchers argue that white evangelical Christians are likely to support teachi
 	* In analyses not shown, the authors found about 50% of those who preferred to teach creationism alongside evolution were neither Biblical literalists nor hardcore creationists (endorsed only teaching creationism). The authors suggest this suggests a kind of pluralism among the American population.
 	  
 	* #question Well this is a strange way to frame the results. The questions almost seem mutually exclusive, but is it possible for respondents to answer both in the affirmative? The above statistic seems to frame it in such a way that respondents could respond to both affirmatively. Otherwise, it would seem silly to present that (of course those who support teaching the two alongside each other would not support only teaching one).
+		* We talked a little bit about this. They allow for respondents to answer affirmatively to multiple, seemingly mutually exclusive, options. Respondents often do not have strong views on this issue or, maybe, are open to many different interpretations. Tricky interpretation.
 
 * Big picture conclusions:
 	* Black and White Americans are not very different in their support for teaching creationism and evolution together. Latinos are more likely than Whites to support the co-teaching which is explained by their lower levels of education, higher levels of political conservatism, and higher levels of Catholic affiliation (who are more accommodating).
