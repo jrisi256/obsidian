@@ -71,14 +71,14 @@ Researchers argue that white evangelical Christians are likely to support teachi
 	* Being from the South was associated with higher odds (without religious controls).
 	* Age had a slight negative association.
 	* Political conservatism was positively associated.
-	* Compared to conservative Protestants (reference group), all other religious groups were less likely to suppor the question.
+	* Compared to conservative Protestants (reference group), all other religious groups were less likely to support the question.
 	* Attendance, personal religiosity, and Biblical literalism all had positive associations.
 	* **Interpretations**: Black respondents have lower incomes and less education. Black respondents were also more likely to be female and be from the South. Black respondents were also more likely to identify with conservative Protestant traditions, attend Church more often, and were more likely to be Biblical literalists. Since religious variables *explain away* Black support, the authors argue religion plays a stronger role in shaping support for teaching creationism among Black Americans. Other factors play a role in shaping support for teaching creationism among Latinos.
 
 * Other results:
 	* In analyses not shown, the authors found about 50% of those who preferred to teach creationism alongside evolution were neither Biblical literalists nor hardcore creationists (endorsed only teaching creationism). The authors suggest this suggests a kind of pluralism among the American population.
 	  
-	* #question Well this is a strange way to frame the results. The questions almost seem mutually exclusive, but is it possible for respondents to answer both in the affirmative? The above statistic seems to frame it that way. Otherwise, it would seem silly to present that (of course those who support teaching the two alongside each other would not support only teaching one).
+	* #question Well this is a strange way to frame the results. The questions almost seem mutually exclusive, but is it possible for respondents to answer both in the affirmative? The above statistic seems to frame it in such a way that respondents could respond to both affirmatively. Otherwise, it would seem silly to present that (of course those who support teaching the two alongside each other would not support only teaching one).
 
 * Big picture conclusions:
 	* Black and White Americans are not very different in their support for teaching creationism and evolution together. Latinos are more likely than Whites to support the co-teaching which is explained by their lower levels of education, higher levels of political conservatism, and higher levels of Catholic affiliation (who are more accommodating).
