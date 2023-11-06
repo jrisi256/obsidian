@@ -17,7 +17,7 @@ date: 2019-01-01
 * **Volume**: 5
 * **Issue**: * **Pages**: 2378023119870376
 * **URL**: [https://doi.org/10.1177/2378023119870376](https://doi.org/10.1177/2378023119870376)
-* **Tags**: 
+* **Tags**: #religion #creationism #survey #racial_differences
 * **PDF Attachments**:
   * [SAGE PDF Full Text](zotero://open-pdf/library/items/MPTMDBZV)
 
