@@ -3,6 +3,10 @@ type: Meeting
 date: 2023-10-26
 ```
 
+* **Creation date**: `= this.file.ctime`
+* **Last modified date**: `= this.file.mtime`
+* **Tags**: #CJARS #meeting 
+
 ## Ability to discuss and share results
 
 - The Census takes data security pretty seriously, and it has very strict rules on what can/cannot be communicated and how results can leave the data center.
