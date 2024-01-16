@@ -1,7 +1,9 @@
 ---
-type: [Book]
-author: [Michelle Alexander]
-journal: date: 2012-01-16
+type:
+  - Book
+author:
+  - Michelle Alexander
+date: 2012-01-16
 ---
 
 * **Creation date**: `= this.file.ctime`
