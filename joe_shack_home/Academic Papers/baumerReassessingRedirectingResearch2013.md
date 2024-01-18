@@ -69,10 +69,6 @@ Racially disparate patterns can arise because of two extremes: racial difference
 3. Little attention has been paid to prosecutorial screening, pre-trial decisions, plea bargaining, and trial decisions (data availability issues).
     
 4. Not enough attention paid to the role race plays in legislatures who are creating sentencing guidelines.
-
-![](https://lh6.googleusercontent.com/NhRIdk9lCAWVzDf-ikJPhjJiHE3Q79LTkzi44xO5cpf3t591ym_sQNE9ZIov7QGWZSQtBovmG-39OAZqE9nvPDiEsJJJuaS1ZDcLSE4r9abLDOYNXrxwQ_9Victm9o6lK4UQ-1r8Eb-mgH6MzVEC)
-#figure
-
 ### Future Directions
 
 - Borrow more liberally from other areas of study -> [[multistage regression]], [[propensity score matching]]. Perhaps adopt alternative estimation procedures? Lab/field experiments would be useful (mock trials, law students, members of the court community), borrow from hiring/lending and housing markets literature (ask prosecutors if they would seek death penalty after reading a case file).
@@ -84,3 +80,4 @@ Racially disparate patterns can arise because of two extremes: racial difference
 - Case narratives and qualitative research.
 
 - Cognitive research and neurological research on how we make decisions.
+
