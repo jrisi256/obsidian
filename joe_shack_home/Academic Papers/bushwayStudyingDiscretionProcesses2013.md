@@ -51,7 +51,7 @@ Analyzing discretion -> look to other fields (portfolio management) → How well
 
 ### Research Questions
 
-**Reducing Disparity** → Do guidelines reduce disparity? Some scholars argue they do.These authors claim no. Disparities seem largely the same before and after. Larger problem is these analyses are focused on conviction data. We need system-wide data. Can create bench marking models and counterfactual worlds to see how real-world disparities are different from hypothesized, idealized alternatives. Can look at guidelines/statutes themselves as sources of disparity. Crack vs. cocaine.
+**Reducing Disparity** → Do guidelines reduce disparity? Some scholars argue they do. These authors claim no. Disparities seem largely the same before and after. Larger problem is these analyses are focused on conviction data. We need system-wide data. Can create bench marking models and counterfactual worlds to see how real-world disparities are different from hypothesized, idealized alternatives. Can look at guidelines/statutes themselves as sources of disparity. Crack vs. cocaine.
 
 **Crime** → Another goal of sentencing. Laws are intended to reduce crime. Usually do before/after analyses on crime data. Causal power is limited, challenging to find counterfactuals. Another approach is to use longitudinal data (people’s drinking behavior before/after they become of legal age to drink). Individual-level data is very important, linking sentencing data to data on criminal behavior. We need to be creating theoretical models which account for what should be happening and then comparing to this theoretical model rather than the null.
 
