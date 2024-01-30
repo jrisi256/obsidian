@@ -3,6 +3,10 @@ type: Meeting
 date: 2023-10-25
 ```
 
+* **Creation date**: `= this.file.ctime`
+* **Last modified date**: `= this.file.mtime`
+* **Tags**: #policing #linda_project
+
 We discussed a lot of things, and I came away from the meeting feeling like it was a really good conversation. The notes here are not an in-depth recount of everything discussed. Instead, they are an accounting of the next steps/research ideas we generated.
 
 * Look for sudden changes in an officer's usual shift. How often does an officer change shifts? When do changes in shifts happen? Is it a sign of a reward or a punishment?
