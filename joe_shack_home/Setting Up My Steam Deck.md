@@ -134,13 +134,12 @@ The basic logic is as follows:
     
 11. The ideal situation is to create a new entry in Steam for this new game. Why? In case we want to create custom controls for this game or we need a specific version of Proton for this game. It also just makes it really nice aesthetically to have an entry on your Steam deck for the game. How do we create an entry for the game on your Steam deck? There are many ways to do it. I will focus on the one way I have found to be easiest.
     
-12. Add another entry for the digital storefront to Steam. Click on *Add a Non-Steam game*, navigate to where the .exe file is stored for the digital storefront, and then add it to Steam. You need to run the digital storefront once for the Proton prefix folder to be created. Rename the digital storefront to be for the game you are interested in playing.
-
-13. Now the prefix folder we created for the digital storefront is useless and just wasted space on your drive. We want the game to take advantage of the already existing prefix folder in which the digital storefront is *actually* stored. So take note of the prefix folder number created for this new digital storefront, and then delete that prefix folder. Next create a symbolic link to the prefix folder where the digital storefront is *actually* installed, but rename the folder to be the deleted folder's number.
+12. Add another entry for the digital storefront to Steam. Click on *Add a Non-Steam game*, navigate to where the .exe file is for the game, and then add it to Steam. You need to run the game once for the Proton prefix folder to be created. Rename the game to its appropriate title.
     
-14. This newly created entry is just pointing back to the original storefront. You could theoretically then play any of your installed games from this digital storefront. The Steam entry for the game is illusory. However, it is useful for organizational and aesthetic purposes, but it is also useful in instances where games need custom controls or Proton settings.
-    
-15. When shifting back to gaming mode, I like to change the controller layout to *Keyboard (WASD) and Mouse*. I find this makes it easiest to interact with the storefront in gaming mode. When I want to play the game, I shift it back to game-pad plus joystick. It is a little annoying, but I am not sure what else can be done. I suppose you could use the touchscreen to navigate and keep the game-pad plus joystick control configuration. The touchscreen on the Steam Deck is pretty bad, though.
+13. Using Protontricks, find the name of the prefix folder created for our newly created game. Keep in mind the name of the prefix folder for the digital storefront which was used to install the game. Open up the prefix folder for the game, and delete all of its contents. Then, symbolically link the contents from the digital storefront prefix folder into the folder for the game.
+	1. Note that I used to delete the folder entirely and symbolically link the entire prefix folder. When trying to remove the game from Steam after I was down playing it though, Steam would delete *everything* i.e., the link as well as the original copy. So I would lose all other games installed from that storefront as well as the storefront iteself.
+	   
+14. I like to set the controller layout and Proton versions on a per-game and per-storefront basis. Generally, games will use some gamepad layout while the storefronts will usually use a mouse and keyboard. You could also use a gamepad layout for the storefronts, and use the touch screen of the Steam deck to navigate.
 
 I download the following storefronts onto my Steam Deck. The only one that is missing is Riot Games. I chose not to download Riot Games because their games are, in general, not very compatible with Linux.
 
@@ -148,6 +147,7 @@ I download the following storefronts onto my Steam Deck. The only one that is mi
 * Ubisoft Connect
 * Battle.net
 * EA Launcher
+	* When updating the EA launcher, one can occasionally run into issues. I found this [reddit link](https://www.reddit.com/r/SteamDeck/comments/ythyx9/how_to_update_ea_desktop_app/)to be very useful in helping fix the issue.
 * itch.io
 * GOG Galaxy
 ## Install CryoUtilities
