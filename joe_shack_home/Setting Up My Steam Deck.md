@@ -70,6 +70,7 @@ type: Note
 		* Pause before Suspend.
 		* Pause on focus loss.
 		* Also on overlay.
+	* PlayTime.
 	* PowerTools.
 	* ProtonDB Badges.
 	* SteamGridDB.
