@@ -1,7 +1,7 @@
 ---
 type: [Chapter]
 author: [Glenn Firebaugh, Cody Warner, Michael Massoglia]
-journal: date: 2013
+date: 2013
 ---
 
 * **Creation date**: `= this.file.ctime`
