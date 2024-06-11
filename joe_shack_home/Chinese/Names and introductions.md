@@ -19,3 +19,7 @@ type:
 **Nǐ de xìng shì shénme**? What is your family name? Notice how **xìng** is a noun here.
 
 **Zhè gè lǎoshī xìng shénme**? What is this teacher's last name?
+
+**Nǐ jiào shénme míngzi?** --> What is your name? Notice how we include the verb **jiào**, the question word **shénme**, and **míngzi** (name) at the end of the sentence?
+
+**Nà gè xuésheng jiào shénme míngzi?** --> What is that student's name?
