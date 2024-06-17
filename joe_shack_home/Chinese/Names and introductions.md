@@ -15,11 +15,14 @@ type:
 **Wǒ jiào Joe** --> I am called Joe.
 **Tā jiào Ray** --> He is called Ray.
 
-**Nǐ xìng shénme**? What is your family name? Notice how **xìng** is a verb here.
-**Nǐ de xìng shì shénme**? What is your family name? Notice how **xìng** is a noun here.
+### Last name
 
-**Zhè gè lǎoshī xìng shénme**? What is this teacher's last name?
+* **Nǐ xìng shénme**? What is your family name? Notice how **xìng** is a verb here.
+* **Nǐ de xìng shì shénme**? What is your family name? Notice how **xìng** is a noun here.
+* **Zhè gè lǎoshī xìng shénme**? What is this teacher's last name?
 
-**Nǐ jiào shénme míngzi?** --> What is your name? Notice how we include the verb **jiào**, the question word **shénme**, and **míngzi** (name) at the end of the sentence?
+### First name
 
-**Nà gè xuésheng jiào shénme míngzi?** --> What is that student's name?
+* **Nǐ jiào shénme míngzi?** --> What is your name? Notice how we include the verb **jiào**, the question word **shénme**, and **míngzi** (name) at the end of the sentence?
+* **Nǐ de míngzi shì shénme?** --> Also means "What is your name?"
+* **Nà gè xuésheng jiào shénme míngzi?** --> What is that student's name?
