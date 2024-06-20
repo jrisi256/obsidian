@@ -46,3 +46,14 @@ type:
 	  
 * **Jīntiān <font style="color:yellow">èr líng èr sì nián</font> <font style="color:green">sì yué</font> <font style="color:red">yī hào</font>, míngtiān ne**? --> Today is April 1st, 2024. What about tomorrow?
 	* In Chinese, you must always specify the unit of time after each unit.
+
+## Counting off times (cì)
+
+* **Yī cì**, **liǎng cì**, **sān cì**, **sì cì**
+	* One time, two times, three times, four times.
+	* Strangely enough, only two gets changed to **liǎng**.
+
+### First, second, third, etc.
+
+* **Dì yī cì, dì èr cì, dì sān cì, dì sì cì**.
+* First, second, third, fourth.
