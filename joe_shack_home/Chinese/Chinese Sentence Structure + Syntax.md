@@ -36,3 +36,14 @@ When expressing time, the following formulas is usually used:
 	* **Time** --> jīntiān
 	* **Adverb** --> hěn
 	* **Verb** --> lèi
+
+## Multiple subjects
+
+Let's say you wanted to say, "I am very happy to know you."
+* **Wǒ hěn gāoxìng rènshi nǐ**. --> Very easy for English speakers to process.
+* If you wanted to overly formaly about it, you could say --> **Wǒ hěn gāoxìng wǒ rènshi nǐ.** --> Which translates to something more like, "I am very happy that I know you."
+* In Chinese, you can omit one of the subjects.
+	* **Hěn gāoxìng wǒ rènshi nǐ.**
+* You can also switch around the order:
+	* **Rènshi nǐ wǒ hěn gāoxìng.**
+	* **Wǒ rènshi nǐ hěn gāoxìng.**
