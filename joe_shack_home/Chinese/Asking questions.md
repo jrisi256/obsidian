@@ -33,6 +33,24 @@ Can be used with any adjective.
 	* **Wǒ zài měiguó.** --> I am in the United States.
 * **Wǒ zài jiā**. --> I am in home.
 
+## Zěnme
+
+* How?
+
+## Wèi shě me
+
+* Why?
+
+## Shénme
+
+* What?
+
+## Zěnme yàng + Shénme yàng
+
+* When these questions are combined with **yàng**, it changes their meaning to mean **how about/what about** and **what kind**.
+* **Nǐ hē shénme yàng de kāfēi?** --> What kind of coffee are you drinking?
+* **Děng yīxià wǒmen qù hē kāfēi, zěnme yàng?** --> How about later we go drink coffee?
+	* **Zěnme yàng** always goes at the end of a sentence. It is a little bit like **ne**.
 ## The placement of the question word
 
 Up until this point, I had been pretty comfortable just placing the question word at the end of the sentence and that was that. This is not quite accurate, though. The question word generally *replaces* the part that is unknown to you. Some examples below:
