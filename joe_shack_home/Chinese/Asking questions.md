@@ -48,12 +48,19 @@ Can be used with any adjective.
 ## Shéi
 
 * Who?
+  
 * **Shéi shì Mary?** --> Who is Mary?
+  
 	* **Tā shì Mary.** --> She is Mary.
 	* **Nàgè rén shì Mary.** That person is Mary.
+	  
 * **Tā shì shéi?** --> Who is she?
 	* **Tā shì Mary.** She is Mary.
+	  
 * Notice how wherever **shéi** is, it needs to be in the place we are uncertain about, so to speak. We replace the question word with the answer to the question.
+  
+* **Tā shì shéi de lǎoshī?** --> Who's teacher is that? More literally, he is who's teacher?
+	* **Tā shì Daniel de lǎoshī.** --> He is Daniel's teacher.
 
 ## Zěnme yàng + Shénme yàng
 
