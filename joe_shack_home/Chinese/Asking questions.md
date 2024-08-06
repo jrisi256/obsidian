@@ -45,6 +45,16 @@ Can be used with any adjective.
 
 * What?
 
+## Shéi
+
+* Who?
+* **Shéi shì Mary?** --> Who is Mary?
+	* **Tā shì Mary.** --> She is Mary.
+	* **Nàgè rén shì Mary.** That person is Mary.
+* **Tā shì shéi?** --> Who is she?
+	* **Tā shì Mary.** She is Mary.
+* Notice how wherever **shéi** is, it needs to be in the place we are uncertain about, so to speak. We replace the question word with the answer to the question.
+
 ## Zěnme yàng + Shénme yàng
 
 * When these questions are combined with **yàng**, it changes their meaning to mean **how about/what about** and **what kind**.
