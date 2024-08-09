@@ -14,10 +14,13 @@ If you want to ask someone if they are busy you can ask:
 
 But you can also ask:
 * **Nǐ lèi bù lèi?** --> This also means, "Are you tired?" Literally translates to "Are you tired or not tired?"
+* This is a common way of asking questions in Chinese. Basically **verb/adjective + negation + verb/adjective**.
 
 Can be used with any adjective.
-
 * **Nǐ zài jiā ma?** --> Are you home?
+
+Other examples:
+*  **Rìběn, hǎowán ma?** -> Was Japan fun? 
 ### Ne
 
 * **Wǒ hěn hǎo, nǐ ne?** --> I am very good, and you?
@@ -26,12 +29,17 @@ Can be used with any adjective.
 ## Jǐ
 
 * **Qù jǐ cì?** --> How many times did you go? **Jǐ** is like "how many".
+* **Jǐ yuè?** --> Which month? **Jǐ** is used when asking which month because months are communicated using numbers e.g., **yī yuè** = January.
 
 ## Nǎ
 
 * **Nǐ zài nǎ?** --> Where are you? Literally translates to: "You in where?"
 	* **Wǒ zài měiguó.** --> I am in the United States.
 * **Wǒ zài jiā**. --> I am in home.
+* Can also mean "which".
+
+Other examples:
+* **Nǐmen qùle Rìběn de nǎ?** --> Where did you go in Japan?
 
 ## Zěnme
 
@@ -45,6 +53,9 @@ Can be used with any adjective.
 
 * What?
 
+## Shénme shíhòu
+
+* When?
 ## Shéi
 
 * Who?

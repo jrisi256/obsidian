@@ -15,3 +15,8 @@ Chinese is loose on its rules. As such, you do not always need to use an explici
 
 * **<font color = "red">Nǐ de</font> fāyīn hěn hǎo.** --> Your pronunciation is very good.
 * **Wǒ xǐhuān <font color = "red">wǒ de</font> nǚ péngyǒu.** --> I like my girlfriend. You also could omit the "de" in the sentence, and it would be fine. As mentioned earlier, it is not a strict rule.
+
+### Examples
+
+* **Fànguǎn de rén** --> People of the restaurant, i.e. workers.
+* **Rén de fànguǎn** --> Restaurant for people.
