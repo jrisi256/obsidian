@@ -20,7 +20,8 @@ Can be used with any adjective.
 * **Nǐ zài jiā ma?** --> Are you home?
 
 Other examples:
-*  **Rìběn, hǎowán ma?** -> Was Japan fun? 
+*  **Rìběn, hǎowán ma?** -> Was Japan fun?
+* **Paul lǎoshī shì dàxué de lǎoshī ma?** --> Is teacher Paul a college teacher?
 ### Ne
 
 * **Wǒ hěn hǎo, nǐ ne?** --> I am very good, and you?
@@ -31,15 +32,15 @@ Other examples:
 * **Qù jǐ cì?** --> How many times did you go? **Jǐ** is like "how many".
 * **Jǐ yuè?** --> Which month? **Jǐ** is used when asking which month because months are communicated using numbers e.g., **yī yuè** = January.
 
-## Nǎ
+## Nǎr
 
-* **Nǐ zài nǎ?** --> Where are you? Literally translates to: "You in where?"
+* **Nǐ zài nǎr?** --> Where are you? Literally translates to: "You in where?"
 	* **Wǒ zài měiguó.** --> I am in the United States.
 * **Wǒ zài jiā**. --> I am in home.
-* Can also mean "which".
 
 Other examples:
-* **Nǐmen qùle Rìběn de nǎ?** --> Where did you go in Japan?
+* **Nǐmen qùle Rìběn de nǎr?** --> Where did you go in Japan?
+* **Ray de jiā zài nǎr?** --> Where is the home of Ray?
 
 ## Zěnme
 
@@ -61,7 +62,6 @@ Other examples:
 * Who?
   
 * **Shéi shì Mary?** --> Who is Mary?
-  
 	* **Tā shì Mary.** --> She is Mary.
 	* **Nàgè rén shì Mary.** That person is Mary.
 	  
@@ -72,6 +72,8 @@ Other examples:
   
 * **Tā shì shéi de lǎoshī?** --> Who's teacher is that? More literally, he is who's teacher?
 	* **Tā shì Daniel de lǎoshī.** --> He is Daniel's teacher.
+	  
+* **Shéi shì Wáng lǎoshī de xuéshēng?** --> Who is the student of teacher Wang?
 
 ## Zěnme yàng + Shénme yàng
 

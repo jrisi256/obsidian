@@ -20,3 +20,6 @@ Chinese is loose on its rules. As such, you do not always need to use an explici
 
 * **Fànguǎn de rén** --> People of the restaurant, i.e. workers.
 * **Rén de fànguǎn** --> Restaurant for people.
+* 王老师是什么大学的老师
+* **Matt lǎoshī shì shénme dàxué de lǎoshī?** --> Teacher Matt is a teacher at what university?
+	* Could also: **nǎ gè** instead of **shénme**.

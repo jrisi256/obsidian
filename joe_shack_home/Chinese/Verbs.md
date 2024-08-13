@@ -9,7 +9,8 @@ type:
 
 ## Combining verbs
 
-**Wǒ bù xǐhuān hē kāfēi** --> I do not like to drink coffee.
+* **Wǒ bù xǐhuān hē kāfēi** --> I do not like to drink coffee.
+* **Matt de jiějie zài shāngdiàn gōngzuò ma?** --> Matt's older sister works in the shop?
 
 ## Gōngzuò
 

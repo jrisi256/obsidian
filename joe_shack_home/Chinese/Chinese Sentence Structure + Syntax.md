@@ -14,6 +14,12 @@ When expressing time, the following formulas is usually used:
 * Subject + Time + Adverb + Verb + Adjective + Object
 * Time + Subject + Adverb + Verb + Adjective + Object
 
+When expressing a location, the following formula is usually used:
+* Subject + Time + Location + Adverb + Verb + Adjective + Object.
+* **Ray jīntiān zài jiā ma?** --> Ray is at home today?
+* **Ray jīntiān zài jiā gōngzuò ma?** --> Ray is working from home home today?
+* Notice --> Subject + Time + Location + Verb.
+
 ## Examples
 
 * **Wǒ yě hěn hǎo** --> I am also very good.

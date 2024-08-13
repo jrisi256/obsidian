@@ -29,4 +29,9 @@ You can also use "le" with adjectives to indicate something is too much.
 
 ### Using le with verbs
 
-* 
+* dd
+
+## Yíxiàr
+
+* Used to indicate an action which is done quickly or casually.
+* **Wǒ jièshào yíxiàr wǒ péngyǒu Ray.** --> I introduce quickly my friend Ray.
