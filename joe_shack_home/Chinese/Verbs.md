@@ -28,6 +28,10 @@ type:
 * **Wǒ tīng dào nǐ chīfàn de shēngyīn.** --> I hear you eating.
 	* Not quite sure what **dào** and **dédào** mean yet.
 
+* **Nǐ kàn dédào ma?** --> Can you see (it)?
+	* **Dédào** --> By itself, it means to receive something or to obtain something. It does not intuitively translate into English. It might translate into something like, "Did you receive this sight?"
+	* It is used in conjunction with one's senses when they are used as a verb: sight, smell, hearing.
+
 ## Xíguàn
 
 * It can be used as a verb and a noun. When it is used as a verb, it means "used to" in both senses. As in, "I used to go running every morning." and "I am used to spicy food". As a noun, it roughly means something like "habit".

@@ -29,7 +29,7 @@ You can also use "le" with adjectives to indicate something is too much.
 
 ### Using le with verbs
 
-* dd
+* 
 
 ## Yíxiàr
 

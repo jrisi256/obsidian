@@ -27,10 +27,15 @@ Other examples:
 * **Wǒ hěn hǎo, nǐ ne?** --> I am very good, and you?
 * **Wǒ jīntiān hěn máng, nǐ ne**? --> Today I am very busy, what about you?
 
-## Jǐ
+## Jǐ + duōshǎo
 
 * **Qù jǐ cì?** --> How many times did you go? **Jǐ** is like "how many".
 * **Jǐ yuè?** --> Which month? **Jǐ** is used when asking which month because months are communicated using numbers e.g., **yī yuè** = January.
+
+Another way to ask how many is by using **duōshǎo**. It is usually used when asking for things like money, phone numbers, account numbers, etc. However, it can also be used somewhat interchangeably with **jǐ**. One key difference between them is that **jǐ** usually needs a measure word.
+
+* **duōshǎo rén** = **jǐ gè rén** --> How many people?
+* **duōshǎo rén** = **jǐ kuài** --> How much money?
 
 ## Nǎr
 

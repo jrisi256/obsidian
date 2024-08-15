@@ -52,6 +52,8 @@ type:
 * **Yī cì**, **liǎng cì**, **sān cì**, **sì cì**
 	* One time, two times, three times, four times.
 	* Strangely enough, only two gets changed to **liǎng**.
+* **Wǒ yào sān gè.** --> I want three.
+* **Wǒ yào liǎng gè.** --> I want two.
 
 ### First, second, third, etc.
 
