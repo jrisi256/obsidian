@@ -13,9 +13,10 @@ Sentences usually follow the formula:
 When expressing time, the following formulas is usually used:
 * Subject + Time + Adverb + Verb + Adjective + Object
 * Time + Subject + Adverb + Verb + Adjective + Object
+* **Ta shí yuè huí měiguó ma?** --> Will she come to the USA in October? --> **Subject + Time + Verb + Object**.
 
 When expressing a location, the following formula is usually used:
-* Subject + Time + Location + Adverb + Verb + Adjective + Object.
+* Subject/Time + Locatin + Verb.
 * **Ray jīntiān zài jiā ma?** --> Ray is at home today?
 * **Ray jīntiān zài jiā gōngzuò ma?** --> Ray is working from home home today?
 * Notice --> Subject + Time + Location + Verb.

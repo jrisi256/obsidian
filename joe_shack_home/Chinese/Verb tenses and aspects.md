@@ -33,5 +33,8 @@ You can also use "le" with adjectives to indicate something is too much.
 
 ## Yíxiàr
 
-* Used to indicate an action which is done quickly or casually.
+Used to indicate an action which is done quickly or casually.
+
 * **Wǒ jièshào yíxiàr wǒ péngyǒu Ray.** --> I introduce quickly my friend Ray.
+* **Wǒ kàn (tīng, xiūxi) yíxiàr.** --> Let me have a quick look (listen, rest).
+* **Nǐ qǐng kàn yíxiàr.** --> Please have a quick look.

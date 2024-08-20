@@ -46,6 +46,9 @@ Another way to ask how many is by using **duōshǎo**. It is usually used when a
 Other examples:
 * **Nǐmen qùle Rìběn de nǎr?** --> Where did you go in Japan?
 * **Ray de jiā zài nǎr?** --> Where is the home of Ray?
+* **Tā gēgē zài nǎr gōngzuò?** --> Where does his older brother work? More literally. His older brothers works at where?
+* **Jiàoshì zài nǎr?** --> Where is the classroom?
+	* **Jiàoshì zài dàxué.** --> The classroom is in the university.
 
 ## Zěnme
 
