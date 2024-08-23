@@ -32,7 +32,20 @@ type:
 * **Jīntiān Wáng lǎoshī gōngzuò**. --> Teacher Wang will work today.
 
 **Subject + Time + Verb** or **Time + Subject + Verb**.
+### Communicating hours/minutes
 
+* **Xiànzài jǐ diǎn?** --> What time is it now?
+* **Answer**
+	* **Xiànzài bā diǎn shí fēn.** --> It is 8:10 now.
+	* **Xiànzài bā diǎn bàn.** --> It is 8:30 now. We do not use **fēn** here.
+	* **Xiànzài bā diǎn yī kè** --> It is 8:15 now.
+	* **Xiànzài sì diǎn.** --> It is 4 o'clock now.
+	  
+* **Nǐ jīntiān jǐ diǎn qǐlái?** --> What time did you wake up today?
+  
+* **Nǐ jīntiān gōngzuò jǐ gè xiǎoshí?** --> How many hours did you work today? [[Asking questions]].
+  
+* **Nǐ jīntiān gōngzuò duōjiǔ xiǎoshí?** --> How many hours did you work today?
 ## Communicating Dates
 
 * **Jīntian yī hào** --> Today is the first.

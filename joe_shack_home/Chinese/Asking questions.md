@@ -30,13 +30,19 @@ Other examples:
 ## Jǐ + duōshǎo
 
 * **Qù jǐ cì?** --> How many times did you go? **Jǐ** is like "how many".
-* **Jǐ yuè?** --> Which month? **Jǐ** is used when asking which month because months are communicated using numbers e.g., **yī yuè** = January.
+* **Jǐ yuè?** --> Which month? **Jǐ** is used when asking which month because months are communicated using numbers e.g., **yī yuè** = January. [[Numbers and Dates]].
+* Be careful, though. If you want to say "one month" --> you must say **yī gè yuè**.
 
 Another way to ask how many is by using **duōshǎo**. It is usually used when asking for things like money, phone numbers, account numbers, etc. However, it can also be used somewhat interchangeably with **jǐ**. One key difference between them is that **jǐ** usually needs a measure word.
 
 * **duōshǎo rén** = **jǐ gè rén** --> How many people?
 * **duōshǎo rén** = **jǐ kuài** --> How much money?
 
+See [[Numbers and Dates]] for **jǐ diǎn**.
+
+## duōjiǔ
+
+See [[Numbers and Dates]].
 ## Nǎr
 
 * **Nǐ zài nǎr?** --> Where are you? Literally translates to: "You in where?"
@@ -65,6 +71,8 @@ Other examples:
 ## Shénme shíhòu
 
 * When?
+* **Nǐ de shēngrì shì shénme shíhòu?** --> When is your brithday.
+* **Wǒ de shēngrì shì 1993 nián 9 yuè 22 hào.**
 ## Shéi
 
 * Who?
