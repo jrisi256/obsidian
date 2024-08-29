@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Richard A. Cloward]
-journal: [American Sociological Review]
-date: 1959
+type:
+  - Article
+author:
+  - Richard A. Cloward
+journal:
+  - American Sociological Review
+year: 1959
 ---
 
 * **Creation date**: `= this.file.ctime`

@@ -1,8 +1,13 @@
 ---
-type: [Article]
-author: [Jason R. Ingram, Eugene A. Paoline III, William Terrill]
-journal: [Criminology]
-date: 2013
+type:
+  - Article
+author:
+  - Jason R. Ingram
+  - Eugene A. Paoline III
+  - William Terrill
+journal:
+  - Criminology
+year: 2013
 ---
 
 * **Creation date**: `= this.file.ctime`

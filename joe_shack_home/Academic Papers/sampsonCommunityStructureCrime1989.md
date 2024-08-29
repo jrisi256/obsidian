@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Robert J. Sampson, W. Byron Groves]
-journal: [American Journal of Sociology]
-date: 1989
+type:
+  - Article
+author:
+  - Robert J. Sampson
+  - W. Byron Groves
+journal:
+  - American Journal of Sociology
+year: 1989
 ---
 
 * **Creation date**: `= this.file.ctime`

@@ -1,7 +1,9 @@
 ---
-type: [Book]
-author: [Jerome H. Skolnick]
-date: 1966
+type:
+  - Book
+author:
+  - Jerome H. Skolnick
+year: 1966
 ---
 
 * **Creation date**: `= this.file.ctime`

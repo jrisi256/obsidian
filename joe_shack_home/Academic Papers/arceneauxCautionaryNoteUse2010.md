@@ -1,8 +1,13 @@
 ---
-type: [Article]
-author: [Kevin Arceneaux, Alan S. Gerber, Donald P. Green]
-journal: [Sociological Methods & Research]
-date: 2010-11-01
+type:
+  - Article
+author:
+  - Kevin Arceneaux
+  - Alan S. Gerber
+  - Donald P. Green
+journal:
+  - Sociological Methods & Research
+year: 2010
 ---
 
 * **Creation date**: `= this.file.ctime`

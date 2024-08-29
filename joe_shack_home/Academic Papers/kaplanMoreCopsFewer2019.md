@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Jacob Kaplan, Aaron Chalfin]
-journal: [Criminology & Public Policy]
-date: 2019
+type:
+  - Article
+author:
+  - Jacob Kaplan
+  - Aaron Chalfin
+journal:
+  - Criminology & Public Policy
+year: 2019
 ---
 
 * **Creation date**: `= this.file.ctime`

@@ -1,8 +1,14 @@
 ---
-type: [Article]
-author: [Esmeralda Sánchez Salazar, Brandon Vaidyanathan, Elaine Howard Ecklund, Adriana Garcia]
-journal: [Socius]
-date: 2019-01-01
+type:
+  - Article
+author:
+  - Esmeralda Sánchez Salazar
+  - Brandon Vaidyanathan
+  - Elaine Howard Ecklund
+  - Adriana Garcia
+journal:
+  - Socius
+year: 2019
 ---
 
 * **Creation date**: `= this.file.ctime`

@@ -1,6 +1,14 @@
 ---
-type: note
-aliases: [Experiment, experiments, Experiments, RCTs, Randomized controlled trials, randomized controlled trials, Randomized Controlled Trials]
+type:
+  - Note
+aliases:
+  - Experiment
+  - experiments
+  - Experiments
+  - RCTs
+  - Randomized controlled trials
+  - randomized controlled trials
+  - Randomized Controlled Trials
 ---
 
 * **Creation date**: `= this.file.ctime`

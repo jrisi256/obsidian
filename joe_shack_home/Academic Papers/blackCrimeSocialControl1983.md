@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Donald Black]
-journal: [American Sociological Review]
-date: 1983
+type:
+  - Article
+author:
+  - Donald Black
+journal:
+  - American Sociological Review
+year: 1983
 ---
 
 * **Creation date**: `= this.file.ctime`

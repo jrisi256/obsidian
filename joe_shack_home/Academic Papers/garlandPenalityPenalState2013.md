@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [David Garland]
-journal: [Criminology]
-date: 2013
+type:
+  - Article
+author:
+  - David Garland
+journal:
+  - Criminology
+year: 2013
 ---
 
 * **Creation date**: `= this.file.ctime`

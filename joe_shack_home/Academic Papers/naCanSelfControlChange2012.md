@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Chongmin Na, Raymond Paternoster]
-journal: [Criminology]
-date: 2012
+type:
+  - Article
+author:
+  - Chongmin Na
+  - Raymond Paternoster
+journal:
+  - Criminology
+year: 2012
 ---
 
 * **Creation date**: `= this.file.ctime`

@@ -1,8 +1,13 @@
 ---
-type: [Article]
-author: [David Jacobs, Jason T. Carmichael, Stephanie L. Kent]
-journal: [American Sociological Review]
-date: 2005
+type:
+  - Article
+author:
+  - David Jacobs
+  - Jason T. Carmichael
+  - Stephanie L. Kent
+journal:
+  - American Sociological Review
+year: 2005
 ---
 
 * **Creation date**: `= this.file.ctime`

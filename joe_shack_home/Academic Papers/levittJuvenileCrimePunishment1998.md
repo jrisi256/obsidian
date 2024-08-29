@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Steven D. Levitt]
-journal: [Journal of Political Economy]
-date: 1998-12
+type:
+  - Article
+author:
+  - Steven D. Levitt
+journal:
+  - Journal of Political Economy
+year: 1998
 ---
 
 * **Creation date**: `= this.file.ctime`

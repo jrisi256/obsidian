@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Christopher Muller]
-journal: [American Journal of Sociology]
-date: 2012-09
+type:
+  - Article
+author:
+  - Christopher Muller
+journal:
+  - American Journal of Sociology
+year: 2012
 ---
 
 * **Creation date**: `= this.file.ctime`

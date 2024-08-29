@@ -1,8 +1,13 @@
 ---
-type: [Article]
-author: [Paul Gendreau, Tracy Little, Claire Goggin]
-journal: [Criminology]
-date: 1996
+type:
+  - Article
+author:
+  - Paul Gendreau
+  - Tracy Little
+  - Claire Goggin
+journal:
+  - Criminology
+year: 1996
 ---
 
 * **Creation date**: `= this.file.ctime`

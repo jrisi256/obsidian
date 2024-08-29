@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [David S. Kirk]
-journal: [Criminology]
-date: 2012
+type:
+  - Article
+author:
+  - David S. Kirk
+journal:
+  - Criminology
+year: 2012
 ---
 
 * **Creation date**: `= this.file.ctime`

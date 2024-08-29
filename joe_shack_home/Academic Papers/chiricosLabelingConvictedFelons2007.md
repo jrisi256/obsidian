@@ -1,8 +1,14 @@
 ---
-type: [Article]
-author: [Ted Chiricos, Kelle Barrick, William Bales, Stephanie Bontrager]
-journal: [Criminology]
-date: 2007
+type:
+  - Article
+author:
+  - Ted Chiricos
+  - Kelle Barrick
+  - William Bales
+  - Stephanie Bontrager
+journal:
+  - Criminology
+year: 2007
 ---
 
 * **Creation date**: `= this.file.ctime`

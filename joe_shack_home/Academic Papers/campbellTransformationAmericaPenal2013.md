@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Michael C. Campbell, Heather Schoenfeld]
-journal: [American Journal of Sociology]
-date: 2013-03
+type:
+  - Article
+author:
+  - Michael C. Campbell
+  - Heather Schoenfeld
+journal:
+  - American Journal of Sociology
+year: 2013
 ---
 
 * **Creation date**: `= this.file.ctime`

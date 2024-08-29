@@ -1,8 +1,14 @@
 ---
-type: [Article]
-author: [Anthony A. Braga, Brandon S. Turchan, Andrew V. Papachristos, David M. Hureau]
-journal: [Journal of Experimental Criminology]
-date: 2019-09-01
+type:
+  - Article
+author:
+  - Anthony A. Braga
+  - Brandon S. Turchan
+  - Andrew V. Papachristos
+  - David M. Hureau
+journal:
+  - Journal of Experimental Criminology
+year: 2019
 ---
 
 * **Creation date**: `= this.file.ctime`

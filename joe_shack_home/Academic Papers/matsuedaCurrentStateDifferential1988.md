@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Ross L. Matsueda]
-journal: [Crime & Delinquency]
-date: 1988-07-01
+type:
+  - Article
+author:
+  - Ross L. Matsueda
+journal:
+  - Crime & Delinquency
+year: 1988
 ---
 
 * **Creation date**: `= this.file.ctime`

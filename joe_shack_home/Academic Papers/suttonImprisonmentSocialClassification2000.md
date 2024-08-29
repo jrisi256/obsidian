@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [John R. Sutton]
-journal: [American Journal of Sociology]
-date: 2000
+type:
+  - Article
+author:
+  - John R. Sutton
+journal:
+  - American Journal of Sociology
+year: 2000
 ---
 
 * **Creation date**: `= this.file.ctime`

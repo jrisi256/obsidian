@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Shytierra Gaston]
-journal: [Criminology]
-date: 2019
+type:
+  - Article
+author:
+  - Shytierra Gaston
+journal:
+  - Criminology
+year: 2019
 ---
 
 * **Creation date**: `= this.file.ctime`

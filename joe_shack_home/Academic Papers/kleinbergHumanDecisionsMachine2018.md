@@ -1,8 +1,15 @@
 ---
-type: [Article]
-author: [Jon Kleinberg, Himabindu Lakkaraju, Jure Leskovec, Jens Ludwig, Sendhil Mullainathan]
-journal: [The Quarterly Journal of Economics]
-date: 2018-02-01
+type:
+  - Article
+author:
+  - Jon Kleinberg
+  - Himabindu Lakkaraju
+  - Jure Leskovec
+  - Jens Ludwig
+  - Sendhil Mullainathan
+journal:
+  - The Quarterly Journal of Economics
+year: 2018
 ---
 
 * **Creation date**: `= this.file.ctime`

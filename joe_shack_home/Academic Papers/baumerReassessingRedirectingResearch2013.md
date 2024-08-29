@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Eric   P. Baumer]
-journal: [Justice Quarterly]
-date: 2013-04-01
+type:
+  - Article
+author:
+  - Eric P. Baumer
+journal:
+  - Justice Quarterly
+year: 2013
 ---
 
 * **Creation date**: `= this.file.ctime`
@@ -10,7 +13,7 @@ date: 2013-04-01
 
 ## Metadata
 
-* **Author(s)**: Eric   P. Baumer
+* **Author(s)**: Eric P. Baumer
 * **Title**: Reassessing and Redirecting Research on Race and Sentencing
 * **Date of publication**: 2013-04-01
 * **Journal**: Justice Quarterly

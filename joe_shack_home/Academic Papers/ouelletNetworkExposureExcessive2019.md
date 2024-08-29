@@ -1,8 +1,14 @@
 ---
-type: [Article]
-author: [Marie Ouellet, Sadaf Hashimi, Jason Gravel, Andrew V. Papachristos]
-journal: [Criminology & Public Policy]
-date: 2019
+type:
+  - Article
+author:
+  - Marie Ouellet
+  - Sadaf Hashimi
+  - Jason Gravel
+  - Andrew V. Papachristos
+journal:
+  - Criminology & Public Policy
+year: 2019
 ---
 
 * **Creation date**: `= this.file.ctime`

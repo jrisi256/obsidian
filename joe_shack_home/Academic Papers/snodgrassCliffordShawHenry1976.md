@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Jon Snodgrass]
-journal: [The British Journal of Criminology]
-date: 1976
+type:
+  - Article
+author:
+  - Jon Snodgrass
+journal:
+  - The British Journal of Criminology
+year: 1976
 ---
 
 * **Creation date**: `= this.file.ctime`

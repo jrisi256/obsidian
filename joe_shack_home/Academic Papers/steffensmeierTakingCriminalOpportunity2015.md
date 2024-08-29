@@ -1,7 +1,10 @@
 ---
-type: [Chapter]
-author: [Darrell J. Steffensmeier, Jeffery T. Ulmer]
-journal: date: 2015
+type:
+  - Chapter
+author:
+  - Darrell J. Steffensmeier
+  - Jeffery T. Ulmer
+year: 2015
 ---
 
 * **Creation date**: `= this.file.ctime`

@@ -1,7 +1,9 @@
 ---
-type: [Chapter]
-author: [Albert D. Hunter]
-date: 1985
+type:
+  - Chapter
+author:
+  - Albert D. Hunter
+year: 1985
 ---
 
 * **Creation date**: `= this.file.ctime`

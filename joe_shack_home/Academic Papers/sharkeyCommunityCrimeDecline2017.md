@@ -1,8 +1,13 @@
 ---
-type: [Article]
-author: [Patrick Sharkey, Gerard Torrats-Espinosa, Delaram Takyar]
-journal: [American Sociological Review]
-date: 2017-12-01
+type:
+  - Article
+author:
+  - Patrick Sharkey
+  - Gerard Torrats-Espinosa
+  - Delaram Takyar
+journal:
+  - American Sociological Review
+year: 2017
 ---
 
 * **Creation date**: `= this.file.ctime`

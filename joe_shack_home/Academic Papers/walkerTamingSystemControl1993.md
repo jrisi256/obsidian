@@ -1,7 +1,9 @@
 ---
-type: [Book]
-author: [Samuel Walker]
-date: 1993
+type:
+  - Book
+author:
+  - Samuel Walker
+year: 1993
 ---
 
 * **Creation date**: `= this.file.ctime`

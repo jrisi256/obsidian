@@ -1,8 +1,13 @@
 ---
-type: [Article]
-author: [Justin T. Pickett, Amanda Graham, Francis T. Cullen]
-journal: [Criminology]
-date: 2022
+type:
+  - Article
+author:
+  - Justin T. Pickett
+  - Amanda Graham
+  - Francis T. Cullen
+journal:
+  - Criminology
+year: 2022
 ---
 
 * **Creation date**: `= this.file.ctime`

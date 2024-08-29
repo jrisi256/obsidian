@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Sarah Brayne]
-journal: [American Sociological Review]
-date: 2017-10-01
+type:
+  - Article
+author:
+  - Sarah Brayne
+journal:
+  - American Sociological Review
+year: 2017
 ---
 
 * **Creation date**: `= this.file.ctime`

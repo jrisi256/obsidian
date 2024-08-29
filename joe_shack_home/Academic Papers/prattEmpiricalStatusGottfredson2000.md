@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Travis C. Pratt, Francis T. Cullen]
-journal: [Criminology]
-date: 2000
+type:
+  - Article
+author:
+  - Travis C. Pratt
+  - Francis T. Cullen
+journal:
+  - Criminology
+year: 2000
 ---
 
 * **Creation date**: `= this.file.ctime`

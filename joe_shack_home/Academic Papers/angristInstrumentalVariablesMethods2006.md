@@ -1,13 +1,15 @@
 ---
-type: [Article]
-author: [Joshua D. Angrist]
-journal: [Journal of Experimental Criminology]
-date: 2006-04-01
+type:
+  - Article
+author:
+  - Joshua D. Angrist
+journal:
+  - Journal of Experimental Criminology
+year: 2006
 ---
 
 * **Creation date**: `= this.file.ctime`
 * **Last modified date**: `= this.file.mtime`
-
 ## Metadata
 
 * **Author(s)**: Joshua D. Angrist

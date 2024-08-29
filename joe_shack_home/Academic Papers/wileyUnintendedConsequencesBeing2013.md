@@ -1,8 +1,13 @@
 ---
-type: [Article]
-author: [Stephanie Ann Wiley, Lee Ann Slocum, Finn-Aage Esbensen]
-journal: [Criminology]
-date: 2013
+type:
+  - Article
+author:
+  - Stephanie Ann Wiley
+  - Lee Ann Slocum
+  - Finn-Aage Esbensen
+journal:
+  - Criminology
+year: 2013
 ---
 
 * **Creation date**: `= this.file.ctime`

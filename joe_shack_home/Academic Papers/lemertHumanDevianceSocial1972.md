@@ -1,7 +1,9 @@
 ---
-type: [Book]
-author: [Edwin McCarthy Lemert]
-date: 1972
+type:
+  - Book
+author:
+  - Edwin McCarthy Lemert
+year: 1972
 ---
 
 * **Creation date**: `= this.file.ctime`

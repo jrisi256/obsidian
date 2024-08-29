@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Richard A. Berk]
-journal: [Journal of Experimental Criminology]
-date: 2005-12-01
+type:
+  - Article
+author:
+  - Richard A. Berk
+journal:
+  - Journal of Experimental Criminology
+year: 2005
 ---
 
 * **Creation date**: `= this.file.ctime`

@@ -1,7 +1,9 @@
 ---
-type: [Chapter]
-author: [Kelle Barrick]
-date: 2014
+type:
+  - Chapter
+author:
+  - Kelle Barrick
+year: 2014
 ---
 
 * **Creation date**: `= this.file.ctime`

@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Cleothia Frazier, Tyson H. Brown]
-journal: [Journal of Health and Social Behavior]
-date: 2023-06
+type:
+  - Article
+author:
+  - Cleothia Frazier
+  - Tyson H. Brown
+journal:
+  - Journal of Health and Social Behavior
+year: 2023
 ---
 
 * **Creation date**: `= this.file.ctime`

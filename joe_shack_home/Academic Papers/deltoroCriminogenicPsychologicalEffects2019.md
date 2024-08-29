@@ -1,8 +1,20 @@
 ---
-type: [Article]
-author: [Juan Del Toro, Tracey Lloyd, Kim S. Buchanan, Summer Joi Robins, Lucy Zhang Bencharit, Meredith Gamson Smiedt, Kavita S. Reddy, Enrique Rodriguez Pouget, Erin M. Kerrison, Phillip Atiba Goff]
-journal: [Proceedings of the National Academy of Sciences]
-date: 2019-04-23
+type:
+  - Article
+author:
+  - Juan Del Toro
+  - Tracey Lloyd
+  - Kim S. Buchanan
+  - Summer Joi Robins
+  - Lucy Zhang Bencharit
+  - Meredith Gamson Smiedt
+  - Kavita S. Reddy
+  - Enrique Rodriguez Pouget
+  - Erin M. Kerrison
+  - Phillip Atiba Goff
+journal:
+  - Proceedings of the National Academy of Sciences
+year: 2019
 ---
 
 * **Creation date**: `= this.file.ctime`

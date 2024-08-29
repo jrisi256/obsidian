@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Charles E. Loeffler]
-journal: [Criminology]
-date: 2013
+type:
+  - Article
+author:
+  - Charles E. Loeffler
+journal:
+  - Criminology
+year: 2013
 ---
 
 * **Creation date**: `= this.file.ctime`

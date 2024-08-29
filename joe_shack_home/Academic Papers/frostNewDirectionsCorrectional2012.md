@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Natasha   A. Frost, Todd   R. Clear]
-journal: [Justice Quarterly]
-date: 2012-10-01
+type:
+  - Article
+author:
+  - Natasha A. Frost
+  - Todd R. Clear
+journal:
+  - Justice Quarterly
+year: 2012
 ---
 
 * **Creation date**: `= this.file.ctime`
@@ -10,7 +14,7 @@ date: 2012-10-01
 
 ## Metadata
 
-* **Author(s)**: Natasha   A. Frost, Todd   R. Clear
+* **Author(s)**: Natasha A. Frost, Todd R. Clear
 * **Title**: New Directions in Correctional Research
 * **Date of publication**: 2012-10-01
 * **Journal**: Justice Quarterly

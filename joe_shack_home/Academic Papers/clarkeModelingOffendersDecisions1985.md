@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Ronald V. Clarke, Derek B. Cornish]
-journal: [Crime and Justice]
-date: 1985
+type:
+  - Article
+author:
+  - Ronald V. Clarke
+  - Derek B. Cornish
+journal:
+  - Crime and Justice
+year: 1985
 ---
 
 * **Creation date**: `= this.file.ctime`

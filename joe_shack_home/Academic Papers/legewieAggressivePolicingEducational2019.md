@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Joscha Legewie, Jeffrey Fagan]
-journal: [American Sociological Review]
-date: 2019-04-01
+type:
+  - Article
+author:
+  - Joscha Legewie
+  - Jeffrey Fagan
+journal:
+  - American Sociological Review
+year: 2019
 ---
 
 * **Creation date**: `= this.file.ctime`

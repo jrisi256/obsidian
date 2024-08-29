@@ -1,8 +1,13 @@
 ---
-type: [Article]
-author: [Lawrence W. Sherman, Patrick R. Gartin, Michael E. Buerger]
-journal: [Criminology]
-date: 1989
+type:
+  - Article
+author:
+  - Lawrence W. Sherman
+  - Patrick R. Gartin
+  - Michael E. Buerger
+journal:
+  - Criminology
+year: 1989
 ---
 
 * **Creation date**: `= this.file.ctime`

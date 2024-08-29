@@ -1,8 +1,13 @@
 ---
-type: [Article]
-author: [Corina Graif, Andrew S. Gladfelter, Stephen A. Matthews]
-journal: [Sociology Compass]
-date: 2014
+type:
+  - Article
+author:
+  - Corina Graif
+  - Andrew S. Gladfelter
+  - Stephen A. Matthews
+journal:
+  - Sociology Compass
+year: 2014
 ---
 
 * **Creation date**: `= this.file.ctime`

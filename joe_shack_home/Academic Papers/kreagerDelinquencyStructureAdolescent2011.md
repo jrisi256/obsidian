@@ -1,8 +1,13 @@
 ---
-type: [Article]
-author: [Derek A. Kreager, Kelly Rulison, James Moody]
-journal: [Criminology]
-date: 2011
+type:
+  - Article
+author:
+  - Derek A. Kreager
+  - Kelly Rulison
+  - James Moody
+journal:
+  - Criminology
+year: 2011
 ---
 
 * **Creation date**: `= this.file.ctime`

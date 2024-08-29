@@ -1,8 +1,14 @@
 ---
-type: [Article]
-author: [Gary Kleck, Brion Sever, Spencer Li, Marc Gertz]
-journal: [Criminology]
-date: 2005
+type:
+  - Article
+author:
+  - Gary Kleck
+  - Brion Sever
+  - Spencer Li
+  - Marc Gertz
+journal:
+  - Criminology
+year: 2005
 ---
 
 * **Creation date**: `= this.file.ctime`

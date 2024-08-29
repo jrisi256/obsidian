@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Eric P. Baumer]
-journal: [Theoretical Criminology]
-date: 2007-02-01
+type:
+  - Article
+author:
+  - Eric P. Baumer
+journal:
+  - Theoretical Criminology
+year: 2007
 ---
 
 * **Creation date**: `= this.file.ctime`

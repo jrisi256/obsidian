@@ -1,8 +1,14 @@
 ---
-type: [Article]
-author: [Andrew V. Papachristos, Anthony A. Braga, Eric Piza, Leigh S. Grossman]
-journal: [Criminology]
-date: 2015
+type:
+  - Article
+author:
+  - Andrew V. Papachristos
+  - Anthony A. Braga
+  - Eric Piza
+  - Leigh S. Grossman
+journal:
+  - Criminology
+year: 2015
 ---
 
 * **Creation date**: `= this.file.ctime`

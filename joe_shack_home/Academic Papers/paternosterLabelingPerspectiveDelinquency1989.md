@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Raymond Paternoster, Leeann Iovanni]
-journal: [Justice Quarterly]
-date: 1989-09-01
+type:
+  - Article
+author:
+  - Raymond Paternoster
+  - Leeann Iovanni
+journal:
+  - Justice Quarterly
+year: 1989
 ---
 
 * **Creation date**: `= this.file.ctime`

@@ -1,8 +1,13 @@
 ---
-type: [Article]
-author: [Cynthia Lum, Christopher S. Koper, Xiaoyun Wu]
-journal: [Police Quarterly]
-date: 2022-09-01
+type:
+  - Article
+author:
+  - Cynthia Lum
+  - Christopher S. Koper
+  - Xiaoyun Wu
+journal:
+  - Police Quarterly
+year: 2022
 ---
 
 * **Creation date**: `= this.file.ctime`

@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [James D. Unnever, Francis T. Cullen]
-journal: [Criminology]
-date: 2010
+type:
+  - Article
+author:
+  - James D. Unnever
+  - Francis T. Cullen
+journal:
+  - Criminology
+year: 2010
 ---
 
 * **Creation date**: `= this.file.ctime`

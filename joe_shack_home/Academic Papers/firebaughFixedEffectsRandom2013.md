@@ -1,7 +1,11 @@
 ---
-type: [Chapter]
-author: [Glenn Firebaugh, Cody Warner, Michael Massoglia]
-date: 2013
+type:
+  - Chapter
+author:
+  - Glenn Firebaugh
+  - Cody Warner
+  - Michael Massoglia
+year: 2013
 ---
 
 * **Creation date**: `= this.file.ctime`

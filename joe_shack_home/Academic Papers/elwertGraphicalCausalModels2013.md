@@ -1,7 +1,9 @@
 ---
-type: [Chapter]
-author: [Felix Elwert]
-date: 2013
+type:
+  - Chapter
+author:
+  - Felix Elwert
+year: 2013
 ---
 
 * **Creation date**: `= this.file.ctime`
@@ -12,7 +14,7 @@ date: 2013
 * **Author(s)**: Felix Elwert
 * **Title**: Graphical Causal Models
 * **Date of publication**: 2013
-* **Journal**: * **Volume**: * **Issue**: * **Pages**: 245-273
+* **Pages**: 245-273
 * **URL**: [https://doi.org/10.1007/978-94-007-6094-3_13](https://doi.org/10.1007/978-94-007-6094-3_13)
 * **Tags**: #causal_inference, #comps_exam, #ds560, #graphical_causal_models
 * **PDF Attachments**:

@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Donald R. Cressey]
-journal: [American Journal of Sociology]
-date: 1955
+type:
+  - Article
+author:
+  - Donald R. Cressey
+journal:
+  - American Journal of Sociology
+year: 1955
 ---
 
 * **Creation date**: `= this.file.ctime`

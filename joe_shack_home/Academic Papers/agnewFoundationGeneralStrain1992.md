@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Robert Agnew]
-journal: [Criminology]
-date: 1992
+type:
+  - Article
+author:
+  - Robert Agnew
+journal:
+  - Criminology
+year: 1992
 ---
 
 * **Creation date**: `= this.file.ctime`

@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Daniel S. Nagin, Robert J. Sampson]
-journal: [Annual Review of Criminology]
-date: 2019
+type:
+  - Article
+author:
+  - Daniel S. Nagin
+  - Robert J. Sampson
+journal:
+  - Annual Review of Criminology
+year: 2019
 ---
 
 * **Creation date**: `= this.file.ctime`

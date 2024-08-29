@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [David S. Kirk, Andrew V. Papachristos]
-journal: [American Journal of Sociology]
-date: 2011-01
+type:
+  - Article
+author:
+  - David S. Kirk
+  - Andrew V. Papachristos
+journal:
+  - American Journal of Sociology
+year: 2011
 ---
 
 * **Creation date**: `= this.file.ctime`

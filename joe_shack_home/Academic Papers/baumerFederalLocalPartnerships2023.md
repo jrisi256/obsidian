@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Eric P. Baumer, Min Xie]
-journal: [Criminology & Public Policy]
-date: 2023
+type:
+  - Article
+author:
+  - Eric P. Baumer
+  - Min Xie
+journal:
+  - Criminology & Public Policy
+year: 2023
 ---
 
 * **Creation date**: `= this.file.ctime`

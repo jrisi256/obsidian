@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Julie Netherland, Helena Hansen]
-journal: [BioSocieties]
-date: 2017-6
+type:
+  - Article
+author:
+  - Julie Netherland
+  - Helena Hansen
+journal:
+  - BioSocieties
+year: 2017
 ---
 
 * **Creation date**: `= this.file.ctime`

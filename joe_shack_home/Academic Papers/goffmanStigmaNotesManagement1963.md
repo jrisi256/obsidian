@@ -1,7 +1,9 @@
 ---
-type: [Book]
-author: [Irving Goffman]
-date: 1963
+type:
+  - Book
+author:
+  - Irving Goffman
+year: 1963
 ---
 
 * **Creation date**: `= this.file.ctime`

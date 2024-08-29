@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Tim A. Lauve-Moon, Jerry Z. Park]
-journal: [Journal for the Scientific Study of Religion]
-date: 2023
+type:
+  - Article
+author:
+  - Tim A. Lauve-Moon
+  - Jerry Z. Park
+journal:
+  - Journal for the Scientific Study of Religion
+year: 2023
 ---
 
 * **Creation date**: `= this.file.ctime`

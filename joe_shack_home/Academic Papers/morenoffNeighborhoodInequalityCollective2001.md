@@ -1,8 +1,13 @@
 ---
-type: [Article]
-author: [Jeffrey D. Morenoff, Robert J. Sampson, Stephen W. Raudenbush]
-journal: [Criminology]
-date: 2001
+type:
+  - Article
+author:
+  - Jeffrey D. Morenoff
+  - Robert J. Sampson
+  - Stephen W. Raudenbush
+journal:
+  - Criminology
+year: 2001
 ---
 
 * **Creation date**: `= this.file.ctime`

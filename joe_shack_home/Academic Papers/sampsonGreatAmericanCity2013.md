@@ -1,7 +1,9 @@
 ---
-type: [Book]
-author: [Robert J. Sampson]
-date: 2013
+type:
+  - Book
+author:
+  - Robert J. Sampson
+year: 2013
 ---
 
 * **Creation date**: `= this.file.ctime`

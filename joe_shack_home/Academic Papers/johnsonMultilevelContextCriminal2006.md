@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Brian D. Johnson]
-journal: [Criminology]
-date: 2006
+type:
+  - Article
+author:
+  - Brian D. Johnson
+journal:
+  - Criminology
+year: 2006
 ---
 
 * **Creation date**: `= this.file.ctime`

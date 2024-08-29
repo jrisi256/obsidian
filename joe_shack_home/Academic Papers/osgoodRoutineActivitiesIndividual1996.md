@@ -1,8 +1,15 @@
 ---
-type: [Article]
-author: [D. Wayne Osgood, Janet K. Wilson, Patrick M. O'Malley, Jerald G. Bachman, Lloyd D. Johnston]
-journal: [American Sociological Review]
-date: 1996
+type:
+  - Article
+author:
+  - D. Wayne Osgood
+  - Janet K. Wilson
+  - Patrick M. O'Malley
+  - Jerald G. Bachman
+  - Lloyd D. Johnston
+journal:
+  - American Sociological Review
+year: 1996
 ---
 
 * **Creation date**: `= this.file.ctime`

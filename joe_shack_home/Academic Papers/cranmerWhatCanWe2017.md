@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Skyler J. Cranmer, Bruce A. Desmarais]
-journal: [Political Analysis]
-date: 2017/04
+type:
+  - Article
+author:
+  - Skyler J. Cranmer
+  - Bruce A. Desmarais
+journal:
+  - Political Analysis
+year: 2017
 ---
 
 * **Creation date**: `= this.file.ctime`

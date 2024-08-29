@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Todd R. Clear]
-journal: [Criminology]
-date: 2010
+type:
+  - Article
+author:
+  - Todd R. Clear
+journal:
+  - Criminology
+year: 2010
 ---
 
 * **Creation date**: `= this.file.ctime`

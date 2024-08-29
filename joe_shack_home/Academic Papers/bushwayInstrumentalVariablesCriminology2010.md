@@ -1,7 +1,10 @@
 ---
-type: [Chapter]
-author: [Shawn D. Bushway, Robert J. Apel]
-journal: date: 2010
+type:
+  - Chapter
+author:
+  - Shawn D. Bushway
+  - Robert J. Apel
+year: 2010
 ---
 
 * **Creation date**: `= this.file.ctime`
@@ -16,7 +19,7 @@ journal: date: 2010
 * **URL**: [https://doi.org/10.1007/978-0-387-77650-7_29](https://doi.org/10.1007/978-0-387-77650-7_29)
 * **Tags**: #causal_inference, #comps_exam, #instrumental_variable
 * **PDF Attachments**:
-  * [Bushway and Apel - 2010 - Instrumental Variables in Criminology and Criminal](zotero://open-pdf/library/items/G4EKWLNF)
+  * [Bushway and Apel - 2010 - Instrumental Variables in Criminology and Criminal](zotero://open-pdf/library/items/XQCWIZ9C)
 
 ## Abstract
 

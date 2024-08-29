@@ -1,8 +1,12 @@
 ---
-type: [Magazine article]
-author: [Andrew Gelman, Eric Loken]
-journal: [American Scientist]
-date: 2014
+type:
+  - Magazine article
+author:
+  - Andrew Gelman
+  - Eric Loken
+journal:
+  - American Scientist
+year: 2014
 ---
 
 * **Creation date**: `= this.file.ctime`

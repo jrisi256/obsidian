@@ -1,8 +1,15 @@
 ---
-type: [Article]
-author: [Lawrence M. Berger, Sarah K. Bruch, Elizabeth I. Johnson, Sigrid James, David Rubin]
-journal: [Child Development]
-date: 2009
+type:
+  - Article
+author:
+  - Lawrence M. Berger
+  - Sarah K. Bruch
+  - Elizabeth I. Johnson
+  - Sigrid James
+  - David Rubin
+journal:
+  - Child Development
+year: 2009
 ---
 
 * **Creation date**: `= this.file.ctime`

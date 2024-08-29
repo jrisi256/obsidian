@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Charles E. Loeffler, Daniel S. Nagin]
-journal: [Annual Review of Criminology]
-date: 2022
+type:
+  - Article
+author:
+  - Charles E. Loeffler
+  - Daniel S. Nagin
+journal:
+  - Annual Review of Criminology
+year: 2022
 ---
 
 * **Creation date**: `= this.file.ctime`

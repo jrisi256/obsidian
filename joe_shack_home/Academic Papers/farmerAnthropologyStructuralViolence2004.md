@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Paul Farmer]
-journal: [Current Anthropology]
-date: 2004
+type:
+  - Article
+author:
+  - Paul Farmer
+journal:
+  - Current Anthropology
+year: 2004
 ---
 
 * **Creation date**: `= this.file.ctime`

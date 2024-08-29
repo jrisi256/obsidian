@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Daniel S. Nagin]
-journal: [Crime and Justice]
-date: 2013-08
+type:
+  - Article
+author:
+  - Daniel S. Nagin
+journal:
+  - Crime and Justice
+year: 2013
 ---
 
 * **Creation date**: `= this.file.ctime`

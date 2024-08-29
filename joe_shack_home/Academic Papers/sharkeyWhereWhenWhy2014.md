@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Patrick Sharkey, Jacob W. Faber]
-journal: [Annual Review of Sociology]
-date: 2014
+type:
+  - Article
+author:
+  - Patrick Sharkey
+  - Jacob W. Faber
+journal:
+  - Annual Review of Sociology
+year: 2014
 ---
 
 * **Creation date**: `= this.file.ctime`

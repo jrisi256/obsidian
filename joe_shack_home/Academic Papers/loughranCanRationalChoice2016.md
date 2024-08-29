@@ -1,8 +1,14 @@
 ---
-type: [Article]
-author: [Thomas A. Loughran, Ray Paternoster, Aaron Chalfin, Theodore Wilson]
-journal: [Criminology]
-date: 2016
+type:
+  - Article
+author:
+  - Thomas A. Loughran
+  - Raymond Paternoster
+  - Aaron Chalfin
+  - Theodore Wilson
+journal:
+  - Criminology
+year: 2016
 ---
 
 * **Creation date**: `= this.file.ctime`

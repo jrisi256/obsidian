@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Michael Sierra-Arévalo]
-journal: [Criminology]
-date: 2019
+type:
+  - Article
+author:
+  - Michael Sierra-Arévalo
+journal:
+  - Criminology
+year: 2019
 ---
 
 * **Creation date**: `= this.file.ctime`

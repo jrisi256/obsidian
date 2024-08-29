@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Wendy Nelson Espeland, Mitchell L. Stevens]
-journal: [European Journal of Sociology / Archives Européennes de Sociologie]
-date: 2008/12
+type:
+  - Article
+author:
+  - Wendy Nelson Espeland
+  - Mitchell L. Stevens
+journal:
+  - European Journal of Sociology / Archives Européennes de Sociologie
+year: 2008
 ---
 
 * **Creation date**: `= this.file.ctime`

@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [David F. Greenberg]
-journal: [Crime & Delinquency]
-date: 1999-01-01
+type:
+  - Article
+author:
+  - David F. Greenberg
+journal:
+  - Crime & Delinquency
+year: 1999
 ---
 
 * **Creation date**: `= this.file.ctime`

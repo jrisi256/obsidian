@@ -1,7 +1,10 @@
 ---
-type: [Chapter]
-author: [Robert J. Apel, Gary Sweeten]
-date: 2010
+type:
+  - Chapter
+author:
+  - Robert J. Apel
+  - Gary Sweeten
+year: 2010
 ---
 
 * **Creation date**: `= this.file.ctime`
@@ -12,8 +15,8 @@ date: 2010
 * **Author(s)**: Robert J. Apel, Gary Sweeten
 * **Title**: Propensity Score Matching in Criminology and Criminal Justice
 * **Date of publication**: 2010
-* **Journal**: * **Volume**: * **Issue**: * **Pages**: 543-562
-* **URL**: [https://doi.org/10.1007/978-0-387-77650-7_26](https://doi.org/10.1007/978-0-387-77650-7_26)
+* **Pages**: 543-562
+* **URL**: [Link to PDF](zotero://open-pdf/library/items/JQNWPMUQ)
 * **Tags**: #causal_inference, #comps_exam, #propensity_scores
 
 ## Abstract

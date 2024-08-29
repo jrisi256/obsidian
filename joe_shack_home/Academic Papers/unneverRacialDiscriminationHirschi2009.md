@@ -1,8 +1,15 @@
 ---
-type: [Article]
-author: [James D. Unnever, Francis T. Cullen, Scott A. Mathers, Timothy E. McClure, Marisa C. Allison]
-journal: [Justice Quarterly]
-date: 2009-09-01
+type:
+  - Article
+author:
+  - James D. Unnever
+  - Francis T. Cullen
+  - Scott A. Mathers
+  - Timothy E. McClure
+  - Marisa C. Allison
+journal:
+  - Justice Quarterly
+year: 2009
 ---
 
 * **Creation date**: `= this.file.ctime`

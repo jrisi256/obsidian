@@ -1,7 +1,9 @@
 ---
-type: [Chapter]
-author: [Julia A. Laskorunsky]
-date: 2017
+type:
+  - Chapter
+author:
+  - Julia A. Laskorunsky
+year: 2017
 ---
 
 * **Creation date**: `= this.file.ctime`

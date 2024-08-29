@@ -1,8 +1,13 @@
 ---
-type: [Article]
-author: [Robert J. Sampson, Jeffrey D. Morenoff, Thomas Gannon-Rowley]
-journal: [Annual Review of Sociology]
-date: 2002
+type:
+  - Article
+author:
+  - Robert J. Sampson
+  - Jeffrey D. Morenoff
+  - Thomas Gannon-Rowley
+journal:
+  - Annual Review of Sociology
+year: 2002
 ---
 
 * **Creation date**: `= this.file.ctime`

@@ -1,7 +1,9 @@
 ---
-type: [Book]
-author: [Arthur Niederhoffer]
-date: 1967
+type:
+  - Book
+author:
+  - Arthur Niederhoffer
+year: 1967
 ---
 
 * **Creation date**: `= this.file.ctime`

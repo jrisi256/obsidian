@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [David S. Kirk, Sara Wakefield]
-journal: [Annual Review of Criminology]
-date: 2018
+type:
+  - Article
+author:
+  - David S. Kirk
+  - Sara Wakefield
+journal:
+  - Annual Review of Criminology
+year: 2018
 ---
 
 * **Creation date**: `= this.file.ctime`

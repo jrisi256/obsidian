@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Ryken Grattet]
-journal: [Annual Review of Sociology]
-date: 2011
+type:
+  - Article
+author:
+  - Ryken Grattet
+journal:
+  - Annual Review of Sociology
+year: 2011
 ---
 
 * **Creation date**: `= this.file.ctime`

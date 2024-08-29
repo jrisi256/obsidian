@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Charis E. Kubrin, Eric A. Stewart]
-journal: [Criminology]
-date: 2006
+type:
+  - Article
+author:
+  - Charis E. Kubrin
+  - Eric A. Stewart
+journal:
+  - Criminology
+year: 2006
 ---
 
 * **Creation date**: `= this.file.ctime`

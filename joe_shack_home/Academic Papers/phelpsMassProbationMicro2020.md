@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Michelle S. Phelps]
-journal: [Annual Review of Criminology]
-date: 2020
+type:
+  - Article
+author:
+  - Michelle S. Phelps
+journal:
+  - Annual Review of Criminology
+year: 2020
 ---
 
 * **Creation date**: `= this.file.ctime`

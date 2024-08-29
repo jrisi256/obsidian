@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Michael Tonry]
-journal: [Crime and Justice]
-date: 2019-05
+type:
+  - Article
+author:
+  - Michael Tonry
+journal:
+  - Crime and Justice
+year: 2019
 ---
 
 * **Creation date**: `= this.file.ctime`

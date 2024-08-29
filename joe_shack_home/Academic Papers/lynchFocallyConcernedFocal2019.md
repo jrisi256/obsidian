@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Mona Lynch]
-journal: [Justice Quarterly]
-date: 2019-11-10
+type:
+  - Article
+author:
+  - Mona Lynch
+journal:
+  - Justice Quarterly
+year: 2019
 ---
 
 * **Creation date**: `= this.file.ctime`

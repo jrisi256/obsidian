@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Robert J. Bursik Jr.]
-journal: [Criminology]
-date: 1988
+type:
+  - Article
+author:
+  - Robert J. Bursik Jr.
+journal:
+  - Criminology
+year: 1988
 ---
 
 * **Creation date**: `= this.file.ctime`

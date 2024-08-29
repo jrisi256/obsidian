@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Andrew Levine]
-journal: [Demography]
-date: 2022-08-01
+type:
+  - Article
+author:
+  - Andrew Levine
+journal:
+  - Demography
+year: 2022
 ---
 
 * **Creation date**: `= this.file.ctime`

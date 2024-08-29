@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Thomas D. Stucky, John R. Ottensmann]
-journal: [Criminology]
-date: 2009
+type:
+  - Article
+author:
+  - Thomas D. Stucky
+  - John R. Ottensmann
+journal:
+  - Criminology
+year: 2009
 ---
 
 * **Creation date**: `= this.file.ctime`

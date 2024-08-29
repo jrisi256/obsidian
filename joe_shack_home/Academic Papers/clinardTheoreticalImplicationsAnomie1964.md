@@ -1,7 +1,9 @@
 ---
-type: [Chapter]
-author: [Marshall Barron Clinard]
-date: 1964
+type:
+  - Chapter
+author:
+  - Marshall Barron Clinard
+year: 1964
 ---
 
 * **Creation date**: `= this.file.ctime`

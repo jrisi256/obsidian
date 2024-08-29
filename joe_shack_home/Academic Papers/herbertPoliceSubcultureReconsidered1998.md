@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Steve Herbert]
-journal: [Criminology]
-date: 1998
+type:
+  - Article
+author:
+  - Steve Herbert
+journal:
+  - Criminology
+year: 1998
 ---
 
 * **Creation date**: `= this.file.ctime`

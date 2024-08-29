@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Albert J. Meehan, Michael C. Ponder]
-journal: [Justice Quarterly]
-date: 2002-09-01
+type:
+  - Article
+author:
+  - Albert J. Meehan
+  - Michael C. Ponder
+journal:
+  - Justice Quarterly
+year: 2002
 ---
 
 * **Creation date**: `= this.file.ctime`

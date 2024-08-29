@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Joanne Belknap]
-journal: [Criminology]
-date: 2015
+type:
+  - Article
+author:
+  - Joanne Belknap
+journal:
+  - Criminology
+year: 2015
 ---
 
 * **Creation date**: `= this.file.ctime`

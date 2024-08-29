@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Gresham M. Sykes, David Matza]
-journal: [American Sociological Review]
-date: 1957
+type:
+  - Article
+author:
+  - Gresham M. Sykes
+  - David Matza
+journal:
+  - American Sociological Review
+year: 1957
 ---
 
 * **Creation date**: `= this.file.ctime`

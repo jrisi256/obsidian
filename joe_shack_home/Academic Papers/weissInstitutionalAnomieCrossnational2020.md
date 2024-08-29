@@ -1,8 +1,13 @@
 ---
-type: [Article]
-author: [Douglas B. Weiss, Alexander Testa, Mateus Rennó Santos]
-journal: [Criminology]
-date: 2020
+type:
+  - Article
+author:
+  - Douglas B. Weiss
+  - Alexander Testa
+  - Mateus Rennó Santos
+journal:
+  - Criminology
+year: 2020
 ---
 
 * **Creation date**: `= this.file.ctime`

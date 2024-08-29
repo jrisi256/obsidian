@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Michael O. Maume, Matthew R. Lee]
-journal: [Criminology]
-date: 2003
+type:
+  - Article
+author:
+  - Michael O. Maume
+  - Matthew R. Lee
+journal:
+  - Criminology
+year: 2003
 ---
 
 * **Creation date**: `= this.file.ctime`

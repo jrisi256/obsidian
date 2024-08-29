@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Terrie E. Moffitt]
-journal: [Psychological Review]
-date: 1993
+type:
+  - Article
+author:
+  - Terrie E. Moffitt
+journal:
+  - Psychological Review
+year: 1993
 ---
 
 * **Creation date**: `= this.file.ctime`

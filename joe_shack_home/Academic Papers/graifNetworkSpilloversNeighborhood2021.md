@@ -1,8 +1,16 @@
 ---
-type: [Article]
-author: [Corina Graif, Brittany N. Freelin, Yu-Hsuan Kuo, Hongjian Wang, Zhenhui Li, Daniel Kifer]
-journal: [Justice Quarterly]
-date: 2021-02-23
+type:
+  - Article
+author:
+  - Corina Graif
+  - Brittany N. Freelin
+  - Yu-Hsuan Kuo
+  - Hongjian Wang
+  - Zhenhui Li
+  - Daniel Kifer
+journal:
+  - Justice Quarterly
+year: 2021
 ---
 
 * **Creation date**: `= this.file.ctime`

@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Robert J. Sampson, Corina Graif]
-journal: [American Behavioral Scientist]
-date: 2009-07-01
+type:
+  - Article
+author:
+  - Robert J. Sampson
+  - Corina Graif
+journal:
+  - American Behavioral Scientist
+year: 2009
 ---
 
 * **Creation date**: `= this.file.ctime`

@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Robert K. Merton]
-journal: [American Sociological Review]
-date: 1938
+type:
+  - Article
+author:
+  - Robert K. Merton
+journal:
+  - American Sociological Review
+year: 1938
 ---
 
 * **Creation date**: `= this.file.ctime`

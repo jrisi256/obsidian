@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Ross L. Matsueda]
-journal: [American Sociological Review]
-date: 1982
+type:
+  - Article
+author:
+  - Ross L. Matsueda
+journal:
+  - American Sociological Review
+year: 1982
 ---
 
 * **Creation date**: `= this.file.ctime`

@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Dana L. Haynie, D. Wayne Osgood]
-journal: [Social Forces]
-date: 2005
+type:
+  - Article
+author:
+  - Dana L. Haynie
+  - D. Wayne Osgood
+journal:
+  - Social Forces
+year: 2005
 ---
 
 * **Creation date**: `= this.file.ctime`

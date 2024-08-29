@@ -1,8 +1,15 @@
 ---
-type: [Article]
-author: [Wim Bernasco, Stijn Ruiter, Gerben J.N. Bruinsma, Lieven J.R. Pauwels, Frank M. Weerman]
-journal: [Criminology]
-date: 2013
+type:
+  - Article
+author:
+  - Wim Bernasco
+  - Stijn Ruiter
+  - Gerben J.N. Bruinsma
+  - Lieven J.R. Pauwels
+  - Frank M. Weerman
+journal:
+  - Criminology
+year: 2013
 ---
 
 * **Creation date**: `= this.file.ctime`

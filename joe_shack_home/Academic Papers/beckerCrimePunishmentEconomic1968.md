@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Gary S. Becker]
-journal: [Journal of Political Economy]
-date: 1968
+type:
+  - Article
+author:
+  - Gary S. Becker
+journal:
+  - Journal of Political Economy
+year: 1968
 ---
 
 * **Creation date**: `= this.file.ctime`

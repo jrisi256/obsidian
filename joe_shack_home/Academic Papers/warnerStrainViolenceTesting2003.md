@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Barbara D Warner, Shannon K Fowler]
-journal: [Journal of Criminal Justice]
-date: 2003-11-01
+type:
+  - Article
+author:
+  - Barbara D Warner
+  - Shannon K Fowler
+journal:
+  - Journal of Criminal Justice
+year: 2003
 ---
 
 * **Creation date**: `= this.file.ctime`

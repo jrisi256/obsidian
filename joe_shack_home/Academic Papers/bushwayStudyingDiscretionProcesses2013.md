@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Shawn   D. Bushway, Brian Forst]
-journal: [Justice Quarterly]
-date: 2013-04-01
+type:
+  - Article
+author:
+  - Shawn D. Bushway
+  - Brian Forst
+journal:
+  - Justice Quarterly
+year: 2013
 ---
 
 * **Creation date**: `= this.file.ctime`
@@ -10,7 +14,7 @@ date: 2013-04-01
 
 ## Metadata
 
-* **Author(s)**: Shawn   D. Bushway, Brian Forst
+* **Author(s)**: Shawn D. Bushway, Brian Forst
 * **Title**: Studying Discretion in the Processes that Generate Criminal Justice Sanctions
 * **Date of publication**: 2013-04-01
 * **Journal**: Justice Quarterly

@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Robert J. Sampson]
-journal: [Journal of Quantitative Criminology]
-date: 2010-12-01
+type:
+  - Article
+author:
+  - Robert J. Sampson
+journal:
+  - Journal of Quantitative Criminology
+year: 2010
 ---
 
 * **Creation date**: `= this.file.ctime`

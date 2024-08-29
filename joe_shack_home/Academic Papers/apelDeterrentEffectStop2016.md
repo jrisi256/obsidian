@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Robert Apel]
-journal: [Criminology & Public Policy]
-date: 2016
+type:
+  - Article
+author:
+  - Robert J. Apel
+journal:
+  - Criminology & Public Policy
+year: 2016
 ---
 
 * **Creation date**: `= this.file.ctime`

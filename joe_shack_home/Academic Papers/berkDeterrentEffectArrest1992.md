@@ -1,8 +1,14 @@
 ---
-type: [Article]
-author: [Richard A. Berk, Alec Campbell, Ruth Klap, Bruce Western]
-journal: [American Sociological Review]
-date: 1992
+type:
+  - Article
+author:
+  - Richard A. Berk
+  - Alec Campbell
+  - Ruth Klap
+  - Bruce Western
+journal:
+  - American Sociological Review
+year: 1992
 ---
 
 * **Creation date**: `= this.file.ctime`

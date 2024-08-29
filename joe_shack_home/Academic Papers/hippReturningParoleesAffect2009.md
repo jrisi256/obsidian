@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [John R. Hipp, Daniel K. Yates]
-journal: [Criminology]
-date: 2009
+type:
+  - Article
+author:
+  - John R. Hipp
+  - Daniel K. Yates
+journal:
+  - Criminology
+year: 2009
 ---
 
 * **Creation date**: `= this.file.ctime`

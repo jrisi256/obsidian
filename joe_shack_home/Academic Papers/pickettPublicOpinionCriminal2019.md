@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Justin T. Pickett]
-journal: [Annual Review of Criminology]
-date: 2019
+type:
+  - Article
+author:
+  - Justin T. Pickett
+journal:
+  - Annual Review of Criminology
+year: 2019
 ---
 
 * **Creation date**: `= this.file.ctime`

@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Holly Nguyen, Thomas A. Loughran]
-journal: [Annual Review of Criminology]
-date: 2018
+type:
+  - Article
+author:
+  - Holly Nguyen
+  - Thomas A. Loughran
+journal:
+  - Annual Review of Criminology
+year: 2018
 ---
 
 * **Creation date**: `= this.file.ctime`

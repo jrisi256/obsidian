@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Robert J. Sampson, John H. Laub]
-journal: [The ANNALS of the American Academy of Political and Social Science]
-date: 2005-11-01
+type:
+  - Article
+author:
+  - Robert J. Sampson
+  - John H. Laub
+journal:
+  - The ANNALS of the American Academy of Political and Social Science
+year: 2005
 ---
 
 * **Creation date**: `= this.file.ctime`

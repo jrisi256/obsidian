@@ -24,7 +24,7 @@ Let's say you are just writing your notes freehand. You can do a few things with
 
 ### Typed notes
 
-Boox has recently added the ability to type notes rather than hand write them. They functional very similarly to handwritten notes:
+Boox has recently added the ability to type notes rather than hand write them. They function very similarly to handwritten notes:
 	1. You can export your note as a `.txt` file.
 	2. When they are exported, they will show up under `/Storage/note/Name of Note/Name of Note.txt`. You can delete this exported `.txt` file, and the original note file will still be there (and vice versa).
 	3. When you open the exported file, it will open using NeoReader. Any edits you make using NeoReader will not show in a synced `.txt` file on your computer, but you will be able to edit that `.txt` file normally.
@@ -40,7 +40,8 @@ TL;DR
 
 ## Documents
 
-1. Set up [[Zotero]] along with the [[ZotFile]] plugin. 
+1. Set up [[Zotero]] along with the [[ZotFile]] plugin.
+	1. Note that the [[ZotFile]] plugin no longer works as of 2024 due to Zotero updating to version 7. I will have to figure out a new way to sync PDFs to my tablet.
 2. Set up [[Google Drive]] set up on your computer.
 3. Set up DriveSync on your Onyx Boox device.
 
@@ -71,6 +72,7 @@ You do not have to edit the document directly especially if you want to extract 
 	2. Use the [[Mdnotes]] plugin within Zotero.
 		1. If you want to add only some notes, right click on the *note* item(s) you want, then click Mdnotes, Export to markdown. Each note will get its own markdown file. It is very similar to the built-in Zotero functionality. One benefit is that Mdnotes preserves the highlight color. The downsides are it no longer links to the original document in Zotero, and it has a bunch of somewhat ugly HTML.
 		2. **My preferred method**. My workflow is set up so that I will export all notes, and my set of notes should be unique and up-to-date. Right click on the parent item (of all note, PDF, and other attachments) in the library view and click Mdnotes, Create full export note. This preserves the original highlight color, it provides a rich set of metadata tags, links, and YAML (because of the template I have set up), and it links back to the original PDF journal article in Zotero. Unfortunately, annotations do not link directly to their place in the article.
+		3. Note that as of 2024, this plugin no longer works because [[Mdnotes]] does not support Zotero 7.
 	3. Use the [[Zotero Integration]] plugin for Obsidian. This allows you to directly import all notes for a particular parent entity directly into whatever note you are writing in Obsidian. The benefits of this approach are that it is arguably the easiest and fastest as you do not even have to leave Obsidian, and  it preserves the link to the original PDF article as well as the location of the annotation. Unfortunately, it does not retain the rich metadata which comes from the Mdnotes approach. It also does not preserve the highlight color. This approach could easily be combined with Mdnotes to get the best of both worlds. In the future, this is what I might do.
 
 Now we will have a brief aside now about the unique quirks of Zotero's annotations. its annotations do not become embedded within the PDF (which is what other PDF editors usually do). The annotations are instead stored internally within Zotero. This approach helps Zotero run more smoothly, and it allows for interesting functionality (e.g., being able to tag annotations). It does have some drawbacks, though, because if one uses another PDF editor to edit the PDF, the annotations one has made in Zotero will not show up.

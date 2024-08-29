@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Lawrence E. Cohen, Marcus Felson]
-journal: [American Sociological Review]
-date: 1979
+type:
+  - Article
+author:
+  - Lawrence E. Cohen
+  - Marcus Felson
+journal:
+  - American Sociological Review
+year: 1979
 ---
 
 * **Creation date**: `= this.file.ctime`

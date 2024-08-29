@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Gilbert Geis]
-journal: [Theoretical Criminology]
-date: 2000-02-01
+type:
+  - Article
+author:
+  - Gilbert Geis
+journal:
+  - Theoretical Criminology
+year: 2000
 ---
 
 * **Creation date**: `= this.file.ctime`

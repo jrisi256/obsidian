@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Ronald L. Akers]
-journal: [Criminology]
-date: 1996
+type:
+  - Article
+author:
+  - Ronald L. Akers
+journal:
+  - Criminology
+year: 1996
 ---
 
 * **Creation date**: `= this.file.ctime`

@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Robert J. Sampson, Alix S. Winter]
-journal: [Criminology]
-date: 2018
+type:
+  - Article
+author:
+  - Robert J. Sampson
+  - Alix S. Winter
+journal:
+  - Criminology
+year: 2018
 ---
 
 * **Creation date**: `= this.file.ctime`

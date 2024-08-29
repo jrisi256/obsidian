@@ -1,7 +1,9 @@
 ---
-type: [Book]
-author: [Stephen Pfohl]
-date: 2009-02-28
+type:
+  - Book
+author:
+  - Stephen Pfohl
+year: 2009
 ---
 
 * **Creation date**: `= this.file.ctime`

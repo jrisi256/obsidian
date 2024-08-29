@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Rodney Stark]
-journal: [Criminology]
-date: 1987
+type:
+  - Article
+author:
+  - Rodney Stark
+journal:
+  - Criminology
+year: 1987
 ---
 
 * **Creation date**: `= this.file.ctime`

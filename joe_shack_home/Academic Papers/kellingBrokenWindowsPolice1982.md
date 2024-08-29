@@ -1,8 +1,12 @@
 ---
-type: [Magazine article]
-author: [George L. Kelling, James Q. Wilson]
-journal: [The Atlantic]
-date: 1982
+type:
+  - Magazine article
+author:
+  - George L. Kelling
+  - James Q. Wilson
+journal:
+  - The Atlantic
+year: 1982
 ---
 
 * **Creation date**: `= this.file.ctime`

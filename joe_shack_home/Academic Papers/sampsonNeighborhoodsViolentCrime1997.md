@@ -1,8 +1,13 @@
 ---
-type: [Article]
-author: [Robert J. Sampson, Stephen W. Raudenbush, Felton Earls]
-journal: [Science]
-date: 1997-08-15
+type:
+  - Article
+author:
+  - Robert J. Sampson
+  - Stephen W. Raudenbush
+  - Felton Earls
+journal:
+  - Science
+year: 1997
 ---
 
 * **Creation date**: `= this.file.ctime`

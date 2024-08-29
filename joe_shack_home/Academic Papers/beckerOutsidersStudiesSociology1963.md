@@ -1,7 +1,9 @@
 ---
-type: [Book]
-author: [Howard S. Becker]
-date: 1963
+type:
+  - Book
+author:
+  - Howard S. Becker
+year: 1963
 ---
 
 * **Creation date**: `= this.file.ctime`

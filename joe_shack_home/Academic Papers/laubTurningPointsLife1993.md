@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [John H. Laub, Robert J. Sampson]
-journal: [Criminology]
-date: 1993
+type:
+  - Article
+author:
+  - John H. Laub
+  - Robert J. Sampson
+journal:
+  - Criminology
+year: 1993
 ---
 
 * **Creation date**: `= this.file.ctime`

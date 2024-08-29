@@ -1,8 +1,14 @@
 ---
-type: [Article]
-author: [Travis C. Pratt, Jillian J. Turanovic, Kathleen A. Fox, Kevin A. Wright]
-journal: [Criminology]
-date: 2014
+type:
+  - Article
+author:
+  - Travis C. Pratt
+  - Jillian J. Turanovic
+  - Kathleen A. Fox
+  - Kevin A. Wright
+journal:
+  - Criminology
+year: 2014
 ---
 
 * **Creation date**: `= this.file.ctime`

@@ -1,8 +1,22 @@
 ---
-type: [Article]
-author: [Jake M. Hofman, Duncan J. Watts, Susan Athey, Filiz Garip, Thomas L. Griffiths, Jon Kleinberg, Helen Margetts, Sendhil Mullainathan, Matthew J. Salganik, Simine Vazire, Alessandro Vespignani, Tal Yarkoni]
-journal: [Nature]
-date: 2021-07
+type:
+  - Article
+author:
+  - Jake M. Hofman
+  - Duncan J. Watts
+  - Susan Athey
+  - Filiz Garip
+  - Thomas L. Griffiths
+  - Jon Kleinberg
+  - Helen Margetts
+  - Sendhil Mullainathan
+  - Matthew J. Salganik
+  - Simine Vazire
+  - Alessandro Vespignani
+  - Tal Yarkoni
+journal:
+  - Nature
+year: 2021
 ---
 
 * **Creation date**: `= this.file.ctime`

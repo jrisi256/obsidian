@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Issa Kohler-Hausmann]
-journal: [American Journal of Sociology]
-date: 2013-09
+type:
+  - Article
+author:
+  - Issa Kohler-Hausmann
+journal:
+  - American Journal of Sociology
+year: 2013
 ---
 
 * **Creation date**: `= this.file.ctime`

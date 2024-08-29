@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Robert Agnew]
-journal: [Journal of Research in Crime and Delinquency]
-date: 1999-05-01
+type:
+  - Article
+author:
+  - Robert Agnew
+journal:
+  - Journal of Research in Crime and Delinquency
+year: 1999
 ---
 
 * **Creation date**: `= this.file.ctime`

@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Travis Hirschi, Michael Gottfredson]
-journal: [American Journal of Sociology]
-date: 1983
+type:
+  - Article
+author:
+  - Travis Hirschi
+  - Michael Gottfredson
+journal:
+  - American Journal of Sociology
+year: 1983
 ---
 
 * **Creation date**: `= this.file.ctime`

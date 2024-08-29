@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Donald P. Green, Daniel Winik]
-journal: [Criminology]
-date: 2010
+type:
+  - Article
+author:
+  - Donald P. Green
+  - Daniel Winik
+journal:
+  - Criminology
+year: 2010
 ---
 
 * **Creation date**: `= this.file.ctime`

@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Joachim J. Savelsberg]
-journal: [American Journal of Sociology]
-date: 1994-01
+type:
+  - Article
+author:
+  - Joachim J. Savelsberg
+journal:
+  - American Journal of Sociology
+year: 1994
 ---
 
 * **Creation date**: `= this.file.ctime`

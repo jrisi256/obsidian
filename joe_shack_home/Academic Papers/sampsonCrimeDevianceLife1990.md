@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Robert J. Sampson, John H. Laub]
-journal: [American Sociological Review]
-date: 1990
+type:
+  - Article
+author:
+  - Robert J. Sampson
+  - John H. Laub
+journal:
+  - American Sociological Review
+year: 1990
 ---
 
 * **Creation date**: `= this.file.ctime`

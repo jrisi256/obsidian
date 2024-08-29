@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Megan C. Kurlychek, Brian D. Johnson]
-journal: [Annual Review of Criminology]
-date: 2019
+type:
+  - Article
+author:
+  - Megan C. Kurlychek
+  - Brian D. Johnson
+journal:
+  - Annual Review of Criminology
+year: 2019
 ---
 
 * **Creation date**: `= this.file.ctime`

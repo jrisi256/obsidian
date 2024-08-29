@@ -1,8 +1,13 @@
 ---
-type: [Article]
-author: [Shawn D. Bushway, Allison D. Redlich, Robert J. Norris]
-journal: [Criminology]
-date: 2014
+type:
+  - Article
+author:
+  - Shawn D. Bushway
+  - Allison D. Redlich
+  - Robert J. Norris
+journal:
+  - Criminology
+year: 2014
 ---
 
 * **Creation date**: `= this.file.ctime`

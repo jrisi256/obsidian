@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Travis Linnemann, Tyler Wall]
-journal: [Theoretical Criminology]
-date: 2013
+type:
+  - Article
+author:
+  - Travis Linnemann
+  - Tyler Wall
+journal:
+  - Theoretical Criminology
+year: 2013
 ---
 
 * **Creation date**: `= this.file.ctime`

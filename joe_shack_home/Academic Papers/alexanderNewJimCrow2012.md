@@ -3,7 +3,7 @@ type:
   - Book
 author:
   - Michelle Alexander
-date: 2012-01-16
+year: 2012
 ---
 
 * **Creation date**: `= this.file.ctime`
@@ -14,7 +14,7 @@ date: 2012-01-16
 * **Author(s)**: Michelle Alexander
 * **Title**: The New Jim Crow: Mass Incarceration in the Age of Colorblindness
 * **Date of publication**: 2012-01-16
-* **Journal**: * **Volume**: * **Issue**: * **Pages**: * **URL**: * **Tags**: #comps_exam, #cj_system, #soc_597_drugs, #mass_incarceration , #racial_inequality
+* **Tags**: #comps_exam, #cj_system, #soc_597_drugs, #mass_incarceration , #racial_inequality
 * **PDF Attachments**:
   * [alexanderNewJimCrow2012.pdf](zotero://open-pdf/library/items/RNYYIP26)
 

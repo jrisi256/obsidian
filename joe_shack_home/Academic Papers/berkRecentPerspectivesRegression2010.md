@@ -1,7 +1,9 @@
 ---
-type: [Chapter]
-author: [Richard Berk]
-date: 2010
+type:
+  - Chapter
+author:
+  - Richard A. Berk
+year: 2010
 ---
 
 * **Creation date**: `= this.file.ctime`
@@ -12,8 +14,8 @@ date: 2010
 * **Author(s)**: Richard Berk
 * **Title**: Recent Perspectives on the Regression Discontinuity Design
 * **Date of publication**: 2010
-* **Journal**: * **Volume**: * **Issue**: * **Pages**: 563-579
-* **URL**: [https://doi.org/10.1007/978-0-387-77650-7_27](https://doi.org/10.1007/978-0-387-77650-7_27)
+* **Pages**: 563-579
+* **URL**: [Link to PDF](zotero://open-pdf/library/items/XH32N93V)
 * **Tags**: #causal_inference, #comps_exam, #regression_discontinuity
 
 ## Abstract

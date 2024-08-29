@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Jeffery T. Ulmer]
-journal: [Crime and Justice]
-date: 2019-05
+type:
+  - Article
+author:
+  - Jeffery T. Ulmer
+journal:
+  - Crime and Justice
+year: 2019
 ---
 
 * **Creation date**: `= this.file.ctime`

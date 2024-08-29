@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Brad W. Smith, Malcolm D. Holmes]
-journal: [Social Problems]
-date: 2014-02-01
+type:
+  - Article
+author:
+  - Brad W. Smith
+  - Malcolm D. Holmes
+journal:
+  - Social Problems
+year: 2014
 ---
 
 * **Creation date**: `= this.file.ctime`

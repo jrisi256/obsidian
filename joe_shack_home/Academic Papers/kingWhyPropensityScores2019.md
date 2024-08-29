@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Gary King, Richard Nielsen]
-journal: [Political Analysis]
-date: 2019
+type:
+  - Article
+author:
+  - Gary King
+  - Richard Nielsen
+journal:
+  - Political Analysis
+year: 2019
 ---
 
 * **Creation date**: `= this.file.ctime`

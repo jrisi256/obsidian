@@ -1,8 +1,18 @@
 ---
-type: [Article]
-author: [Travis C. Pratt, Francis T. Cullen, Christine S. Sellers, L. Thomas Winfree, Tamara D. Madensen, Leah E. Daigle, Noelle E. Fearn, Jacinta M. Gau]
-journal: [Justice Quarterly]
-date: 2010-12-01
+type:
+  - Article
+author:
+  - Travis C. Pratt
+  - Francis T. Cullen
+  - Christine S. Sellers
+  - L. Thomas Winfree
+  - Tamara D. Madensen
+  - Leah E. Daigle
+  - Noelle E. Fearn
+  - Jacinta M. Gau
+journal:
+  - Justice Quarterly
+year: 2010
 ---
 
 * **Creation date**: `= this.file.ctime`

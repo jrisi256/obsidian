@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Naomi F. Sugie, Carol Newark]
-journal: [American Journal of Sociology]
-date: 2023-07
+type:
+  - Article
+author:
+  - Naomi F. Sugie
+  - Carol Newark
+journal:
+  - American Journal of Sociology
+year: 2023
 ---
 
 * **Creation date**: `= this.file.ctime`

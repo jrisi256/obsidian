@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Robert J. Sampson, Stephen W. Raudenbush]
-journal: [Social Psychology Quarterly]
-date: 2004-12-01
+type:
+  - Article
+author:
+  - Robert J. Sampson
+  - Stephen W. Raudenbush
+journal:
+  - Social Psychology Quarterly
+year: 2004
 ---
 
 * **Creation date**: `= this.file.ctime`

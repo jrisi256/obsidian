@@ -1,8 +1,14 @@
 ---
-type: [Article]
-author: [Todd R. Clear, Dina R. Rose, Elin Waring, Kristen Scully]
-journal: [Justice Quarterly]
-date: 2003-03-01
+type:
+  - Article
+author:
+  - Todd R. Clear
+  - Dina R. Rose
+  - Elin Waring
+  - Kristen Scully
+journal:
+  - Justice Quarterly
+year: 2003
 ---
 
 * **Creation date**: `= this.file.ctime`

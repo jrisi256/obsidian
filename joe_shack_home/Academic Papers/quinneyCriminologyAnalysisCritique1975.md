@@ -1,7 +1,9 @@
 ---
-type: [Book]
-author: [Richard Quinney]
-date: 1975
+type:
+  - Book
+author:
+  - Richard Quinney
+year: 1975
 ---
 
 * **Creation date**: `= this.file.ctime`

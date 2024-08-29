@@ -1,7 +1,10 @@
 ---
-type: Note
-aliases: [Differential association, social learning, Social learning]
-date: 2020-10-06
+type:
+  - Note
+aliases:
+  - Differential association
+  - social learning
+  - Social learning
 ---
 
 * **Creation date**: `= this.file.ctime`

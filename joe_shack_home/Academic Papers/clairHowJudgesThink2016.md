@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Matthew Clair, Alix S. Winter]
-journal: [Criminology]
-date: 2016
+type:
+  - Article
+author:
+  - Matthew Clair
+  - Alix S. Winter
+journal:
+  - Criminology
+year: 2016
 ---
 
 * **Creation date**: `= this.file.ctime`

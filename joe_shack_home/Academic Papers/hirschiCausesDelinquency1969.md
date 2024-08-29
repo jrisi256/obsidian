@@ -1,7 +1,9 @@
 ---
-type: [Book]
-author: [Travis Hirschi]
-date: 1969
+type:
+  - Book
+author:
+  - Travis Hirschi
+year: 1969
 ---
 
 * **Creation date**: `= this.file.ctime`

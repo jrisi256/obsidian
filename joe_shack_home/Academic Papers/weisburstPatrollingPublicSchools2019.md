@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Emily K. Weisburst]
-journal: [Journal of Policy Analysis and Management]
-date: 2019
+type:
+  - Article
+author:
+  - Emily K. Weisburst
+journal:
+  - Journal of Policy Analysis and Management
+year: 2019
 ---
 
 * **Creation date**: `= this.file.ctime`

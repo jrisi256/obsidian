@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Christopher R. Browning]
-journal: [American Behavioral Scientist]
-date: 2009-07-01
+type:
+  - Article
+author:
+  - Christopher R. Browning
+journal:
+  - American Behavioral Scientist
+year: 2009
 ---
 
 * **Creation date**: `= this.file.ctime`

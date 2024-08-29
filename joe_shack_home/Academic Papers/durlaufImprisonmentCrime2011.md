@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Steven N. Durlauf, Daniel S. Nagin]
-journal: [Criminology & Public Policy]
-date: 2011
+type:
+  - Article
+author:
+  - Steven N. Durlauf
+  - Daniel S. Nagin
+journal:
+  - Criminology & Public Policy
+year: 2011
 ---
 
 * **Creation date**: `= this.file.ctime`

@@ -1,8 +1,11 @@
 ---
-type: [Article]
-author: [Lawrence W. Sherman]
-journal: [Journal of Research in Crime and Delinquency]
-date: 1993-11-01
+type:
+  - Article
+author:
+  - Lawrence W. Sherman
+journal:
+  - Journal of Research in Crime and Delinquency
+year: 1993
 ---
 
 * **Creation date**: `= this.file.ctime`

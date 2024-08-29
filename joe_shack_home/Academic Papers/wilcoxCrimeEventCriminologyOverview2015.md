@@ -1,8 +1,12 @@
 ---
-type: [Article]
-author: [Pamela Wilcox, Brooke Miller Gialopsos]
-journal: [Journal of Contemporary Criminal Justice]
-date: 2015-02-01
+type:
+  - Article
+author:
+  - Pamela Wilcox
+  - Brooke Miller Gialopsos
+journal:
+  - Journal of Contemporary Criminal Justice
+year: 2015
 ---
 
 * **Creation date**: `= this.file.ctime`
