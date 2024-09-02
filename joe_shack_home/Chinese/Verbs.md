@@ -50,3 +50,8 @@ type:
 
 It can mean please or to invite.
 * **Wǒ qǐng Ray lái wǒ jiā.** --> I invite Ray to come to my home.
+
+## yào
+
+**Yào** is an interesting verb because it can to want OR to need. It can also mean "to cost".
+* **Yībēi kāfēi yào wǔ kuài qián.** --> A cup of coffee costs five dollars.

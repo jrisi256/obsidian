@@ -16,3 +16,9 @@ The most common measure word is gè.
 * **Shí gè lǎoshī** --> 10 teachers.
 * **Nà gè xuésheng** --> That student.
 * **Zhè gè xuésheng** --> This teacher.
+
+## Communicating time
+
+* **Shàng gè yuè/zhōumò/xīngí** --> last month/weekend/week.
+* **Zhè gè yuè/zhōumò/xīngí** --> this month/weekend/week.
+* **Xià gè yuè/zhōumò/xīngí** --> next month/weekend/week.

@@ -19,6 +19,17 @@ type:
 * 88 = eight * ten + eight = **bā shí bā**
 * 96 = nine * ten + six = **jiǔ shí liù**
 
+Let's get into some higher numbers.
+
+* 100 = **yī bǎi**.
+* 101 = **yī bǎi líng yī**.
+* 110 = **yī bǎi yī shí**.
+* 111 = **yī bǎi yī shí yī**.
+
+* 1,000 = **yī qiān**.
+* 1,013 = **yī qiān líng yī shí sān**.
+* 1,100 = **yī qiān yī bǎi**.
+
 ## Communicating time
 
 * **Jīntiān shí yī hào** --> Today is the 11th.
@@ -72,3 +83,10 @@ type:
 
 * **Dì yī cì, dì èr cì, dì sān cì, dì sì cì**.
 * First, second, third, fourth.
+
+## Days of the week
+
+* **xīngqí yī** --> Monday
+* **xīngqí èr** --> Tuesday
+* ...
+* Except for Sunday which is special. See note cards.

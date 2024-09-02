@@ -67,6 +67,7 @@ Other examples:
 ## Shénme
 
 * What?
+* **Shàng gè zhōumò nǐ zuòle shénme?** --> What did you do last weekend?. More literally, "Last weekend, you did what?" Also remember [[Chinese Sentence Structure + Syntax]]. Subject/Time + Verb. Could reverse the order of last weekend + the subject.
 
 ## Shénme shíhòu
 
