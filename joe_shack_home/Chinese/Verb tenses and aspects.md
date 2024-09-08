@@ -38,3 +38,22 @@ Used to indicate an action which is done quickly or casually.
 * **Wǒ jièshào yíxiàr wǒ péngyǒu Ray.** --> I introduce quickly my friend Ray.
 * **Wǒ kàn (tīng, xiūxi) yíxiàr.** --> Let me have a quick look (listen, rest).
 * **Nǐ qǐng kàn yíxiàr.** --> Please have a quick look.
+
+## Yǐqián and Yǐhòu
+
+Respectively, they mean "before" and "after". However, their placement within a sentence can alter their meaning to "used to" or "will". Some examples below:
+
+yǐqián + verb = "I used to do this".
+verb + yǐqián = "Before doing this."
+
+* **Wǒ yǐqián zhù zài Shànghǎi.** --> I used to live in Shanghai.
+* **Tā yǐqián shì lǎoshī.** --> He used to be a teacher.
+* **Chīfàn yǐqián, wǒmen xiān xǐshǒu.** --> Before eating, we first wash hands.
+
+yǐhòu + verb = "I will do this."
+verb + yǐhòu = "After doing this."
+
+* **Wǒ yǐhòu xiǎng xué Fǎyǔ.** --> I will learn French or I want to learn French in the future.
+* **Wǎncān yǐhòu, wǒ yào qù sànbù.** --> After dinner, I want to go take walk.
+
+If it helps, **jiāngyào** (which means will) is very similar in meaning to **yǐhòu**.

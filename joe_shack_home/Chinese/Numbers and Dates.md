@@ -57,6 +57,8 @@ Let's get into some higher numbers.
 * **Nǐ jīntiān gōngzuò jǐ gè xiǎoshí?** --> How many hours did you work today? [[Asking questions]].
   
 * **Nǐ jīntiān gōngzuò duōjiǔ xiǎoshí?** --> How many hours did you work today?
+  
+* **Zǎoshang bā diǎn** vs. **wǎnshàng bā diǎn** --> 8am vs. 8pm.
 ## Communicating Dates
 
 * **Jīntian yī hào** --> Today is the first.
