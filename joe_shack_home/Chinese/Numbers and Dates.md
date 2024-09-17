@@ -43,6 +43,8 @@ Let's get into some higher numbers.
 * **Jīntiān Wáng lǎoshī gōngzuò**. --> Teacher Wang will work today.
 
 **Subject + Time + Verb** or **Time + Subject + Verb**.
+
+* **Jīntiān wǎnshang Daniel qù jiǔbā ma?** --> Will Daniel go to the bar this evening? You could put an optional **de** in between **jīntiān** and **wǎnshang**.
 ### Communicating hours/minutes
 
 * **Xiànzài jǐ diǎn?** --> What time is it now?
@@ -72,6 +74,9 @@ Let's get into some higher numbers.
 	  
 * **Jīntiān <font style="color:yellow">èr líng èr sì nián</font> <font style="color:green">sì yué</font> <font style="color:red">yī hào</font>, míngtiān ne**? --> Today is April 1st, 2024. What about tomorrow?
 	* In Chinese, you must always specify the unit of time after each unit.
+	  
+* **Birthday**
+	* **Joe de shēngrì shì jiǔ yuè èr shí èr hào.** --> Joe's birthday is September 22nd.
 
 ## Counting off times (cì)
 

@@ -40,6 +40,11 @@ Another way to ask how many is by using **duōshǎo**. It is usually used when a
 
 See [[Numbers and Dates]] for **jǐ diǎn**.
 
+More examples:
+* **Jǐ gè lǎoshī?** --> How many teachers? You could answer **wǔ lǎoshī**.
+* **Jīntiān shì jǐ yuè jǐ hào?** --> Today is what what month/day? You could answer **Jīntiān shì èr yuè èr hào.** --> Notice that you do not need to add a gè.
+* **Jīntiān shì xīngqī jǐ?** --> Today is what day? (Meaning Monday, Tuesday, etc.) You could answer **Jīntiān shì xīngqī yī.** --> Notice that you do not need to add a gè.
+* **Xīngqī jǐ Daniel qù jiǔbā?** --> What day will Daniel go to the bar?
 ## duōjiǔ
 
 See [[Numbers and Dates]].
@@ -68,6 +73,7 @@ Other examples:
 
 * What?
 * **Shàng gè zhōumò nǐ zuòle shénme?** --> What did you do last weekend?. More literally, "Last weekend, you did what?" Also remember [[Chinese Sentence Structure + Syntax]]. Subject/Time + Verb. Could reverse the order of last weekend + the subject.
+* **Jīntiān Ray lǎoshī zuò shénme?** --> What did Ray do today?
 
 ## Shénme shíhòu
 
