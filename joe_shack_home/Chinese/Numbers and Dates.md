@@ -97,3 +97,10 @@ Let's get into some higher numbers.
 * **xīngqí èr** --> Tuesday
 * ...
 * Except for Sunday which is special. See note cards.
+
+## Communicating age
+
+* **Ray jīnnián (shì) shí jiǔ suì**. --> Ray is 19 years old. Notice how we omitted the verb. We can add it back in.
+  
+* We can also ask people their age. [[Asking questions]].
+	* **Nǐ jǐ suì?** --> How old are you? Because **jǐ** is typically only used for small numbers, this is only used when asking small children their age.
