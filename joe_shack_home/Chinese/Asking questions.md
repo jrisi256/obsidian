@@ -48,17 +48,17 @@ More examples:
 ## duōjiǔ
 
 See [[Numbers and Dates]].
-## Nǎr
+## Nǎ er
 
-* **Nǐ zài nǎr?** --> Where are you? Literally translates to: "You in where?"
+* **Nǐ zài nǎ er?** --> Where are you? Literally translates to: "You in where?"
 	* **Wǒ zài měiguó.** --> I am in the United States.
 * **Wǒ zài jiā**. --> I am in home.
 
 Other examples:
-* **Nǐmen qùle Rìběn de nǎr?** --> Where did you go in Japan?
-* **Ray de jiā zài nǎr?** --> Where is the home of Ray?
-* **Tā gēgē zài nǎr gōngzuò?** --> Where does his older brother work? More literally. His older brothers works at where?
-* **Jiàoshì zài nǎr?** --> Where is the classroom?
+* **Nǐmen qùle Rìběn de nǎ er?** --> Where did you go in Japan?
+* **Ray de jiā zài nǎ er?** --> Where is the home of Ray?
+* **Tā gēgē zài nǎ er gōngzuò?** --> Where does his older brother work? More literally. His older brothers works at where?
+* **Jiàoshì zài nǎ er?** --> Where is the classroom?
 	* **Jiàoshì zài dàxué.** --> The classroom is in the university.
 
 ## Zěnme
