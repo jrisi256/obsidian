@@ -20,7 +20,7 @@ Can be used with any adjective.
 * **Nǐ zài jiā ma?** --> Are you home?
 
 Other examples:
-*  **Rìběn, hǎowán ma?** -> Was Japan fun?
+* **Rìběn, hǎowán ma?** -> Was Japan fun?
 * **Paul lǎoshī shì dàxué de lǎoshī ma?** --> Is teacher Paul a college teacher?
 ### Ne
 
