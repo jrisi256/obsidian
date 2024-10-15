@@ -7,6 +7,7 @@ type:
 * **Last modified date**: `= this.file.mtime`
 * **Tags**: #chinese #language_learning 
 
+[Great resource comparing bù and méi](https://resources.allsetlearning.com/chinese/grammar/%E6%B2%A1).
 ## Rules and uses for bù
 
 * **Tā shēntǐ bù tài hǎo**. --> He/she is not in very good health.
@@ -17,5 +18,9 @@ type:
 	* Notice the order of yě bù hěn. Similar to English, it does not make sense to say, "He/she is not also well"
 
 ## Rules and uses for méi
-* **Wǒ méi yǒu kāfēi**. --> I do not have coffee.
-* It is only used with the verb "to have".
+
+* It is used with the verb "to have".
+	* **Wǒ méi yǒu kāfēi**. --> I do not have coffee.
+* It is used for negation in the past tense.
+	* 
+

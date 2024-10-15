@@ -22,3 +22,10 @@ The most common measure word is gè.
 * **Shàng gè yuè/zhōumò/xīngí** --> last month/weekend/week.
 * **Zhè gè yuè/zhōumò/xīngí** --> this month/weekend/week.
 * **Xià gè yuè/zhōumò/xīngí** --> next month/weekend/week.
+
+## Kǒu
+
+This is the measure word for members of the family.
+
+* **Wǒ jiā yǒu sān kǒu rén.** --> My family (house) has three people.
+* **Wǒ yǒu sān gè jiějie.** --> I have three older sisters.
