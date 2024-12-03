@@ -53,6 +53,7 @@ Let's get into some higher numbers.
 	* **Xiànzài bā diǎn bàn.** --> It is 8:30 now. We do not use **fēn** here.
 	* **Xiànzài bā diǎn yī kè** --> It is 8:15 now.
 	* **Xiànzài sì diǎn.** --> It is 4 o'clock now.
+	* **Xiànzài sì diǎn líng wǔ fēn.** --> Now, it is 4:05.
 	  
 * **Nǐ jīntiān jǐ diǎn qǐlái?** --> What time did you wake up today?
   
