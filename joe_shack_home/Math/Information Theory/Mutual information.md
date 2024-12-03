@@ -16,6 +16,12 @@ aliases:
 See [[Shannon entropy]] to help understand the building blocks which got us here.
 
 $$MI(X, Y) = \sum_{i=1}^n{ \sum_{j=1}^m{p(x_i, y_j) \times log_b[\frac{p(x_i, y_j)}{p(x_i)p(y_J)}]}} \tag{Mutual Information}$$
+
+Alternatively, one can think of Mutual Information a bit more intuitively:
+1. Mutual information is the sum of the marginal entropies of X and Y subtracted from the joint entropy of X and Y.
+2. Mutual information is the conditional entropy of X on Y subtracted from the marginal entropy of X.
+$$MI(X, Y) = I(X,Y) = H(X) + H(Y) - H(X, Y) \tag{Mutual Information}$$
+$$MI(X, Y) = I(X,Y) = H(X)- H(X|Y) \tag{Mutual Information}$$
 Mutual information quantifies the notion about how much information one variable communicates about another variable. Unlike conditional entropy, it is symmetric.
 
 Building off of what we know from Shannon entropy, mutual information can also be considered the reduction in uncertainty about some variable $X$ (expected reduction in the number of yes/no questions needed to guess $X$) after observing $Y$.
