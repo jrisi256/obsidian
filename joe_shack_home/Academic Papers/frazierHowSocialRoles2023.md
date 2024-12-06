@@ -21,7 +21,7 @@ year: 2023
 * **Volume**: 64
 * **Issue**: 2
 * **Pages**: 296-312
-* **URL**: * **Tags**: #journal_club, #sleep, #social_roles, #gender
+* **Tags**: #journal_club, #sleep, #social_roles, #gender
 * **PDF Attachments**:
   * [frazierHowSocialRoles2023.pdf](zotero://open-pdf/library/items/T6N5D6DG)
 
