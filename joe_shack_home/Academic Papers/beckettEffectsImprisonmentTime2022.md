@@ -49,7 +49,7 @@ US imprisonment worsens the mental and physical health of the imprisoned in the 
 	* Theoretically, it could.
 		* Acute and chronic stress and increased risk of infectious disease transmission while incarcerated.
 		* Social and economic marginalization post-release.
-	* Mortality rates for incarcerated Black men are lower than for nonincarcerated Black men. Incarceration eliminates main causes of death for Black men (e.g., gun violence, transportation accidents) and increases access to healthcare.
+	* Mortality rates for incarcerated Black men are lower than for non-incarcerated Black men. Incarceration eliminates main causes of death for Black men (e.g., gun violence, transportation accidents) and increases access to healthcare.
 		* Differences in mortality disappear after release and in fact spike immediately right after being released (overdoses and suicide).
 	* For other groups, the differences in mortality are in the anticipated direction.
 
