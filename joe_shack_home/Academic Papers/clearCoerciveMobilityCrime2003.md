@@ -24,7 +24,7 @@ year: 2003
 * **Issue**: 1
 * **Pages**: 33-64
 * **URL**: [https://doi.org/10.1080/07418820300095451](https://doi.org/10.1080/07418820300095451)
-* **Tags**: #crim559 #incarceration #comps_exam #social_disorganization #neighborhood_context
+* **Tags**: #crim559 #incarceration #comps_exam #social_disorganization #neighborhood_context #tipping_point_hypothesis 
 * **PDF Attachments**:
   * [clearCoerciveMobilityCrime2003.pdf](zotero://open-pdf/library/items/DZI6JM8A)
 
