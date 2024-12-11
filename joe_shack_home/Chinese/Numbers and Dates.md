@@ -52,8 +52,11 @@ Let's get into some higher numbers.
 	* **Xiànzài bā diǎn shí fēn.** --> It is 8:10 now.
 	* **Xiànzài bā diǎn bàn.** --> It is 8:30 now. We do not use **fēn** here.
 	* **Xiànzài bā diǎn yī kè** --> It is 8:15 now.
+	* **Xiànzài bā diǎn sān kè** --> It is 8:45 now.
+		* You cannot use **èr kè**.
 	* **Xiànzài sì diǎn.** --> It is 4 o'clock now.
 	* **Xiànzài sì diǎn líng wǔ fēn.** --> Now, it is 4:05.
+	* **Chà shí wǔ fēn shí diǎn**. --> It is fifteen minutes until 10 (9:45).
 	  
 * **Nǐ jīntiān jǐ diǎn qǐlái?** --> What time did you wake up today?
   
@@ -62,6 +65,8 @@ Let's get into some higher numbers.
 * **Nǐ jīntiān gōngzuò duōjiǔ xiǎoshí?** --> How many hours did you work today?
   
 * **Zǎoshang bā diǎn** vs. **wǎnshàng bā diǎn** --> 8am vs. 8pm.
+  
+* 
 ## Communicating Dates
 
 * **Jīntian yī hào** --> Today is the first.

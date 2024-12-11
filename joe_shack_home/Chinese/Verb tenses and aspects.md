@@ -57,3 +57,10 @@ verb + yǐhòu = "After doing this."
 * **Wǎncān yǐhòu, wǒ yào qù sànbù.** --> After dinner, I want to go take walk.
 
 If it helps, **jiāngyào** (which means will) is very similar in meaning to **yǐhòu**.
+
+## ba
+
+**ba** is used to communicate that something is a suggestion.
+
+* **Míng tiān wǒmen qù kàn diànyǐng ba**. --> Let's watch a movie tomorrow.
+* **Nǐ míng tiān lái wǒ jiā ba**. --> You, tomorrow, come to my place.
