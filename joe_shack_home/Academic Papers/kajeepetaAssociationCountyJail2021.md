@@ -44,7 +44,7 @@ BACKGROUND: Mass incarceration has collateral consequences for community health,
 	* These mechanisms can become feedback loops which lead to increased rates of jail incarceration.
 ## Data and Methods
 
-* **Jail incarceration data** comes from the Vera Institute from 1987 to 2017.
+* **Jail incarceration data** comes from [[Vera Incarceration Trends]], 1987 to 2017.
 * **Controls**: Total population, median age, Black resident population ([[PEP]]), poverty data ([[SAIPE]]), unemployment data ([[LAUS]]), county crime data ([[UCR]]), state incarceration data, and party control of the legislature from the [[National Conference of State Legislatures]]. 
 	* Missing data were replaced with data from the previous year.
 * **Dependent variable** --> Rates of cause-specific mortality for those younger than 75.
