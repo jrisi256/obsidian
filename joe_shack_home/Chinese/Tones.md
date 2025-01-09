@@ -42,4 +42,9 @@ There are four (five) tones:
 
 ## Rules for bù
 
-* When you use bù before another word that's a 4th tone or neutral tone, you pronounce bù as a 2nd tone.  See also [[Rules for negation]].
+When you use bù before another word that's a 4th tone or neutral tone, you pronounce bù as a 2nd tone.  See also [[Rules for negation]].
+
+## Rules for yī
+
+* When you use yī before another word that's a 4th tone or neutral tone, you pronounce it using the second tone like yí.
+* When you use yī before another word that's a 1st, 2nd, or 3rd tone, you pronounce it using the fourth tone like yì.

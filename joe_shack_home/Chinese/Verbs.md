@@ -55,3 +55,15 @@ It can mean please or to invite.
 
 **Yào** is an interesting verb because it can to want OR to need. It can also mean "to cost".
 * **Yībēi kāfēi yào wǔ kuài qián.** --> A cup of coffee costs five dollars.
+
+## huān yíng
+
+To welcome someone.
+* **欢迎**你来我家. --> You are welcome to come to my home. It can also be an invitation in the moment.
+* **欢迎**你们来上海 --> They are welcome to come to Shanghai.
+
+## wán
+
+It means to play, but it can also mean "to hang out" or "to have fun".
+* 我去朋友家**玩**. --> I go to my friend's house to hang out.
+* 今年我去美国**玩**. --> This year I will go to the USA for fun.
