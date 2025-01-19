@@ -9,7 +9,7 @@ type:
   - Article
 ---
 [Zotero entry](zotero://select/items/@beckettEffectsImprisonmentTime2022)
-**Tags**: #incarceration #mass_incarceration #lit_review #effects_of_incarceration #individual_effects #incarceration_employment #incarceration_health #inceration_family #incarceration_paper
+**Tags**: #incarceration #mass_incarceration #lit_review #effects_of_incarceration #individual_effects #incarceration_employment #incarceration_health #incarceration_family #incarceration_paper
 ## Abstract
 
 Imprisonment has deleterious effects on prisoners' mental, physical, social, and economic well-being. These harms are long lasting and affect prisoners' partners and children. In the United States and elsewhere, imprisonment disproportionately inflicts these harms on people of color and people living in poverty. Although imprisonment is regarded as a reasonable and effective means of protecting the public, it is not, when compared with nonconfinement alternatives, an effective way to achieve public safety. Two broad sets of policy reforms would be better: retroactive and prospective sentencing reforms that reduce reliance on confinement for all types of offenses, including violent crimes, and broad initiatives that reduce reliance on prison and jails while also investing in housing, education, treatment, health, and communities. Researchers and policy analysts need to engage in problem-solving research that examines not only incarceration's effects but alternative ongoing efforts to achieve public safety and justice.
