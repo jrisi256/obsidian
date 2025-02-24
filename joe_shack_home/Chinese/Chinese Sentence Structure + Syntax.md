@@ -57,3 +57,13 @@ Let's say you wanted to say, "I am very happy to know you."
 	* **Rènshi nǐ wǒ hěn gāoxìng.**
 	* **Wǒ rènshi nǐ hěn gāoxìng.**
 
+## Nánguài – No Wonder
+
+* 难怪 + Subject + Verb/Adjective.
+* Used to indicate that something makes sense now.
+
+## Zěnme yàng? – Asking for Opinions
+
+* Subject + 觉得 + Object + 怎么样?
+* Used to ask for someone’s opinion.
+* 你觉得猫怎么样? --> What do you think about cat?

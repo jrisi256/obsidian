@@ -67,3 +67,16 @@ To welcome someone.
 It means to play, but it can also mean "to hang out" or "to have fun".
 * 我去朋友家**玩**. --> I go to my friend's house to hang out.
 * 今年我去美国**玩**. --> This year I will go to the USA for fun.
+
+## huì
+
+It means "will" as in, "I will do something" or "Will you do something?"
+* **Nǐmen huì yǒu yīgè xiǎo pàiduì ma?** --> You guys will have a small party?
+
+## yǒu + verb
+
+It functions very similarly as in English. Translates to "Have you...?" or "I have...". Like in English, it is largely interchangeable with the past tense and thus in Chinese could be replaced with 了。
+
+* Subject + 有 + Verb.
+* 我有吃午饭. --> I have eaten lunch.
+* 我吃了午饭. --> I ate lunch.

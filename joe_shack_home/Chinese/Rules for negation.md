@@ -21,7 +21,5 @@ type:
 
 * It is used with the verb "to have".
 	* **Wǒ méi yǒu kāfēi**. --> I do not have coffee.
-* It is used for negation in the past tense.
-	* 
-	* 
 
+* It is used for negation in the past tense.

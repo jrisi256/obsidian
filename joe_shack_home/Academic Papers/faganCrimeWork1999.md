@@ -1,9 +1,12 @@
 ---
-title: "Crime and Work"
-author: Jeffrey Fagan, Richard B. Freeman
+title: Crime and Work
+author:
+  - Jeffrey Fagan, Richard B. Freeman
 year: 1999
-journal: Crime and Justice
-type: article
+journal:
+  - Crime and Justice
+type:
+  - Article
 ---
 [Zotero entry](zotero://select/items/@faganCrimeWork1999)
 **Tags**:
