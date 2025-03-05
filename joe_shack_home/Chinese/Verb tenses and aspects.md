@@ -64,3 +64,10 @@ If it helps, **jiāngyào** (which means will) is very similar in meaning to **y
 
 * **Míng tiān wǒmen qù kàn diànyǐng ba**. --> Let's watch a movie tomorrow.
 * **Nǐ míng tiān lái wǒ jiā ba**. --> You, tomorrow, come to my place.
+
+## jiù
+
+Used for emphasis.
+
+* **她住在哪儿？** --> Where does she live?
+* **她就住在大学的宿舍.** --> *She lives* in the university's dorms.

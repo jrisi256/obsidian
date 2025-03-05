@@ -63,18 +63,19 @@ Other examples:
 
 ## Zěnme
 
-* How?
+How? Because of the structure of Chinese sentences and Chinese grammar, *how* gets used slightly differently than English speakers are used to.
 
+* **玛丽怎么学习汉语**？ --> How does Mary study Chinese?
+* **玛丽在大学学习汉语**。--> Mary studies Chinese at the university. More literally, "Mary at university studies Chinese".
+* **我去北京大学，怎么走？** --> A literal translation, "I go to Beijing University, how do I go?". A more realistic translation would be, "How do I get to Beijing University?"
 ## Wèi shě me
 
 * Why?
-
 ## Shénme
 
 * What?
 * **Shàng gè zhōumò nǐ zuòle shénme?** --> What did you do last weekend?. More literally, "Last weekend, you did what?" Also remember [[Chinese Sentence Structure + Syntax]]. Subject/Time + Verb. Could reverse the order of last weekend + the subject.
 * **Jīntiān Ray lǎoshī zuò shénme?** --> What did Ray do today?
-
 ## Shénme shíhòu
 
 * When?

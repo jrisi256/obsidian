@@ -65,8 +65,6 @@ Let's get into some higher numbers.
 * **Nǐ jīntiān gōngzuò duōjiǔ xiǎoshí?** --> How many hours did you work today?
   
 * **Zǎoshang bā diǎn** vs. **wǎnshàng bā diǎn** --> 8am vs. 8pm.
-  
-* 
 ## Communicating Dates
 
 * **Jīntian yī hào** --> Today is the first.
@@ -83,6 +81,11 @@ Let's get into some higher numbers.
 	  
 * **Birthday**
 	* **Joe de shēngrì shì jiǔ yuè èr shí èr hào.** --> Joe's birthday is September 22nd.
+	  
+* **Last week/next week**
+	* Unlike yesterday/tomorrow and last year/next year, most date communications are pretty standardized. For example to say last week/next week:
+		* **xià xīngqí** --> Next week.
+		* **shàng xīngqí** --> Last week.
 
 ## Counting off times (cì)
 

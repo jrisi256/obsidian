@@ -48,7 +48,7 @@ Let's say you wanted to say, "I am very happy to know you."
 
 * **Wǒ hěn gāoxìng rènshi nǐ**. --> Very easy for English speakers to process.
   
-* If you wanted to overly formaly about it, you could say --> **Wǒ hěn gāoxìng wǒ rènshi nǐ.** --> Which translates to something more like, "I am very happy that I know you."
+* If you wanted to be overly formal about it, you could say --> **Wǒ hěn gāoxìng wǒ rènshi nǐ.** --> Which translates to something more like, "I am very happy that I know you."
   
 * In Chinese, you can omit one of the subjects.
 	* **Hěn gāoxìng wǒ rènshi nǐ.**
@@ -67,3 +67,10 @@ Let's say you wanted to say, "I am very happy to know you."
 * Subject + 觉得 + Object + 怎么样?
 * Used to ask for someone’s opinion.
 * 你觉得猫怎么样? --> What do you think about cat?
+
+## kěnéng + yào kàn - Used to express possibilities
+
+* **Tā kěnéng lái, kěnéng bù lái.** --> He may or may not come.
+	* Subject + kěkéng + verb/adjective.
+* **Yào kàn tā yǒu méiyǒu kòng.** --> It depends on if he is or is not free.
+	* yào kàn + condition.
