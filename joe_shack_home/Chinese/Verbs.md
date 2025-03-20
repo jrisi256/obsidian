@@ -80,3 +80,9 @@ It functions very similarly as in English. Translates to "Have you...?" or "I ha
 * Subject + 有 + Verb.
 * 我有吃午饭. --> I have eaten lunch.
 * 我吃了午饭. --> I ate lunch.
+
+## zuò + mode of transportation
+
+Used to indicate how one gets somewhere.
+
+* **我坐车去北京** --> "I go by car to go to Beijing".

@@ -61,6 +61,8 @@ Other examples:
 * **Jiàoshì zài nǎ er?** --> Where is the classroom?
 	* **Jiàoshì zài dàxué.** --> The classroom is in the university.
 
+You can also use **shénme dìfang** in place of **nǎ er** which literally translates to "what place".
+
 ## Zěnme
 
 How? Because of the structure of Chinese sentences and Chinese grammar, *how* gets used slightly differently than English speakers are used to.
