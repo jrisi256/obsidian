@@ -36,7 +36,7 @@ This is also hypothesized to begin within a relatively short time period (a matt
 ## Data
 
 1. Incarceration rates comes from the US Bureau of Justice Statistics and only capture state prisoners. Lagged by 1-year.
-2. Child health outcomes came from a combination of the KIDS COUNT Data center and the CDC's Wonder Database. Infant mortality, child mortality, teen mortality, preterm birth, low birthweight.
+2. Child health outcomes came from a combination of the KIDS COUNT Data center and the CDC's Wonder Database. Infant mortality, child mortality, teen mortality, preterm birth, low birth weight.
 3. Dummy variables for **state** and **year**. **Unemployment** (BLS), **median household income** (IPUMS-CPS), and **poverty** (CPS). **Education** (some college, finished high school, did not finish high school). **Social spending** on TANF, Medicaid, SSI, education spending, and SNAP (Urban Institute's State and Local Finance Initiative). **Percent of the population that is Black**.
 4. Data spans 1990 - 2017.
 

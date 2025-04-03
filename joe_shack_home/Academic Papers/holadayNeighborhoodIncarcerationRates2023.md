@@ -23,7 +23,7 @@ Why the census tract level? People's social networks and neighborhood resources 
 ## Data and Methods
 
 * **Independent variable**: Incarceration data came from the Prison Policy Initiative and reflects state prison incarceration rates in NYC as of 2010. Modeled incarceration as a categorical variable to reflect non-linearity of its effects.
-* **Dependent variables**: Preterm birth and low birthweight. Census tracts with less than 50 birth from 2010 - 2014 were excluded.
+* **Dependent variables**: Preterm birth and low birthweight. Census tracts with less than 50 births from 2010 - 2014 were excluded.
 * **Controls**:
 	* Percentage of births that were teen births, percentage of births to women over 40, other birth variables concerning the types of births. Censored tracts were given a value of 0.
 	* Percentage of births to Black individuals. Censored tracts were assigned the percent of individuals in the neighborhood who are Black.

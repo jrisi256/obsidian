@@ -26,7 +26,7 @@ Objectives. To evaluate the relationship between changes in county jail incarcer
 
 ## Data and Methods
 
-* **Independent variable** --> Jail incarceration as the daily average population which comes [[Census of Jails]] and [[Annual Survey of Jails]]. from Modeled as a continuous variable and as quartiles (measured across all years across all counties).
+* **Independent variable** --> Jail incarceration as the daily average population which comes from [[Census of Jails]] and [[Annual Survey of Jails]]. Modeled as a continuous variable and as quartiles (measured across all years across all counties).
 	* Lagged by 1 year.
 * County population totals come from [[PEP]].
 * **Dependent variable**:
