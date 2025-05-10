@@ -36,3 +36,9 @@ This is the measure word for members of the family.
   
 * 我住在302**号**房间 --> I live in room 302.
 * 玛丽住在多少**号**房间? --> Mary lives in what room number?
+
+## píng
+
+* It means *bottle*.
+	* **一瓶水** --> One bottle of water.
+* If you want to say **one bottle**: **一个瓶子** which is **píngzi**.

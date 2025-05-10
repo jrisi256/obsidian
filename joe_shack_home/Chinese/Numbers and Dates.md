@@ -113,3 +113,19 @@ Let's get into some higher numbers.
   
 * We can also ask people their age. [[Asking questions]].
 	* **Nǐ jǐ suì?** --> How old are you? Because **jǐ** is typically only used for small numbers, this is only used when asking small children their age.
+
+## Money
+
+* **多少钱**？ --> How much money (does this thing cost)?
+* **一斤苹果多少钱**？--> One **jīn** (500 grams) of apples costs how much money?
+	* **一斤苹果几块钱**？ Sometimes people will include the **kuài**, but you do not have to.
+* **18块5毛钱** --> The full way to say the cost of something. 18 **kuài**, 5 **máo**. You do not have to state the full cost of something in this way, though. The following are both also acceptable.
+	* 18块5毛
+	* 18块5
+
+* **一斤是10块钱**. --> 500 grams is 10 kuài.
+* **一斤要10块钱**. --> Means the same thing. More literally, it means 500 grams *wants* or *demands* 10 kuài.
+
+* **这种橘子多少钱一斤**? --> 500 grams of this kind of orange is how much money?
+	* You could also say it this way, **这种橘子一斤多少钱**?
+	* Or this way: **一斤这种橘子多少钱**?

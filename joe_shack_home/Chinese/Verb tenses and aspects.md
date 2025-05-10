@@ -29,16 +29,17 @@ You can also use "le" with adjectives to indicate something is too much.
 
 ### Using le with verbs
 
-* 
-
+* Le can be used to indicate a change --> **今天我工作，明天我不工作了**. Today, I work. Tomorrow, I do not work.
 ## Yíxiàr
 
 Used to indicate an action which is done quickly or casually.
-
 * **Wǒ jièshào yíxiàr wǒ péngyǒu Ray.** --> I introduce quickly my friend Ray.
 * **Wǒ kàn (tīng, xiūxi) yíxiàr.** --> Let me have a quick look (listen, rest).
 * **Nǐ qǐng kàn yíxiàr.** --> Please have a quick look.
+* **Wǒ cháng yíxiàr zhègè júzi**. --> Let taste this orange.
 
+Sometimes people will use a verb twice in a row to indicate it will be done quickly.
+* 听听。
 ## Yǐqián and Yǐhòu
 
 Respectively, they mean "before" and "after". However, their placement within a sentence can alter their meaning to "used to" or "will". Some examples below:

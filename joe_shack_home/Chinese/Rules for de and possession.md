@@ -10,12 +10,10 @@ type:
 Chinese is loose on its rules. As such, you do not always need to use an explicit word or word construction to indicate possession. E.g.,
 
 * **Tā gēgē gōngzuò ma**? --> Does his/her brother work?
-
 ## Using de to indicate possession
 
 * **<font color = "red">Nǐ de</font> fāyīn hěn hǎo.** --> Your pronunciation is very good.
 * **Wǒ xǐhuān <font color = "red">wǒ de</font> nǚ péngyǒu.** --> I like my girlfriend. You also could omit the "de" in the sentence, and it would be fine. As mentioned earlier, it is not a strict rule.
-
 ### Examples
 
 * **Fànguǎn de rén** --> People of the restaurant, i.e. workers.
@@ -27,3 +25,10 @@ Chinese is loose on its rules. As such, you do not always need to use an explici
 	* Could also: **nǎ gè** instead of **shénme**.
 	  
 * **Zhègè xīngqí shì kāixué de dì yī gè xīngqí.** --> This week is the first week of school starting. More literally, "This week is the start of school's first week."
+## bié de
+
+* It means *other*. Examples below:
+	* **别的东西** --> Other things.
+	* **别的人** --> Other people.
+	* **别的地方** --> Other places.
+	* **你还认识别的中国人吗**? --> Do you also know other Chinese people?
