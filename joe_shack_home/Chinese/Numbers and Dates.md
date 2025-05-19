@@ -120,8 +120,13 @@ Let's get into some higher numbers.
 * **一斤苹果多少钱**？--> One **jīn** (500 grams) of apples costs how much money?
 	* **一斤苹果几块钱**？ Sometimes people will include the **kuài**, but you do not have to.
 * **18块5毛钱** --> The full way to say the cost of something. 18 **kuài**, 5 **máo**. You do not have to state the full cost of something in this way, though. The following are both also acceptable.
+	* 18块5毛前
 	* 18块5毛
-	* 18块5
+	* 18快5
+* If you want to say the equivalent of 18.52, you would say:
+	* 18快5毛2分
+* If you want to say, 18.02:
+	* 18快零2分
 
 * **一斤是10块钱**. --> 500 grams is 10 kuài.
 * **一斤要10块钱**. --> Means the same thing. More literally, it means 500 grams *wants* or *demands* 10 kuài.
@@ -129,3 +134,7 @@ Let's get into some higher numbers.
 * **这种橘子多少钱一斤**? --> 500 grams of this kind of orange is how much money?
 	* You could also say it this way, **这种橘子一斤多少钱**?
 	* Or this way: **一斤这种橘子多少钱**?
+	  
+* Now, if you want to say $18.52, you can say:
+	* 18美元52美分。
+	* 18点52美元。
