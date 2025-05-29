@@ -107,6 +107,10 @@ How? Because of the structure of Chinese sentences and Chinese grammar, *how* ge
 * **Nǐ hē shénme yàng de kāfēi?** --> What kind of coffee are you drinking?
 * **Děng yīxià wǒmen qù hē kāfēi, zěnme yàng?** --> How about later we go drink coffee?
 	* **Zěnme yàng** always goes at the end of a sentence. It is a little bit like **ne**.
+* **今天的天气怎么样**？ --> Literally, "Today's weather, how about?" More correctly, "How is today's weather?"
+* **王老师的身体怎么样？** --> How is Wang Laoshi's health?
+* **她的英语怎么样？** --> How is her English?
+* **他的工作怎么样？** --> How is his work?
 ## The placement of the question word
 
 Up until this point, I had been pretty comfortable just placing the question word at the end of the sentence and that was that. This is not quite accurate, though. The question word generally *replaces* the part that is unknown to you. Some examples below:
