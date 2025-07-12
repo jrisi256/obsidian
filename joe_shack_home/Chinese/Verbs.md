@@ -86,3 +86,9 @@ It functions very similarly as in English. Translates to "Have you...?" or "I ha
 Used to indicate how one gets somewhere.
 
 * **我坐车去北京** --> "I go by car to go to Beijing".
+
+## Express doing two things at the same time
+
+One would use **一边** (yībiān) to communicate you are doing two things at once.
+
+* **⼀边学习，⼀边⼯作** --> Studying while working.

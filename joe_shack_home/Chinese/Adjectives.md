@@ -15,3 +15,11 @@ On the surface, they appear very similar in meaning. While they are very similar
 * E.g., **我有很多书**. --> I have many books.
 * Or **我的书多** --> My books are many.
 * You **should not say** **我有多书**.
+
+## dōu
+
+This can be used to express *everything*.
+
+* **我什么都喜欢** --> I like everything.
+* **我哪⾥都想去** —> I want to go everywhere.
+* **谁都可以**  --> Anyone (everyone) can.
