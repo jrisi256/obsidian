@@ -48,6 +48,11 @@ More examples:
 ## duōjiǔ
 
 See [[Numbers and Dates]].
+
+## duō + adjective
+
+* How tall? How fast?
+* **duō gāo**, **duō kuài**.
 ## Nǎ er
 
 * **Nǐ zài nǎ er?** --> Where are you? Literally translates to: "You in where?"
