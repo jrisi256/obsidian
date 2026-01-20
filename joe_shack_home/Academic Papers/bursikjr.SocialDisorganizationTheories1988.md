@@ -34,7 +34,7 @@ After a period of decline in the discipline, the [[Social disorganization]] mode
 - Social disorganization (SD) had been in decline and neglected, but it has recently attracted scholarly attention again. Addresses 5 criticisms of social disorganization. Discusses attempts to remedy them and what challenges/problems remain.
 
 - **Theory** → Areas of low socioeconomic status tend to have higher rates of population turnover (abandon these areas as soon as they can) combined with population heterogeneity → leads to social disorganization and a lack of social control. “Inability of local communities to realize their common values or solve common problems.” → Residents have little stake in the area so do not invest in mechanisms of control, development of primary relationships which would result in informal social control also do not develop, heterogeneity impedes communication.
-	- Freely draw upon other theories to really define the mechanisms. Although Bursik claims it is best thought of as an instantiation of [[social control theory]].
+	- Freely draw upon other theories to really define the mechanisms. Although Bursik claims it is best thought of as an instantiation of [[Social control theory]].
 
 ### Criticisms
 - **Part 1** → Some criticize it for its lack of ability to make individual predictions. However, this isn’t really a good criticism. Long history in [[Criminology]] of focusing on groups.

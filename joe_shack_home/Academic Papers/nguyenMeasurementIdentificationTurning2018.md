@@ -71,7 +71,7 @@ Since their introduction to criminology, turning points have been of substantial
 * Other studies use fixed effects for individuals so an individual, in some sense, represents their own counterfactual. Of course, if there are unobserved confounders that are time varying, the interpretation cannot be causal.
 	* It is likely that such variables as attitudes and criminal propensity which are important for explaining marriage/employment but also the outcome are time varying.
 	  
-* [[Experiment]] studies on the effects of employment have come to mixed results concerning the ability for employment to lead to desistance.
+* [[experiment]] studies on the effects of employment have come to mixed results concerning the ability for employment to lead to desistance.
   
 * However, these approaches, while laudable, do not explicitly model the selection but try to control it away. Furthermore, they cannot deal with reverse causality or simultaneity. Longitudinal studies can control for unmeasured, stable differences across individuals, but they are not as good as capturing dynamic individual-level factors.
 	* I.e., dealing with selection bias, only, cannot control for simultaneity.

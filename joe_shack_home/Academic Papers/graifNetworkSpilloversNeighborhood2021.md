@@ -90,7 +90,7 @@ Does exposure to work places (as measured by commuting ties) of higher disadvant
 
 * Network spillovers of disadvantage or Work network disadvantage index (focal area's disadvantage is a weighted average of disadvantage levels in all works connected to it with weights based on the strength of the commuting flow).
   
-* Internal [[concentrated disadvantage]] -> uses [[Principal Component Analysis]], as per usual, using the usual variables.
+* Internal [[Concentrated disadvantage]] -> uses [[Principal Component Analysis]], as per usual, using the usual variables.
 	* Also use residential stability, population density, and measure racial/ethnic diversity using [[Herfindahl Index]].
 	  
 * Geographic spillovers for **disadvantage** and **crime**.

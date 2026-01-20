@@ -13,7 +13,7 @@ type: Note
 * [[garlandPenalityPenalState2013]]
 * [[clearPolicyEvidenceChallenge2010]]
 * [[alexanderNewJimCrow2012]]
-* [[campbellTransformationAmericaPenal2013]]
+* [[campbellTransformationAmericasPenal2013]]
 
 ## Question from CRIM597 - Sentencing
 
@@ -41,7 +41,7 @@ Policy reforms are important. However, how faithfully they’re implemented by b
 
 ### Questions from CRIM501
 
-1. What do we think of this reading in light of the [[garlandPenalityPenalState2013]] and [[campbellTransformationAmericaPenal2013]] emphasis on the nature of the penal state and specific state-level and national-level trends and structures which may or may not have helped fuel the rise in mass incarceration? Do we find these trends complementary or more contradictory? How might this piece inform other analyses more focused on governmental structure and political context? (Joe’s opinion) → For my own two cents, it would seem that broader social forces shape the construction of punishment structures and what Campbell terms the _penal state_. As an example see the construction of police forces which [[mullerNorthwardMigrationRise2012]] outlines in this piece.
+1. What do we think of this reading in light of the [[garlandPenalityPenalState2013]] and [[campbellTransformationAmericasPenal2013]] emphasis on the nature of the penal state and specific state-level and national-level trends and structures which may or may not have helped fuel the rise in mass incarceration? Do we find these trends complementary or more contradictory? How might this piece inform other analyses more focused on governmental structure and political context? (Joe’s opinion) → For my own two cents, it would seem that broader social forces shape the construction of punishment structures and what Campbell terms the _penal state_. As an example see the construction of police forces which [[mullerNorthwardMigrationRise2012]] outlines in this piece.
     
 2. I quickly looked this up before class using data from the Sentencing Project, and it appears as if sentencing disparities are still highest in Northern and Western states vs. Eastern and Southern states. How can we square these findings with Campbell & Schoenfeld (2013) which found that typically Northern/more liberal states were the ones to successfully stave off mass incarceration the longest and moderate its impacts the most? More generally, how do we square these findings with Northern/liberal states as being perceived as more racially egalitarian? 
     

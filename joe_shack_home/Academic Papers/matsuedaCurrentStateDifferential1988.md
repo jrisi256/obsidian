@@ -57,7 +57,7 @@ With his theory of differential association, [[Sutherland]] attempted to identif
 
 ### Kornhauser’s Critique
 
-* Rejects differential association in favor of [[Social control theory|social control]], [[social disorganization]] and other integrated theories. She finds disorganization-based perspectives to be superior to [[cultural deviance]] and [[strain theory]]. However by classifying differential association under cultural deviance, she misconstrues the theory. Nevertheless, she claims all cultural deviance hypotheses share the same flawed assumptions:
+* Rejects differential association in favor of [[Social control theory|social control]], [[Social disorganization]] and other integrated theories. She finds disorganization-based perspectives to be superior to [[cultural deviance]] and [[strain theory]]. However by classifying differential association under cultural deviance, she misconstrues the theory. Nevertheless, she claims all cultural deviance hypotheses share the same flawed assumptions:
 
 1. Human beings have no nature. They’re completely plastic. **Sutherland thinks we have a genetic base but the specific genetic drive is directed through social forces.**
 2. There’s no consensus in society. Laws only reflect subcultural values of powerful groups. Thus modern society, lacking consensus, have degenerated into a war of subcultures. **Sutherland didn’t think modern society was so conflict-ridden so as to preclude consensus nor did he think consensus was the sole source of social order nor did he think laws couldn’t reflect any degree of agreement.**

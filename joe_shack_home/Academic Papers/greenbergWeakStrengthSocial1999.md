@@ -27,7 +27,7 @@ year: 1999
 
 ## Abstract
 
-A reanalysis of self-reported delinquency data from the Richmond Youth Survey indicates that [[social control theory]] has only limited explanatory power. The analysis confirms a prediction of [[anomie|strain theory]], although strain theory, too, has limited explanatory power. The impact of Hirschi's Causes of Delinquency may have been due as much to its ideological appeal as to the strength of the evidence that it presented in support of social control theory.
+A reanalysis of self-reported delinquency data from the Richmond Youth Survey indicates that [[Social control theory]] has only limited explanatory power. The analysis confirms a prediction of [[anomie|strain theory]], although strain theory, too, has limited explanatory power. The impact of Hirschi's Causes of Delinquency may have been due as much to its ideological appeal as to the strength of the evidence that it presented in support of social control theory.
 
 ## My notes
 

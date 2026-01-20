@@ -1,6 +1,13 @@
 ---
 type: Note
-aliases: [Anomie, strain theory, Strain theory, General strain theory, GST, general strain theory, General Strain Theory]
+aliases:
+  - Anomie
+  - strain theory
+  - Strain theory
+  - General strain theory
+  - GST
+  - general strain theory
+  - General Strain Theory
 ---
 
 * **Creation date**: `= this.file.ctime`

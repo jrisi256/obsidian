@@ -35,7 +35,7 @@ A number of strong theoretical statements have been based on analyses of delinqu
 
 * Paper reanalyzes the data and reassesses the negative evidence pertaining to [[differential association]] theory. It is shown the ratio of learned behavior patterns favorable and unfavorable to violation of legal codes (DA) can be explicitly modeled. The analysis based on this strategy finds DA support over control theory. Specifically the unobserved construct representing the ratio of learned behavior patterns mediates the effects of the model’s other variables on delinquency.
   
-* To reiterate, [[social control theory]] states people deviating should be the given, and we only don’t deviate because of our bonds to society. When bonds are broken/weakend, more free to deviate but aren’t required to do so.
+* To reiterate, [[Social control theory]] states people deviating should be the given, and we only don’t deviate because of our bonds to society. When bonds are broken/weakend, more free to deviate but aren’t required to do so.
   
 * For Hirschi, there are no delinquent subcultures. There is variation in the extent to which people believe in society’s norms and the less the belief, the higher the probability of deviating.
 

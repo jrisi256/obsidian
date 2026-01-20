@@ -58,6 +58,6 @@ year: 2009
 
 #### Theoretical limitations
 
-* Never was made clear how to operationalize and measure [[social disorganization]]. High proportion of working women, high proportion of unmarried men, high number of persons per household?
+* Never was made clear how to operationalize and measure [[Social disorganization]]. High proportion of working women, high proportion of unmarried men, high number of persons per household?
 * Does not address white collar crime.
 * Viewed [[slums]] and their development as natural byproducts of change. Could be just as equally true they’re the product of unequal distribution of resources. Disorganization, for critics, is a historical by-product of social domination by the powerful.
