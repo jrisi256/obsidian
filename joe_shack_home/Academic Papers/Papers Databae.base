@@ -1,0 +1,17 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Academic Papers")
+    order:
+      - file.name
+      - author
+      - file.tags
+      - journal
+      - year
+    sort:
+      - property: journal
+        direction: DESC
+      - property: year
+        direction: ASC

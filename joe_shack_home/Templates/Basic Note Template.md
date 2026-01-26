@@ -1,5 +1,7 @@
 ---
-type: 
+type:
+  - Note
+media:
 ---
 
 * **Creation date**: `= this.file.ctime`

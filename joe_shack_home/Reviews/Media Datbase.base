@@ -1,0 +1,48 @@
+formulas:
+  year experienced: note["Last experience"].year
+  year first experienced: note["First experience"].year
+properties:
+  formula.year experienced:
+    displayName: year last experienced
+views:
+  - type: table
+    name: Main
+    filters:
+      and:
+        - type == ["Media Review"]
+        - '!file.inFolder("Templates")'
+    order:
+      - file.name
+      - director
+      - First experience
+      - first time
+      - Last experience
+      - media
+      - rating
+      - year
+      - formula.year experienced
+      - formula.year first experienced
+    sort:
+      - property: formula.year experienced
+        direction: ASC
+    summaries: {}
+    columnSize:
+      note.year: 80
+  - type: table
+    name: First Time
+    filters:
+      and:
+        - type == ["Media Review"]
+        - '!file.inFolder("Templates")'
+        - note["first time"] == "yes"
+    order:
+      - file.name
+      - formula.year experienced
+      - formula.year first experienced
+      - director
+      - First experience
+      - first time
+      - Last experience
+      - media
+      - rating
+      - year
