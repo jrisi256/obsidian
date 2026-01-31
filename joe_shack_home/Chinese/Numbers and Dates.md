@@ -113,6 +113,8 @@ Let's get into some higher numbers.
   
 * We can also ask people their age. [[Asking questions]].
 	* **Nǐ jǐ suì?** --> How old are you? Because **jǐ** is typically only used for small numbers, this is only used when asking small children their age.
+	* **你多少岁**? --> How old are you? More generally for everyone. However, this can be perceived as bit rude/direct when asking someone directly. Something like **他多少岁**? is not seen as rude (because you are asking about another person).
+	* A more casual way to asking someone's age --> **你多大了**? Literally translate to "You are how much big?
 
 ## Money
 
@@ -137,4 +139,29 @@ Let's get into some higher numbers.
 	  
 * Now, if you want to say $18.52, you can say:
 	* 18美元52美分。
-	* 18点52美元。
+	* 18点52美元.
+
+## Communicating *approximately*
+
+* 多 can be used to express approximate amounts for a variety of numerical objects. There are rules though as to how to use it.
+* When the number being expressed is less than 10, 多 should go after the measure word. E.g.,
+	* Number + measure word + 多 + noun
+	* 三个多星期 --> 3 - 4 weeks.
+	* 五年多 --> 5 - 6 years.
+	* 六个多月 --> 6 - 7 months.
+* When the number being expressed is 10 or larger, 多 should go before the measure word. Additionally, 多/几 are interchangeable in this scenario.
+	* Number + 多/几 + measured word + noun.
+	* 十多个月 --> 10 - 20 months.
+	* 二十多块钱 --> 20 - 30 kuai.
+	* 八十多个人 --> 80 - 90 people.
+
+### Some more example to really hammer the point home.
+
+1. **大卫的爸爸多少岁？ 50多岁** --> How old is Dawei's Dad? He's about 50 - 60 years old.
+2. **大卫住在北京几年了？ 3年多** --> How long has Dawei lived in Beijing? He's lived there 3 - 4 years.
+3. **那本新书多少钱？ 5块多钱** --> That new book is how much money? It's about 5 - 6 kuai. **10多块钱** --> 10 - 20 kuai.
+4. **你几点上课？ 八点多**. --> What time do you go to class? Around 8 - 9 am.
+	1. **NOTE**: When expressing time in hours, you always do number + measure word + 多 even on number larger than 10.
+5. **大卫学习汉语几年了？两年多了**. --> Dawei has been studying Chinese how many years? 2 - 3 years.
+6. **玛丽今天吃了多少个饺子？ 十多个饺子**. --> Today, Mali ate how many dumplings? About 10 - 20 dumplings.
+7. **王老师今天工作了多少个小时? 十多个小时**. --> Today, Teacher Wang worked how many hours? He worked about 10 - 20 hours.
