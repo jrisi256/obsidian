@@ -30,6 +30,26 @@ Let's get into some higher numbers.
 * 1,013 = **yī qiān líng yī shí sān**.
 * 1,100 = **yī qiān yī bǎi**.
 
+In the hundreds, you need to indicate if you are using a zero.
+* 100 = **一百**
+* 105 = **一百零五**
+* 115 = **一百一十五**
+* 206 = **二百零六**
+* 918 = **九百一十八**
+
+Same in the thousands, you need to indicate if you are using a zero. Although you would not use two zeroes, you would only use one.
+* 4019 = **四千零一十九**
+* 5003 = **五千零三**
+* 3002 = **三千零二**
+* 2510 = **二千五百一十**
+* 6207 = **六千二百零七**
+
+## Communicating length of time or duration
+
+* When stating how long an action lasted, the time duration usually comes after the verb. 
+* Verb + 了 + Duration (+ 的 + Object).
+* **我们搬了三天的家**. --> We moved for three days.
+* **你开了多久的车**? --> How long did you drive?
 ## Communicating time
 
 * **Jīntiān shí yī hào** --> Today is the 11th.
@@ -155,7 +175,7 @@ Let's get into some higher numbers.
 	* 二十多块钱 --> 20 - 30 kuai.
 	* 八十多个人 --> 80 - 90 people.
 
-### Some more example to really hammer the point home.
+### Some more examples to really hammer the point home.
 
 1. **大卫的爸爸多少岁？ 50多岁** --> How old is Dawei's Dad? He's about 50 - 60 years old.
 2. **大卫住在北京几年了？ 3年多** --> How long has Dawei lived in Beijing? He's lived there 3 - 4 years.
