@@ -74,3 +74,8 @@ Let's say you wanted to say, "I am very happy to know you."
 	* Subject + kěkéng + verb/adjective.
 * **Yào kàn tā yǒu méiyǒu kòng.** --> It depends on if he is or is not free.
 	* yào kàn + condition.
+
+## First... then...
+
+* 先... 再...
+* **我们先吃面条，再去健身房** --> We first eat noodles, then we go to the gym.
