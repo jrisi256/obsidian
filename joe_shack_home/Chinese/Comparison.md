@@ -24,3 +24,10 @@ Examples:
 * 1号楼在哪儿？1号楼在2号楼**旁边**. --> Where is building #1? Building #1 is beside building number 2. --> More literally, "Building #1 is located at building #2's side."
 
 **pángbiān** might be better thought of as a noun. Really we should be saying something like: 北京大学**的旁边**. --> Beijing University's side.
+
+## 和。。。一样
+
+This sentence structure is used to express two things are the same.
+
+* A + 和 + B + 一样 (adjective).
+* 我和你一样 --> I am the same as you.
