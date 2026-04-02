@@ -6,8 +6,7 @@ type:
 * **Creation date**: `= this.file.ctime`
 * **Last modified date**: `= this.file.mtime`
 * **Tags**: #chinese #language_learning 
-
-### Using le to communicate past tense
+## Using le to communicate past tense
 
 **Nǐ chī le ma?** --> Have you eaten? It is a very common Chinese greeting.
 **Wǒ yě chī le** --> I also ate.
@@ -18,16 +17,20 @@ Le is a complicated grammar particle in Chinese. Le can be used in conjunction w
 You can also use "le" with adjectives to indicate something is too much.
 
 [This article was particularly helpful in this regard.](https://www.thechairmansbao.com/blog/le-adjectives/)
+## Using le to indicate something that is ongoing.
 
-### Using guò to communicate past tense
+* **我在北京住了三年**. --> I lived in Beijing for 3 years.
+* **我在北京住了三年了**. --> I have been living in Beijing for 3 years (used to indicate something that is still ongoing).
+* **今天你上中文课，你上多长时间**? --> Today you went to Chinese. You went to class for how long? **45分钟** --> 45 minutes.
+* **现在你上中文课，你上了多长时间了**? --> You go to Chinese class, you have been going to class for how long? **我上了中文课两年了.** --> I have been going to Chinese class for 2 years.
+## Using guò to communicate past tense
 
 * If you say: **Nǐ yǒu qùguò yīngguó ma?** --> This translates to "Have you ever been to the UK?" Have you ever experienced the UK?
 * Versus if you said: **Nǐ yǒu qù yīngguó ma?** --> This translates more to "Did you go the UK?"
-### Using Le with adjectives
+## Using le with adjectives
 
 * A very simple example from class: **Wǒ tài máng le**. Le is often combined with tài to indicate something to an extreme degree. In this case, the sentence means **I am too busy**. Technically, tài already means **very** but when combined with le, you take it to the highest degree (excess).
-
-### Using le with verbs
+## Using le with verbs
 
 * Le can be used to indicate a change --> **今天我工作，明天我不工作了**. Today, I work. Tomorrow, I do not work.
 ## Yíxiàr
@@ -58,17 +61,20 @@ verb + yǐhòu = "After doing this."
 * **Wǎncān yǐhòu, wǒ yào qù sànbù.** --> After dinner, I want to go take walk.
 
 If it helps, **jiāngyào** (which means will) is very similar in meaning to **yǐhòu**.
-
 ## ba
 
 **ba** is used to communicate that something is a suggestion.
 
 * **Míng tiān wǒmen qù kàn diànyǐng ba**. --> Let's watch a movie tomorrow.
 * **Nǐ míng tiān lái wǒ jiā ba**. --> You, tomorrow, come to my place.
-
 ## jiù
 
 Used for emphasis.
 
 * **她住在哪儿？** --> Where does she live?
 * **她就住在大学的宿舍.** --> *She lives* in the university's dorms.
+## 是... 的
+
+Sometimes it can be used to indicate something which happened in the past. In that way, it is very similar to 了.
+
+* **这杯咖啡是谁买的**? --> This cup of coffee who bought?
