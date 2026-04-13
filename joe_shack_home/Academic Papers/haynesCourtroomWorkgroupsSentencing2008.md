@@ -6,7 +6,7 @@ journal: Crime & Delinquency
 type: Article
 ---
 [Zotero entry](zotero://select/items/@haynesCourtroomWorkgroupsSentencing2008)
-**Tags**:
+**Tags**: #courtroom_workgroups #courtroom_workgroup_characteristics #pennsylvania #sentencing_commission
 ## Abstract
 
 Sentencing decisions are the product of a group of courtroom actors, primarily judges and district attorneys. Although the structure of the courtroom workgroup and the interdependencies among members are assumed to be important determinants of sentencing decisions, the degree of this importance and the specific mechanisms through which workgroups affect these decisions have not been investigated. This study used data from the Pennsylvania Commission on Sentencing (PCS) for the years 1990 to 2000 to examine how three social psychological aspects of courtroom workgroups (similarity, proximity, and stability) affect sentencing decisions. Results indicated (a) that workgroups generally had very high levels of similarity in terms of race, gender, and political party but lower levels of similarity in terms of age, college education, and law school education and (b) that proximity and stability were generally high. Controlling for individual, case, and distal contextual factors, workgroup factors affected the decision to incarcerate, the decision to impose fines, and the decision to impose restitution. In particular, proximity increased the use of economic sanctions relative to incarceration and stability was associated with a decrease in the imposition of economic sanctions. Similarity had inconsistent effects.
