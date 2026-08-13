@@ -1,0 +1,33 @@
+filters:
+  and:
+    - file.inFolder("Academic Papers")
+    - file.basename != "Academic Papers Database"
+views:
+  - type: table
+    name: Table
+    order:
+      - author
+      - journal
+      - type
+      - year
+      - file.name
+      - sample location
+      - sample size
+      - sampling frame
+      - study method
+      - dependent variable(s)
+      - main independent variable(s)
+      - study type
+      - hypotheses supported?
+    sort:
+      - property: year
+        direction: DESC
+      - property: journal
+        direction: ASC
+    columnSize:
+      note.author: 385
+      note.journal: 308
+      note.year: 93
+      file.name: 278
+      note.sampling frame: 177
+      note.study method: 250

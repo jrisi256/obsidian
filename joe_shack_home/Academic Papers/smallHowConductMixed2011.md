@@ -1,0 +1,24 @@
+---
+title: "How to Conduct a Mixed Methods Study: Recent Trends in a Rapidly Growing Literature"
+author: Mario Luis Small
+year: 2011
+journal: Annual Review of Sociology
+type: Article
+study type: Theory - Methodology
+---
+[Zotero entry](zotero://select/items/@smallHowConductMixed2011)
+**Tags**: #soc513 #week11 #mixed_methods #methodology #paper_belief_demons_trump_support 
+## Abstract
+The present article selectively reviews the large number of recent studies that have been described as based on mixed methods. I begin by discussing a body of work that has emerged to promote mixed methods research across the social sciences. I then review and critique empirical studies in each of two general approaches to mixed methods: mixed data–collection studies, which combine two or more kinds of data; and mixed data–analysis studies, which combine two or more analytical strategies, examine qualitative data with quantitative methods, or explore quantitative data with qualitative techniques. I argue that, although mixed methods research is by no means new, empirical studies today combine methods in more diverse and, at times, innovative ways. Nevertheless, important methodological tensions will likely surface as the research becomes more self-reflexive.
+## Notes
+1. Properly defining a *mixed-methods* study is hard as is properly delineating what a *quantitative* vs. *qualitative* study is. Rather than trying to formally define everything, it is useful to think of these things existing along a gradient with various factors one can consider.
+	1. **Types of data**: I.e., what is being analyzed: survey responses, interviews, newspapers, administrative data
+	2. **Data collection**: I.e., how was the data collected: interviews, observation, experiments, archival investigation
+	3. **Data analysis**: I.e., how one makes sense of the data: general approaches (case study, regression, social network analysis) and specific approaches (open coding, matching).
+2. Epistemologically, mixed-methods research has been trying to argue that the synthesis of quantitative and qualitative methods has emergent properties allowing for a better research design of the question at hand i.e., it is not simply two old things being used together but two old things coming together to form a new thing. Mixed-methodologists have relied upon the philosophical tradition of [[pragmatism]] to form the foundations of the field. Meaning, the pursuit of *truth* is put aside for what is useful in the moment. Empirical inquiry is prized as the main means of gaining knowledge.
+3. Three main purposes for conducting a mixed-methods study:
+	1. **Motivations to combine different data**: You either want to **A)** confirm your results (i.e., triangulation, multiple methods coming to the same conclusion) or you want to **B)** complement your results (i.e., using qualitative data to interpret the results from quantitative data or using quantitative data to test results derived from qualitative data). You basically need a way to explain your results or show your results hold in general. Of course, some argue all studies are complementary because every data type and data analysis can only speak to knowledge in their unique way which is hard to compare across data types and analyses. True confirmatory studies are more like replications.
+	2. **Extent of sequencing of the data collection**: Do you decide to collect your different data types simultaneously? Or is one aspect of the data informing your decision to go on and collect the other data? Concurrent vs. sequential data collection. Some philosophical differences as to how planned out the research plan needs to be. Quantitative scholars place a premium on planned out analyses (to prevent data hacking) whereas qualitative scholars often argue their needs to be room to change data collection and analysis in response to what is being found in real-time if it differs significantly from what was expected (and/or to keep one's self open to previously unknown explanations).
+	3. **Level of nesting of multiple data sources**: *Nested* (multiple data types on the same unit e.g., surveyed some people and then a subset were interviewed) vs. *non-nested* (data on multiple different units e.g., surveyed some people and interviewed some people).
+4. Novel type of mixed-method studies have recently emerged called *crossover analyses* wherein quantitative methods are applied to qualitative methods and vice versa.
+5. Depending on the methods being employed (and their underlying assumptions), mixed-methods research can run up against commensurability issues. I would argue these situations are rare, and when they do occur, present an opportunity to examine how sound the underlying assumptions are of each method.
