@@ -22,8 +22,6 @@ views:
     sort:
       - property: year
         direction: DESC
-      - property: journal
-        direction: ASC
     columnSize:
       note.author: 385
       note.journal: 308

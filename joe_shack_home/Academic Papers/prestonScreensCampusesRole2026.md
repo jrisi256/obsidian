@@ -17,7 +17,6 @@ study end: 2025/01
 [Zotero entry](zotero://select/items/@prestonScreensCampusesRole2026)
 **Tags**: #social_media #youth #political_identity_formation #far_right #paper_belief_demons_trump_support
 ## Abstract
-
 Although recent studies have suggested that social media sites play a crucial role in amplifying far-right ideas, the exact mechanisms by which this process occurs remain unclear. To address this gap, I utilize data from life history interviews with 55 far-right youth activists involved in right-wing campus organizations in a major city in central Canada and another in the Midwestern United States. I found that, during interviews, far-right participants made sense of their offline mobilization and involvement in right-wing organizations through their exposure to far-right content during adolescence. Participants recounted their experiences viewing far-right YouTube content, describing how they: 1) developed parasocial relationships with those on the far-right, 2) became politically polarized, and 3) were inspired by online content to seek offline collective mobilization at university. This study examines broader shifts in political engagement and the impact of technology on the future of democracies.
 
 ## Notes
