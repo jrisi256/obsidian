@@ -31,7 +31,7 @@ main independent variable(s):
 hypotheses supported?:
 ---
 [Zotero entry](zotero://select/items/@bushwayUnderstandingRaceDisparities2025)
-**Tags**: #public_policy #racial_disparity_courts #review #simulation 
+**Tags**: #public_policy #racial_disparity_courts #review #simulation #postdoc_signaling_edovo 
 ## Abstract
 We construct a framework that defines optimal outcomes in criminal courts, and we use this framework to interpret and organize the existing literature on racial disparities in pretrial detention, sentencing, and community corrections outcomes. Existing research indicates that some actors within courts and within the agencies that implement the sentences that courts impose make decisions that are contaminated by racial animus or racially biased assessments of the recidivism risks posed by some offenders. However, the most important sources of racial disparities in case outcomes are numerous practices, regulations, and laws that are too punitive—that is, their social costs are likely greater than any derived social benefits. Since minorities, especially Blacks, face arrest at much higher rates than Whites, they bear large disparate impacts from such policies.
 

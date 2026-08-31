@@ -31,7 +31,7 @@ main independent variable(s):
 hypotheses supported?:
 ---
 [Zotero entry](zotero://select/items/@stoddardPredictingPoliceMisconduct2024)
-**Tags**:
+**Tags**: #machine_learning #police_misconduct #postdoc_signaling_edovo 
 ## Abstract
 Whether police misconduct can be prevented depends partly on whether it can be predicted. We show police misconduct is partially predictable and that estimated misconduct risk is not simply an artifact of measurement error or a proxy for officer activity. We also show many officers at risk of on-duty misconduct have elevated off-duty risk too, suggesting a potential link between accountability and officer wellness. We show that targeting preventive interventions even with a simple prediction model – number of past complaints, which is not as predictive as machine learning but lower-cost to deploy – has marginal value of public funds of infinity.
 ## Data and Methods

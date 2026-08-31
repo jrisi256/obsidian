@@ -34,7 +34,7 @@ main independent variable(s):
 hypotheses supported?:
 ---
 [Zotero entry](zotero://select/items/@chaseSafeHirePredicting2026)
-**Tags**: #human_vs_algorithm #job_hiring #machine_learning #public_policy #recidivism
+**Tags**: #human_vs_algorithm #job_hiring #machine_learning #public_policy #recidivism #postdoc_signaling_edovo 
 ## Abstract
 In the United States, the use of criminal history information in employment decision-making is ubiquitous. However, employers' decision-making about job candidates' criminal records is often nontransparent and inconsistent, with disproportionate negative effects on Black and Hispanic Americans. Here, we consider whether statistical models can produce a more accurate, interpretable, and fair assessment of the recidivism risk of job candidates with criminal records relative to current approaches. We review existing approaches and policy guidance on the use of criminal records in employment decision-making. Then, using data from seven states from the Criminal Justice Administrative Records System (CJARS), spanning 1992–2021, we build a Cox proportional hazards model to predict the risk of recidivism based on a job candidate's criminal record. We assess the predictive performance, fairness, and generalizability of this model. We find that our candidate model outperforms some existing approaches, although challenges remain in the domains of fairness and usability in practice.
 ## Research Questions
