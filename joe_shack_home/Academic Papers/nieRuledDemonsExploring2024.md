@@ -98,6 +98,5 @@ Beliefs in supernatural evils are prevalent among many religions. Prior research
 * Used [[Ordered Logistic Regression]] however the parallel line assumption failed.
 * As a result, they used [[Ordinary Least Squares Regression]].
 * No survey weights used although I do not understand why.
-
 ## Criticisms
 1. Some strange results from the models concerning the control variables. E.g., the higher your education, the more likely you are to have favorable views of Trump. The more religious you are, the more likely you are to have positive views of both Trump and Biden. Christian Nationalism had no relationship with views on Biden.
